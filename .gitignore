@@ -1,7 +1,12 @@
 *.class
+*.log
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
+
+# IntelliJ files and directories
+.idea
+*.iml
 
 # Package Files #
 *.jar
@@ -10,3 +15,5 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+
+!dist/ppi-uploader-0.1.0.jar
