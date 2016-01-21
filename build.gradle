@@ -60,14 +60,6 @@ configurations {
     compile.exclude group: 'commons-logging', module: 'commons-logging'
 }
 
-jar {
-    manifest {
-        attributes(
-                'Class-Path': '.'
-        )
-    }
-}
-
 license {
     header project.file('HEADER')
     strictCheck true
