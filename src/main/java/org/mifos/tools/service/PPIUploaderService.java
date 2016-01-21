@@ -14,26 +14,24 @@ import org.mifos.tools.rest.data.LookupTable;
 import org.mifos.tools.rest.data.Survey;
 import org.mifos.tools.util.PPIUploaderConstant;
 import org.slf4j.Logger;
-import org.springframework.beans.BeansException;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.context.ApplicationContext;
-import org.springframework.context.ApplicationContextAware;
+import org.springframework.context.ResourceLoaderAware;
 import org.springframework.core.io.Resource;
+import org.springframework.core.io.ResourceLoader;
 import org.springframework.stereotype.Service;
 
-import java.nio.file.Files;
-import java.nio.file.Paths;
+import java.io.InputStreamReader;
 import java.util.List;
 import java.util.Properties;
 
 @Service
-public class PPIUploaderService implements ApplicationContextAware {
+public class PPIUploaderService implements ResourceLoaderAware {
 
     private final Logger logger;
     private final Gson gson;
     private final RestAdapterProvider restAdapterProvider;
 
-    private ApplicationContext applicationContext;
+    private ResourceLoader resourceLoader;
 
     @Autowired
     public PPIUploaderService(final Logger logger,
@@ -65,11 +63,11 @@ public class PPIUploaderService implements ApplicationContextAware {
     }
 
     private boolean uploadSurvey(final Properties properties, final MifosRestResource restResource, final String countryCode) {
-        final Resource surveyResource = this.applicationContext.getResource("classpath:template/" + countryCode.toUpperCase() + "/survey.json");
+        final Resource surveyResource = this.resourceLoader.getResource("classpath:template/" + countryCode.toUpperCase() + "/survey.json");
 
         if (surveyResource.exists()) {
             try {
-                final JsonReader reader = new JsonReader(Files.newBufferedReader(Paths.get(surveyResource.getURI())));
+                final JsonReader reader = new JsonReader(new InputStreamReader(surveyResource.getInputStream()));
                 final Survey survey = this.gson.fromJson(reader, Survey.class);
                 restResource.createSurvey(
                         this.authToken(properties),
@@ -89,11 +87,11 @@ public class PPIUploaderService implements ApplicationContextAware {
     }
 
     private void uploadLookupTable(final Properties properties, final MifosRestResource restResource, final String countryCode, final Long surveyId) {
-        final Resource lookupTableResource = this.applicationContext.getResource("classpath:template/" + countryCode.toUpperCase() + "/lookuptable.json");
+        final Resource lookupTableResource = this.resourceLoader.getResource("classpath:template/" + countryCode.toUpperCase() + "/lookuptable.json");
 
         if (lookupTableResource.exists()) {
             try {
-                final JsonReader reader = new JsonReader(Files.newBufferedReader(Paths.get(lookupTableResource.getURI())));
+                final JsonReader reader = new JsonReader(new InputStreamReader(lookupTableResource.getInputStream()));
                 final List<LookupTable> lookupTables = this.gson.fromJson(reader, new TypeToken<List<LookupTable>>(){}.getType());
                 if (lookupTables != null && !lookupTables.isEmpty()) {
                     for (final LookupTable lookupTable : lookupTables) {
@@ -120,8 +118,7 @@ public class PPIUploaderService implements ApplicationContextAware {
     }
 
     @Override
-    public void setApplicationContext(final ApplicationContext applicationContext)
-            throws BeansException {
-        this.applicationContext = applicationContext;
+    public void setResourceLoader(final ResourceLoader resourceLoader) {
+        this.resourceLoader = resourceLoader;
     }
 }

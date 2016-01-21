@@ -22,12 +22,10 @@ public class RestAdapterProvider {
 
     public RestAdapter get(final Properties properties) {
 
-        final RestAdapter restAdapter = new RestAdapter.Builder()
+        return new RestAdapter.Builder()
                 .setEndpoint(properties.getProperty(PPIUploaderConstant.PROPERTY_URI))
                 .setClient(new OkClient(this.createClient()))
-                .setLogLevel(RestAdapter.LogLevel.FULL)
                 .build();
-        return restAdapter;
     }
 
     private OkHttpClient createClient() {
@@ -57,6 +55,7 @@ public class RestAdapterProvider {
             ctx = SSLContext.getInstance("TLS");
             ctx.init(null, certs, new SecureRandom());
         } catch (final java.security.GeneralSecurityException ex) {
+            // do nothing, ignore
         }
 
         try {
@@ -70,6 +69,7 @@ public class RestAdapterProvider {
             client.setHostnameVerifier(hostnameVerifier);
             client.setSslSocketFactory(ctx.getSocketFactory());
         } catch (final Exception e) {
+            // do nothing, ignore
         }
 
         return client;
