@@ -1,3 +1,5 @@
+import com.sun.javafx.scene.CameraHelper
+
 group 'org.mifos.tools'
 version '0.1.0'
 
@@ -56,6 +58,14 @@ dependencies {
 
 configurations {
     compile.exclude group: 'commons-logging', module: 'commons-logging'
+}
+
+jar {
+    manifest {
+        attributes(
+                'Class-Path': '.'
+        )
+    }
 }
 
 license {

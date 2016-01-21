@@ -9,35 +9,31 @@ import com.google.gson.Gson;
 import com.google.gson.reflect.TypeToken;
 import com.google.gson.stream.JsonReader;
 import org.mifos.tools.data.Country;
-import org.mifos.tools.rest.data.LookupTable;
-import org.mifos.tools.rest.data.Survey;
 import org.mifos.tools.util.PPIUploaderConstant;
-import org.springframework.beans.BeansException;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
-import org.springframework.context.ApplicationContext;
-import org.springframework.context.ApplicationContextAware;
+import org.springframework.context.ResourceLoaderAware;
 import org.springframework.core.env.Environment;
 import org.springframework.core.io.Resource;
+import org.springframework.core.io.ResourceLoader;
 import org.springframework.stereotype.Service;
 
 import java.io.IOException;
-import java.nio.file.Files;
-import java.nio.file.Paths;
+import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Properties;
 import java.util.Scanner;
 
 @Service
-public class ConsoleReaderService  implements CommandLineRunner, ApplicationContextAware {
+public class ConsoleReaderService  implements CommandLineRunner, ResourceLoaderAware {
 
     private final Environment environment;
     private final Gson gson;
     private final PPIUploaderService ppiUploaderService;
     private final Properties properties;
 
-    private ApplicationContext applicationContext;
+    private ResourceLoader resourceLoader;
 
     private List<Country> countries;
 
@@ -121,10 +117,10 @@ public class ConsoleReaderService  implements CommandLineRunner, ApplicationCont
     private void printCountries() {
         if (this.countries == null) {
             this.countries = new ArrayList<>();
-            final Resource countriesResource = this.applicationContext.getResource("classpath:template/countries.json");
+            final Resource countriesResource = this.resourceLoader.getResource("classpath:template/countries.json");
 
             try {
-                final JsonReader reader = new JsonReader(Files.newBufferedReader(Paths.get(countriesResource.getURI())));
+                final JsonReader reader = new JsonReader(new InputStreamReader(countriesResource.getInputStream()));
                 final List<Country> foundCountries = this.gson.fromJson(reader, new TypeToken<List<Country>>(){}.getType());
                 this.countries.addAll(foundCountries);
             } catch (IOException e) {
@@ -157,8 +153,7 @@ public class ConsoleReaderService  implements CommandLineRunner, ApplicationCont
     }
 
     @Override
-    public void setApplicationContext(final ApplicationContext applicationContext)
-            throws BeansException {
-        this.applicationContext = applicationContext;
+    public void setResourceLoader(final ResourceLoader resourceLoader) {
+        this.resourceLoader = resourceLoader;
     }
 }
