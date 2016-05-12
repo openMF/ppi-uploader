@@ -2,5 +2,9 @@
   {
     "name": "Philippines",
     "countryCode": "PH"
+  },
+  {
+    "name": "South Africa",
+    "countryCode": "ZA"
   }
 ]

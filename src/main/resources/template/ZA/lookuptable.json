@@ -1,0 +1,744 @@
+[
+  {
+    "key": "threshold-national-food",
+    "description": null,
+    "entries": [
+      {
+        "valueFrom": 0,
+        "valueTo": 4,
+        "score": 98.0
+      },
+      {
+        "valueFrom": 5,
+        "valueTo": 9,
+        "score": 95.1
+      },
+      {
+        "valueFrom": 10,
+        "valueTo": 14,
+        "score": 96.3
+      },
+      {
+        "valueFrom": 15,
+        "valueTo": 19,
+        "score": 91.8
+      },
+      {
+        "valueFrom": 20,
+        "valueTo": 24,
+        "score": 81.9
+      },
+      {
+        "valueFrom": 25,
+        "valueTo": 29,
+        "score": 72.9
+      },
+      {
+        "valueFrom": 30,
+        "valueTo": 34,
+        "score": 64.2
+      },
+      {
+        "valueFrom": 35,
+        "valueTo": 39,
+        "score": 39.3
+      },
+      {
+        "valueFrom": 40,
+        "valueTo": 44,
+        "score": 29.6
+      },
+      {
+        "valueFrom": 45,
+        "valueTo": 49,
+        "score": 18.0
+      },
+      {
+        "valueFrom": 50,
+        "valueTo": 54,
+        "score": 5.4
+      },
+      {
+        "valueFrom": 55,
+        "valueTo": 59,
+        "score": 4.2
+      },
+      {
+        "valueFrom": 60,
+        "valueTo": 64,
+        "score": 0.9
+      },
+      {
+        "valueFrom": 65,
+        "valueTo": 69,
+        "score": 0.1
+      },
+      {
+        "valueFrom": 70,
+        "valueTo": 74,
+        "score": 0.0
+      },
+      {
+        "valueFrom": 75,
+        "valueTo": 79,
+        "score": 0.0
+      },
+      {
+        "valueFrom": 80,
+        "valueTo": 84,
+        "score": 0.0
+      },
+      {
+        "valueFrom": 85,
+        "valueTo": 89,
+        "score": 0.0
+      },
+      {
+        "valueFrom": 90,
+        "valueTo": 94,
+        "score": 0.0
+      },
+      {
+        "valueFrom": 95,
+        "valueTo": 100,
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "key": "national-food-poverty",
+    "description": null,
+    "entries": [
+      {
+        "valueFrom": 0,
+        "valueTo": 4,
+        "score": 92.8
+      },
+      {
+        "valueFrom": 5,
+        "valueTo": 9,
+        "score": 87.8
+      },
+      {
+        "valueFrom": 10,
+        "valueTo": 14,
+        "score": 77.0
+      },
+      {
+        "valueFrom": 15,
+        "valueTo": 19,
+        "score": 69.3
+      },
+      {
+        "valueFrom": 20,
+        "valueTo": 24,
+        "score": 50.9
+      },
+      {
+        "valueFrom": 25,
+        "valueTo": 29,
+        "score": 38.3
+      },
+      {
+        "valueFrom": 30,
+        "valueTo": 34,
+        "score": 24.8
+      },
+      {
+        "valueFrom": 35,
+        "valueTo": 39,
+        "score": 15.5
+      },
+      {
+        "valueFrom": 40,
+        "valueTo": 44,
+        "score": 10.3
+      },
+      {
+        "valueFrom": 45,
+        "valueTo": 49,
+        "score": 4.8
+      },
+      {
+        "valueFrom": 50,
+        "valueTo": 54,
+        "score": 1.1
+      },
+      {
+        "valueFrom": 55,
+        "valueTo": 59,
+        "score": 0.1
+      },
+      {
+        "valueFrom": 60,
+        "valueTo": 64,
+        "score": 0.4
+      },
+      {
+        "valueFrom": 65,
+        "valueTo": 69,
+        "score": 0.0
+      },
+      {
+        "valueFrom": 70,
+        "valueTo": 74,
+        "score": 0.0
+      },
+      {
+        "valueFrom": 75,
+        "valueTo": 79,
+        "score": 0.0
+      },
+      {
+        "valueFrom": 80,
+        "valueTo": 84,
+        "score": 0.0
+      },
+      {
+        "valueFrom": 85,
+        "valueTo": 89,
+        "score": 0.0
+      },
+      {
+        "valueFrom": 90,
+        "valueTo": 94,
+        "score": 0.0
+      },
+      {
+        "valueFrom": 95,
+        "valueTo": 100,
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "key": "usaid-extreme-poverty",
+    "description": null,
+    "entries": [
+      {
+        "valueFrom": 0,
+        "valueTo": 4,
+        "score": 78.9
+      },
+      {
+        "valueFrom": 5,
+        "valueTo": 9,
+        "score": 77.5
+      },
+      {
+        "valueFrom": 10,
+        "valueTo": 14,
+        "score": 54.7
+      },
+      {
+        "valueFrom": 15,
+        "valueTo": 19,
+        "score": 51.4
+      },
+      {
+        "valueFrom": 20,
+        "valueTo": 24,
+        "score": 37.9
+      },
+      {
+        "valueFrom": 25,
+        "valueTo": 29,
+        "score": 29.5
+      },
+      {
+        "valueFrom": 30,
+        "valueTo": 34,
+        "score": 18.6
+      },
+      {
+        "valueFrom": 35,
+        "valueTo": 39,
+        "score": 12.6
+      },
+      {
+        "valueFrom": 40,
+        "valueTo": 44,
+        "score": 7.1
+      },
+      {
+        "valueFrom": 45,
+        "valueTo": 49,
+        "score": 3.2
+      },
+      {
+        "valueFrom": 50,
+        "valueTo": 54,
+        "score": 1.0
+      },
+      {
+        "valueFrom": 55,
+        "valueTo": 59,
+        "score": 0.1
+      },
+      {
+        "valueFrom": 60,
+        "valueTo": 64,
+        "score": 0.4
+      },
+      {
+        "valueFrom": 65,
+        "valueTo": 69,
+        "score": 0.0
+      },
+      {
+        "valueFrom": 70,
+        "valueTo": 74,
+        "score": 0.0
+      },
+      {
+        "valueFrom": 75,
+        "valueTo": 79,
+        "score": 0.0
+      },
+      {
+        "valueFrom": 80,
+        "valueTo": 84,
+        "score": 0.0
+      },
+      {
+        "valueFrom": 85,
+        "valueTo": 89,
+        "score": 0.0
+      },
+      {
+        "valueFrom": 90,
+        "valueTo": 94,
+        "score": 0.0
+      },
+      {
+        "valueFrom": 95,
+        "valueTo": 100,
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "key": "upper",
+    "description": null,
+    "entries": [
+      {
+        "valueFrom": 0,
+        "valueTo": 4,
+        "score": 100.0
+      },
+      {
+        "valueFrom": 5,
+        "valueTo": 9,
+        "score": 100.0
+      },
+      {
+        "valueFrom": 10,
+        "valueTo": 14,
+        "score": 99.6
+      },
+      {
+        "valueFrom": 15,
+        "valueTo": 19,
+        "score": 98.6
+      },
+      {
+        "valueFrom": 20,
+        "valueTo": 24,
+        "score": 97.2
+      },
+      {
+        "valueFrom": 25,
+        "valueTo": 29,
+        "score": 93.8
+      },
+      {
+        "valueFrom": 30,
+        "valueTo": 34,
+        "score": 92.6
+      },
+      {
+        "valueFrom": 35,
+        "valueTo": 39,
+        "score": 77.2
+      },
+      {
+        "valueFrom": 40,
+        "valueTo": 44,
+        "score": 73.8
+      },
+      {
+        "valueFrom": 45,
+        "valueTo": 49,
+        "score": 53.9
+      },
+      {
+        "valueFrom": 50,
+        "valueTo": 54,
+        "score": 27.9
+      },
+      {
+        "valueFrom": 55,
+        "valueTo": 59,
+        "score": 24.3
+      },
+      {
+        "valueFrom": 60,
+        "valueTo": 64,
+        "score": 11.0
+      },
+      {
+        "valueFrom": 65,
+        "valueTo": 69,
+        "score": 4.7
+      },
+      {
+        "valueFrom": 70,
+        "valueTo": 74,
+        "score": 1.4
+      },
+      {
+        "valueFrom": 75,
+        "valueTo": 79,
+        "score": 0.0
+      },
+      {
+        "valueFrom": 80,
+        "valueTo": 84,
+        "score": 0.0
+      },
+      {
+        "valueFrom": 85,
+        "valueTo": 89,
+        "score": 0.0
+      },
+      {
+        "valueFrom": 90,
+        "valueTo": 94,
+        "score": 0.0
+      },
+      {
+        "valueFrom": 95,
+        "valueTo": 100,
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "key": "125-2005-ppp",
+    "description": null,
+    "entries": [
+      {
+        "valueFrom": 0,
+        "valueTo": 4,
+        "score": 76.3
+      },
+      {
+        "valueFrom": 5,
+        "valueTo": 9,
+        "score": 55.6
+      },
+      {
+        "valueFrom": 10,
+        "valueTo": 14,
+        "score": 40.5
+      },
+      {
+        "valueFrom": 15,
+        "valueTo": 19,
+        "score": 30.2
+      },
+      {
+        "valueFrom": 20,
+        "valueTo": 24,
+        "score": 21.6
+      },
+      {
+        "valueFrom": 25,
+        "valueTo": 29,
+        "score": 12.6
+      },
+      {
+        "valueFrom": 30,
+        "valueTo": 34,
+        "score": 5.1
+      },
+      {
+        "valueFrom": 35,
+        "valueTo": 39,
+        "score": 4.4
+      },
+      {
+        "valueFrom": 40,
+        "valueTo": 44,
+        "score": 2.0
+      },
+      {
+        "valueFrom": 45,
+        "valueTo": 49,
+        "score": 1.0
+      },
+      {
+        "valueFrom": 50,
+        "valueTo": 54,
+        "score": 0.4
+      },
+      {
+        "valueFrom": 55,
+        "valueTo": 59,
+        "score": 0.0
+      },
+      {
+        "valueFrom": 60,
+        "valueTo": 64,
+        "score": 0.0
+      },
+      {
+        "valueFrom": 65,
+        "valueTo": 69,
+        "score": 0.0
+      },
+      {
+        "valueFrom": 70,
+        "valueTo": 74,
+        "score": 0.0
+      },
+      {
+        "valueFrom": 75,
+        "valueTo": 79,
+        "score": 0.0
+      },
+      {
+        "valueFrom": 80,
+        "valueTo": 84,
+        "score": 0.0
+      },
+      {
+        "valueFrom": 85,
+        "valueTo": 89,
+        "score": 0.0
+      },
+      {
+        "valueFrom": 90,
+        "valueTo": 94,
+        "score": 0.0
+      },
+      {
+        "valueFrom": 95,
+        "valueTo": 100,
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "key": "2.50-2005-ppp",
+    "description": null,
+    "entries": [
+      {
+        "valueFrom": 0,
+        "valueTo": 4,
+        "score": 95.9
+      },
+      {
+        "valueFrom": 5,
+        "valueTo": 9,
+        "score": 92.9
+      },
+      {
+        "valueFrom": 10,
+        "valueTo": 14,
+        "score": 92.5
+      },
+      {
+        "valueFrom": 15,
+        "valueTo": 19,
+        "score": 82.9
+      },
+      {
+        "valueFrom": 20,
+        "valueTo": 24,
+        "score": 70.1
+      },
+      {
+        "valueFrom": 25,
+        "valueTo": 29,
+        "score": 60.2
+      },
+      {
+        "valueFrom": 30,
+        "valueTo": 34,
+        "score": 45.4
+      },
+      {
+        "valueFrom": 35,
+        "valueTo": 39,
+        "score": 28.5
+      },
+      {
+        "valueFrom": 40,
+        "valueTo": 44,
+        "score": 20.3
+      },
+      {
+        "valueFrom": 45,
+        "valueTo": 49,
+        "score": 10.4
+      },
+      {
+        "valueFrom": 50,
+        "valueTo": 54,
+        "score": 2.6
+      },
+      {
+        "valueFrom": 55,
+        "valueTo": 59,
+        "score": 1.1
+      },
+      {
+        "valueFrom": 60,
+        "valueTo": 64,
+        "score": 0.4
+      },
+      {
+        "valueFrom": 65,
+        "valueTo": 69,
+        "score": 0.1
+      },
+      {
+        "valueFrom": 70,
+        "valueTo": 74,
+        "score": 0.0
+      },
+      {
+        "valueFrom": 75,
+        "valueTo": 79,
+        "score": 0.0
+      },
+      {
+        "valueFrom": 80,
+        "valueTo": 84,
+        "score": 0.0
+      },
+      {
+        "valueFrom": 85,
+        "valueTo": 89,
+        "score": 0.0
+      },
+      {
+        "valueFrom": 90,
+        "valueTo": 94,
+        "score": 0.0
+      },
+      {
+        "valueFrom": 95,
+        "valueTo": 100,
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "key": "4.00-2005-national",
+    "description": null,
+    "entries": [
+      {
+        "valueFrom": 0,
+        "valueTo": 4,
+        "score": 100.0
+      },
+      {
+        "valueFrom": 5,
+        "valueTo": 9,
+        "score": 97.6
+      },
+      {
+        "valueFrom": 10,
+        "valueTo": 14,
+        "score": 99.1
+      },
+      {
+        "valueFrom": 15,
+        "valueTo": 19,
+        "score": 96.7
+      },
+      {
+        "valueFrom": 20,
+        "valueTo": 24,
+        "score": 94.7
+      },
+      {
+        "valueFrom": 25,
+        "valueTo": 29,
+        "score": 89.6
+      },
+      {
+        "valueFrom": 30,
+        "valueTo": 34,
+        "score": 81.6
+      },
+      {
+        "valueFrom": 35,
+        "valueTo": 39,
+        "score": 58.4
+      },
+      {
+        "valueFrom": 40,
+        "valueTo": 44,
+        "score": 47.9
+      },
+      {
+        "valueFrom": 45,
+        "valueTo": 49,
+        "score": 36.1
+      },
+      {
+        "valueFrom": 50,
+        "valueTo": 54,
+        "score": 13.7
+      },
+      {
+        "valueFrom": 55,
+        "valueTo": 59,
+        "score": 10.4
+      },
+      {
+        "valueFrom": 60,
+        "valueTo": 64,
+        "score": 5.0
+      },
+      {
+        "valueFrom": 65,
+        "valueTo": 69,
+        "score": 0.4
+      },
+      {
+        "valueFrom": 70,
+        "valueTo": 74,
+        "score": 0.0
+      },
+      {
+        "valueFrom": 75,
+        "valueTo": 79,
+        "score": 0.0
+      },
+      {
+        "valueFrom": 80,
+        "valueTo": 84,
+        "score": 0.0
+      },
+      {
+        "valueFrom": 85,
+        "valueTo": 89,
+        "score": 0.0
+      },
+      {
+        "valueFrom": 90,
+        "valueTo": 94,
+        "score": 0.0
+      },
+      {
+        "valueFrom": 95,
+        "valueTo": 100,
+        "score": 0.0
+      }
+    ]
+  }
+]

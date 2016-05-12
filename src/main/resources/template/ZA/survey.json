@@ -1,0 +1,252 @@
+{
+  "key":"ppi-south-africa-2009",
+  "name":"PPI Survey for South Africa, version 2009",
+  "description":null,
+  "countryCode":"ZA",
+  "validFrom":null,
+  "validTo":null,
+  "componentDatas": null,
+  "questionDatas":
+  [
+    {
+      "componentKey":null,
+      "key":"household-members",
+      "text":"How many members does the household have?",
+      "description":null,
+      "sequenceNo":1,
+      "responseDatas":
+      [
+        {
+          "text":"A. Seven or more",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Six",
+          "value":7,
+          "sequenceNo":2
+        },
+        {
+          "text":"C. Five",
+          "value":10,
+          "sequenceNo":3
+        },
+        {
+          "text":"D. Four",
+          "value":14,
+          "sequenceNo":4
+        },
+        {
+          "text":"E. Three",
+          "value":19,
+          "sequenceNo":5
+        },
+        {
+          "text":"F. Two",
+          "value":27,
+          "sequenceNo":6
+        },
+        {
+          "text":"G. One",
+          "value":37,
+          "sequenceNo":7
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"household-main-income",
+      "text":"How many household members' main income is from salaries and wages, net profit from business or professional practice/activities, or commercial farming?",
+      "description":null,
+      "sequenceNo":2,
+      "responseDatas":
+      [
+        {
+          "text":"A. None",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. One",
+          "value":5,
+          "sequenceNo":2
+        },
+        {
+          "text":"C. Two or more",
+          "value":10,
+          "sequenceNo":3
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"rooms-dwelling-unit",
+      "text":"How many rooms are in the dwelling unit, including bedrooms, living rooms, dining rooms, kitchens, and bathrooms, etc.?",
+      "description":null,
+      "sequenceNo":3,
+      "responseDatas":
+      [
+        {
+          "text":"A. Four or less",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Five or six",
+          "value":4,
+          "sequenceNo":2
+        },
+        {
+          "text":"C. Seven or more",
+          "value":8,
+          "sequenceNo":3
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"roof-material",
+      "text":"What is the main material used for the roof of the main dwelling?",
+      "description":null,
+      "sequenceNo":4,
+      "responseDatas":
+      [
+        {
+          "text":"A. Bricks, cement block/concrete, corrugated iron/zinc, wood, plastic, cardboard, mixture of mud and cement, wattle and daub, mud, thatching, asbestos, or other",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Tile",
+          "value":7,
+          "sequenceNo":2
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"toilet-facility",
+      "text":"What type of toilet facility is available for this household?",
+      "description":null,
+      "sequenceNo":5,
+      "responseDatas":
+      [
+        {
+          "text":"A. Pit latrine off-site with or without ventilation pipe, bucket toilet off-site, none, or other",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Pit latrine on-site with or without ventilation pipe, or bucket toilet on-site",
+          "value":4,
+          "sequenceNo":2
+        },
+        {
+          "text":"C. Flush toilet in dwelling/on-site/off-site with off-site/on-site disposal (septic tank) or chemical toilet on-site or off-site",
+          "value":7,
+          "sequenceNo":3
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"cooking-energy-fuel",
+      "text":"What is the main source of cooking energy/fuel for this household?",
+      "description":null,
+      "sequenceNo":6,
+      "responseDatas":
+      [
+        {
+          "text":"A. Paraffin, coal, wood, animal dung, none, or other",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Electricity from mains/generator/solar, or gas",
+          "value":5,
+          "sequenceNo":2
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"washing-machine",
+      "text":"Does the household own a washing machine?",
+      "description":null,
+      "sequenceNo":7,
+      "responseDatas":
+      [
+        {
+          "text":"A. No",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Yes",
+          "value":9,
+          "sequenceNo":2
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"videocassette-dvd",
+      "text":"Does the household own a videocassette recorder/DVD?",
+      "description":null,
+      "sequenceNo":8,
+      "responseDatas":
+      [
+        {
+          "text":"A. No",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Yes",
+          "value":7,
+          "sequenceNo":2
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"microwave",
+      "text":"Does the household own a microwave?",
+      "description":null,
+      "sequenceNo":9,
+      "responseDatas":
+      [
+        {
+          "text":"A. No",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Yes",
+          "value":6,
+          "sequenceNo":2
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"refrigerator-freezer",
+      "text":"Does the household own a refrigerator or freezer?",
+      "description":null,
+      "sequenceNo":10,
+      "responseDatas":
+      [
+        {
+          "text":"A. No",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Yes",
+          "value":4,
+          "sequenceNo":2
+        }
+      ]
+    }
+  ]
+}
