@@ -1,0 +1,277 @@
+{
+  "key":"ppi-Mexico-2008",
+  "name":"PPI Survey for Ghana, version 2012",
+  "description":null,
+  "countryCode":"GH",
+  "validFrom":null,
+  "validTo":null,
+  "componentDatas": null,
+  "questionDatas":
+  [
+    {
+      "componentKey":null,
+      "key":"household-members",
+      "text":"How many household members are ages 0 to 17?",
+      "description":null,
+      "sequenceNo":1,
+      "responseDatas":
+      [
+        {
+          "text":"A. Four or more",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Three",
+          "value":7,
+          "sequenceNo":2
+        },
+        {
+          "text":"C. Two",
+          "value":11,
+          "sequenceNo":3
+        },
+        {
+          "text":"D. One",
+          "value":20,
+          "sequenceNo":4
+        },
+        {
+          "text":"E. None",
+          "value":28,
+          "sequenceNo":5
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"Female-Education",
+      "text":"What is the highest level that the female head/ spouse has passed in school?",
+      "description":null,
+      "sequenceNo":2,
+      "responseDatas":
+      [
+        {
+          "text":"A. None",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Up to third grade",
+          "value":5,
+          "sequenceNo":2
+        },
+        {
+          "text":"C. Fourth grade through high school",
+          "value":7,
+          "sequenceNo":3
+        },
+        {
+          "text":"D. College preparatory 1-3",
+          "value":10,
+          "sequenceNo":4
+        },
+        {
+          "text":"E. Normal/technical/commercial",
+          "value":14,
+          "sequenceNo":5
+        },
+       {
+          "text":"F. Professional, master’s or doctorate",
+          "value":20,
+          "sequenceNo":6
+        },
+       {
+          "text":"G. No female head/spouse",
+          "value":14,
+          "sequenceNo":7
+        },
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"Household-Members-Have-Contracts",
+      "text":"How many household members have a written employment contract for a salary or for an indefinite period?",
+      "description":null,
+      "sequenceNo":3,
+      "responseDatas":
+      [
+        {
+          "text":"A. None",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. One",
+          "value":6,
+          "sequenceNo":2
+        },
+        {
+          "text":"C. Two or more",
+          "value":16,
+          "sequenceNo":3
+        },
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"Floor-Material",
+      "text":"What is the main material of the floor of this residence?",
+      "description":null,
+      "sequenceNo":4,
+      "responseDatas":
+      [
+        {
+          "text":"A. Dirt",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Cement/concrete",
+          "value":2,
+          "sequenceNo":2
+        },
+       {
+          "text":"C. Other",
+          "value":7,
+          "sequenceNo":3
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"Toilet-Flushing",
+      "text":"How is water supplied to the residence’s toilet for flushing?",
+      "description":null,
+      "sequenceNo":5,
+      "responseDatas":
+      [
+        {
+          "text":"A. No toilet, or no water supply",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Carried by bucket",
+          "value":1,
+          "sequenceNo":2
+        },
+        {
+          "text":"C. Piped",
+          "value":3,
+          "sequenceNo":3
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"Sink",
+      "text":"Does the residence have a medium sink for washing dishes?",
+      "description":null,
+      "sequenceNo":6,
+      "responseDatas":
+      [
+        {
+          "text":"A. No",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Yes",
+          "value":4,
+          "sequenceNo":2
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"Fuel",
+      "text":"What fuel do you usually use to cook or heat food?",
+      "description":null,
+      "sequenceNo":7,
+      "responseDatas":
+      [
+        {
+          "text":"A. Firewood",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Other",
+          "value":2,
+          "sequenceNo":2
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"Blender",
+      "text":"Does the household have a blender?",
+      "description":null,
+      "sequenceNo":8,
+      "responseDatas":
+      [
+        {
+          "text":"A. No",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Yes",
+          "value":4,
+          "sequenceNo":2
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"Electric-Iron",
+      "text":"Does the household have an electric iron?",
+      "description":null,
+      "sequenceNo":9,
+      "responseDatas":
+      [
+        {
+          "text":"A. No",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Yes",
+          "value":4,
+          "sequenceNo":2
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"Television",
+      "text":"How many televisions does the household have?",
+      "description":null,
+      "sequenceNo":10,
+      "responseDatas":
+      [
+        {
+          "text":"A. None",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. One",
+          "value":0,
+          "sequenceNo":2
+        },
+        {
+          "text":"C. Two",
+          "value":5,
+          "sequenceNo":3
+        },
+       {
+          "text":"D. Three or more",
+          "value":12,
+          "sequenceNo":4
+        }
+      ]
+    }
+  ]
+}
