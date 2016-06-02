@@ -1,0 +1,278 @@
+{
+  "key":"ppi-tajikistan-2007",
+  "name":"PPI Survey for tajikistan, version 2007",
+  "description":null,
+  "countryCode":"PH",
+  "validFrom":null,
+  "validTo":null,
+  "componentDatas": null,
+  "questionDatas":
+  [
+    {
+      "componentKey":null,
+      "key":"household-members",
+      "text":"How many members does the household have?",
+      "description":null,
+      "sequenceNo":1,
+      "responseDatas":
+      [
+        {
+          "text":"A. Eight or more",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Seven",
+          "value":4,
+          "sequenceNo":2
+        },
+        {
+          "text":"C. Six",
+          "value":9,
+          "sequenceNo":3
+        },
+        {
+          "text":"D. Five",
+          "value":13,
+          "sequenceNo":4
+        },
+        {
+          "text":"E. Four",
+          "value":19,
+          "sequenceNo":5
+        },
+        {
+          "text":"F. Three",
+          "value":29,
+          "sequenceNo":6
+        },
+        {
+          "text":"G. One or two",
+          "value":37,
+          "sequenceNo":7
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"children-attend-school",
+      "text":"Do all household members 8- to 17-years-old currently attend (or plan to attend) an educational institution in this academic year?",
+      "description":null,
+      "sequenceNo":2,
+      "responseDatas":
+      [
+        {
+          "text":"A. No",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Yes",
+          "value":1,
+          "sequenceNo":2
+        },
+        {
+          "text":"C. No one 8- to 17-years-old",
+          "value":2,
+          "sequenceNo":3
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"female-education",
+      "text":"What is the highest educational level that the female head/spouse has
+achieved (do not include incomplete levels)?",
+      "description":null,
+      "sequenceNo":3,
+      "responseDatas":
+      [
+        {
+          "text":"A. None, primary (grades 1–4), or basic (grades 1–8(9))",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Secondary general (grades 9–10(11))",
+          "value":3,
+          "sequenceNo":2
+        },
+        {
+          "text":"C. No female head/spouse",
+          "value":7,
+          "sequenceNo":3
+        },
+        {
+          "text":"D. Secondary special, secondary technical, higher education, or graduate school/aspirantura",
+          "value":8,
+          "sequenceNo":4
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"rooms",
+      "text":"How many rooms does the household occupy (excluding any kitchens, balconies, or hallways)?",
+      "description":null,
+      "sequenceNo":4,
+      "responseDatas":
+      [
+        {
+          "text":"A. One",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Two",
+          "value":6,
+          "sequenceNo":2
+        },
+        {
+          "text":"C. Three",
+          "value":8,
+          "sequenceNo":3
+        },
+        {
+          "text":"D. Four",
+          "value":11,
+          "sequenceNo":4
+        },
+       {
+          "text":"E. Five or more",
+          "value":14,
+          "sequenceNo":5
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"wall-materials",
+      "text":"What is the major construction material of the external walls of the residence?",
+      "description":null,
+      "sequenceNo":5,
+      "responseDatas":
+      [
+        {
+          "text":"A. Adobe, mud bricks, wood, logs, tin, or other",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Mud, stone, baked bricks, or concrete",
+          "value":7,
+          "sequenceNo":2
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"shower",
+      "text":"Does the residence have a separate bath/shower?",
+      "description":null,
+      "sequenceNo":6,
+      "responseDatas":
+      [
+        {
+          "text":"A. No",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Yes",
+          "value":6,
+          "sequenceNo":2
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"oven",
+      "text":"Does the household own and use a gas oven, electric oven, or a microwave oven?",
+      "description":null,
+      "sequenceNo":7,
+      "responseDatas":
+      [
+        {
+          "text":"A. No",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Yes",
+          "value":5,
+          "sequenceNo":2
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"electric-iron",
+      "text":"Does the household own and use an electric iron?",
+      "description":null,
+      "sequenceNo":8,
+      "responseDatas":
+      [
+        {
+          "text":"A. No",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Yes",
+          "value":3,
+          "sequenceNo":2
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"television",
+      "text":"Does the household own and use a color television?",
+      "description":null,
+      "sequenceNo":9,
+      "responseDatas":
+      [
+        {
+          "text":"A. No",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Yes",
+          "value":7,
+          "sequenceNo":2
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"livestock",
+      "text":"Does the household currently own any cattle (beef or dairy), or any sheep or goats?",
+      "description":null,
+      "sequenceNo":10,
+      "responseDatas":
+      [
+        {
+          "text":"A. No",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Only sheep or goats",
+          "value":5,
+          "sequenceNo":2
+        },
+        {
+          "text":"C. Only cattle",
+          "value":6,
+          "sequenceNo":3
+        },
+        {
+          "text":"D. Both",
+          "value":11,
+          "sequenceNo":4
+        }
+      ]
+    }
+  ]
+}
