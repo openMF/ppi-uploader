@@ -211,7 +211,113 @@
       }
     ]
   },
-    -- PH Data below---
+  { 
+key: USAID Extreme,
+description: null,
+entries: [
+{ 
+valueFrom: 0,
+valueTo: 4,
+score: 66.7
+}, 
+{ 
+valueFrom: 5,
+valueTo: 9,
+score: 81
+}, 
+{ 
+valueFrom: 10,
+valueTo: 14,
+score: 70.7
+}, 
+{ 
+valueFrom: 15,
+valueTo: 19,
+score: 77.4
+}, 
+{ 
+valueFrom: 20,
+valueTo: 24,
+score: 63.7
+}, 
+{ 
+valueFrom: 25,
+valueTo: 29,
+score: 62.1
+}, 
+{ 
+valueFrom: 30,
+valueTo: 34,
+score: 55.8
+}, 
+{ 
+valueFrom: 35,
+valueTo: 39,
+score: 38.7
+}, 
+{ 
+valueFrom: 40,
+valueTo: 44,
+score: 38.3
+}, 
+{ 
+valueFrom: 45,
+valueTo: 49,
+score: 28.1
+}, 
+{ 
+valueFrom: 50,
+valueTo: 54,
+score: 22.4
+}, 
+{ 
+valueFrom: 55,
+valueTo: 59,
+score: 16.6
+}, 
+{ 
+valueFrom: 60,
+valueTo: 64,
+score: 11.8
+}, 
+{ 
+valueFrom: 65,
+valueTo: 69,
+score: 6.8
+}, 
+{ 
+valueFrom: 70,
+valueTo: 74,
+score: 5.2
+}, 
+{ 
+valueFrom: 75,
+valueTo: 79,
+score: 5.8
+}, 
+{ 
+valueFrom: 80,
+valueTo: 84,
+score: 4.9
+}, 
+{ 
+valueFrom: 85,
+valueTo: 89,
+score: 3.8
+}, 
+{ 
+valueFrom: 90,
+valueTo: 94,
+score: 10.4
+}, 
+{ 
+valueFrom: 95,
+valueTo: 100,
+score: 0
+} 
+] 
+}, 
+
   {
     "key": "225-2005-ppp",
     "description": null,
