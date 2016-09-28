@@ -1,1 +1,325 @@
-test
+[
+{ 
+"key": "Food_Ghana_2012",
+"description": "null",
+"entries": [
+{ 
+"valueFrom": 0,
+"valueTo": 4,
+"score": 70.1
+}, 
+{ 
+"valueFrom": 5,
+"valueTo": 9,
+"score": 70.1
+}, 
+{ 
+"valueFrom": 10,
+"valueTo": 14,
+"score": 46.1
+}, 
+{ 
+"valueFrom": 15,
+"valueTo": 19,
+"score": 34.6
+}, 
+{ 
+"valueFrom": 20,
+"valueTo": 24,
+"score": 26.2
+}, 
+{ 
+"valueFrom": 25,
+"valueTo": 29,
+"score": 18.9
+}, 
+{ 
+"valueFrom": 30,
+"valueTo": 34,
+"score": 13.1
+}, 
+{ 
+"valueFrom": 35,
+"valueTo": 39,
+"score": 6.9
+}, 
+{ 
+"valueFrom": 40,
+"valueTo": 44,
+"score": 4.4
+}, 
+{ 
+"valueFrom": 45,
+"valueTo": 49,
+"score": 1.4
+}, 
+{ 
+"valueFrom": 50,
+"valueTo": 54,
+"score": 0.9
+}, 
+{ 
+"valueFrom": 55,
+"valueTo": 59,
+"score": 0.9
+}, 
+{ 
+"valueFrom": 60,
+"valueTo": 64,
+"score": 0.2
+}, 
+{ 
+"valueFrom": 65,
+"valueTo": 69,
+"score": 0
+}, 
+{ 
+"valueFrom": 70,
+"valueTo": 74,
+"score": 0
+}, 
+{ 
+"valueFrom": 75,
+"valueTo": 79,
+"score": 0
+}, 
+{ 
+"valueFrom": 80,
+"valueTo": 84,
+"score": 0
+}, 
+{ 
+"valueFrom": 85,
+"valueTo": 89,
+"score": 0
+}, 
+{ 
+"valueFrom": 90,
+"valueTo": 94,
+"score": 0
+}, 
+{ 
+"valueFrom": 95,
+"valueTo": 100,
+"score": 0
+} 
+] 
+}, 
+{ 
+"key": "National_Ghana_2012",
+"description": "null",
+"entries": [
+{ 
+"valueFrom": 0,
+"valueTo": 4,
+"score": 91.4
+}, 
+{ 
+"valueFrom": 5,
+"valueTo": 9,
+"score": 91.4
+}, 
+{ 
+"valueFrom": 10,
+"valueTo": 14,
+"score": 75.9
+}, 
+{ 
+"valueFrom": 15,
+"valueTo": 19,
+"score": 66.8
+}, 
+{ 
+"valueFrom": 20,
+"valueTo": 24,
+"score": 63.8
+}, 
+{ 
+"valueFrom": 25,
+"valueTo": 29,
+"score": 53.3
+}, 
+{ 
+"valueFrom": 30,
+"valueTo": 34,
+"score": 40.2
+}, 
+{ 
+"valueFrom": 35,
+"valueTo": 39,
+"score": 29
+}, 
+{ 
+"valueFrom": 40,
+"valueTo": 44,
+"score": 19.6
+}, 
+{ 
+"valueFrom": 45,
+"valueTo": 49,
+"score": 11.7
+}, 
+{ 
+"valueFrom": 50,
+"valueTo": 54,
+"score": 7.2
+}, 
+{ 
+"valueFrom": 55,
+"valueTo": 59,
+"score": 4.3
+}, 
+{ 
+"valueFrom": 60,
+"valueTo": 64,
+"score": 2.2
+}, 
+{ 
+"valueFrom": 65,
+"valueTo": 69,
+"score": 1.1
+}, 
+{ 
+"valueFrom": 70,
+"valueTo": 74,
+"score": 0.8
+}, 
+{ 
+"valueFrom": 75,
+"valueTo": 79,
+"score": 0.3
+}, 
+{ 
+"valueFrom": 80,
+"valueTo": 84,
+"score": 0
+}, 
+{ 
+"valueFrom": 85,
+"valueTo": 89,
+"score": 0
+}, 
+{ 
+"valueFrom": 90,
+"valueTo": 94,
+"score": 0
+}, 
+{ 
+"valueFrom": 95,
+"valueTo": 100,
+"score": 0
+} 
+] 
+}, 
+{ 
+"key": "150% of National_Ghana_2012",
+"description": "null",
+"entries": [
+{ 
+"valueFrom": 0,
+"valueTo": 4,
+"score": 99.1
+}, 
+{ 
+"valueFrom": 5,
+"valueTo": 9,
+"score": 99.1
+}, 
+{ 
+"valueFrom": 10,
+"valueTo": 14,
+"score": 89.3
+}, 
+{ 
+"valueFrom": 15,
+"valueTo": 19,
+"score": 86.9
+}, 
+{ 
+"valueFrom": 20,
+"valueTo": 24,
+"score": 86
+}, 
+{ 
+"valueFrom": 25,
+"valueTo": 29,
+"score": 80.1
+}, 
+{ 
+"valueFrom": 30,
+"valueTo": 34,
+"score": 71.1
+}, 
+{ 
+"valueFrom": 35,
+"valueTo": 39,
+"score": 58.1
+}, 
+{ 
+"valueFrom": 40,
+"valueTo": 44,
+"score": 45.3
+}, 
+{ 
+"valueFrom": 45,
+"valueTo": 49,
+"score": 35.2
+}, 
+{ 
+"valueFrom": 50,
+"valueTo": 54,
+"score": 25.6
+}, 
+{ 
+"valueFrom": 55,
+"valueTo": 59,
+"score": 17.7
+}, 
+{ 
+"valueFrom": 60,
+"valueTo": 64,
+"score": 10.6
+}, 
+{ 
+"valueFrom": 65,
+"valueTo": 69,
+"score": 7.4
+}, 
+{ 
+"valueFrom": 70,
+"valueTo": 74,
+"score": 4.6
+}, 
+{ 
+"valueFrom": 75,
+"valueTo": 79,
+"score": 1.4
+}, 
+{ 
+"valueFrom": 80,
+"valueTo": 84,
+"score": 0.6
+}, 
+{ 
+"valueFrom": 85,
+"valueTo": 89,
+"score": 0.2
+}, 
+{ 
+"valueFrom": 90,
+"valueTo": 94,
+"score": 0
+}, 
+{ 
+"valueFrom": 95,
+"valueTo": 100,
+"score": 0
+} 
+] 
+}, 
+
+
+
+
+
+]
