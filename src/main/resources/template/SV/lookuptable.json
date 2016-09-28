@@ -1,1 +1,855 @@
+[
+  { 
+"key": "375-2008-ppp",
+"description": "null",
+"entries": [
+{ 
+"valueFrom": 0,
+"valueTo": 4,
+"score": 100
+}, 
+{ 
+"valueFrom": 5,
+"valueTo": 9,
+"score": 100
+}, 
+{ 
+"valueFrom": 10,
+"valueTo": 14,
+"score": 100
+}, 
+{ 
+"valueFrom": 15,
+"valueTo": 19,
+"score": 100
+}, 
+{ 
+"valueFrom": 20,
+"valueTo": 24,
+"score": 100
+}, 
+{ 
+"valueFrom": 25,
+"valueTo": 29,
+"score": 99.9
+}, 
+{ 
+"valueFrom": 30,
+"valueTo": 34,
+"score": 99.3
+}, 
+{ 
+"valueFrom": 35,
+"valueTo": 39,
+"score": 98.9
+}, 
+{ 
+"valueFrom": 40,
+"valueTo": 44,
+"score": 94.4
+}, 
+{ 
+"valueFrom": 45,
+"valueTo": 49,
+"score": 93.3
+}, 
+{ 
+"valueFrom": 50,
+"valueTo": 54,
+"score": 90
+}, 
+{ 
+"valueFrom": 55,
+"valueTo": 59,
+"score": 89.5
+}, 
+{ 
+"valueFrom": 60,
+"valueTo": 64,
+"score": 82.5
+}, 
+{ 
+"valueFrom": 65,
+"valueTo": 69,
+"score": 73.4
+}, 
+{ 
+"valueFrom": 70,
+"valueTo": 74,
+"score": 75.8
+}, 
+{ 
+"valueFrom": 75,
+"valueTo": 79,
+"score": 64
+}, 
+{ 
+"valueFrom": 80,
+"valueTo": 84,
+"score": 54.4
+}, 
+{ 
+"valueFrom": 85,
+"valueTo": 89,
+"score": 42.9
+}, 
+{ 
+"valueFrom": 90,
+"valueTo": 94,
+"score": 20.3
+}, 
+{ 
+"valueFrom": 95,
+"valueTo": 100,
+"score": 24.4
+} 
+] 
+}, 
+{ 
+"key": "250-2008-ppp",
+"description": "null",
+"entries": [
+{ 
+"valueFrom": 0,
+"valueTo": 4,
+"score": 100
+}, 
+{ 
+"valueFrom": 5,
+"valueTo": 9,
+"score": 100
+}, 
+{ 
+"valueFrom": 10,
+"valueTo": 14,
+"score": 99.6
+}, 
+{ 
+"valueFrom": 15,
+"valueTo": 19,
+"score": 100
+}, 
+{ 
+"valueFrom": 20,
+"valueTo": 24,
+"score": 99.1
+}, 
+{ 
+"valueFrom": 25,
+"valueTo": 29,
+"score": 97.2
+}, 
+{ 
+"valueFrom": 30,
+"valueTo": 34,
+"score": 96.5
+}, 
+{ 
+"valueFrom": 35,
+"valueTo": 39,
+"score": 94.4
+}, 
+{ 
+"valueFrom": 40,
+"valueTo": 44,
+"score": 88.6
+}, 
+{ 
+"valueFrom": 45,
+"valueTo": 49,
+"score": 85
+}, 
+{ 
+"valueFrom": 50,
+"valueTo": 54,
+"score": 77.4
+}, 
+{ 
+"valueFrom": 55,
+"valueTo": 59,
+"score": 73.3
+}, 
+{ 
+"valueFrom": 60,
+"valueTo": 64,
+"score": 62.3
+}, 
+{ 
+"valueFrom": 65,
+"valueTo": 69,
+"score": 55
+}, 
+{ 
+"valueFrom": 70,
+"valueTo": 74,
+"score": 49.2
+}, 
+{ 
+"valueFrom": 75,
+"valueTo": 79,
+"score": 39.2
+}, 
+{ 
+"valueFrom": 80,
+"valueTo": 84,
+"score": 29.8
+}, 
+{ 
+"valueFrom": 85,
+"valueTo": 89,
+"score": 28.3
+}, 
+{ 
+"valueFrom": 90,
+"valueTo": 94,
+"score": 6.2
+}, 
+{ 
+"valueFrom": 95,
+"valueTo": 100,
+"score": 0
+} 
+] 
+}, 
+{ 
+"key": "125-2008-ppp",
+"description": "null",
+"entries": [
+{ 
+"valueFrom": 0,
+"valueTo": 4,
+"score": 100
+}, 
+{ 
+"valueFrom": 5,
+"valueTo": 9,
+"score": 96.4
+}, 
+{ 
+"valueFrom": 10,
+"valueTo": 14,
+"score": 94.6
+}, 
+{ 
+"valueFrom": 15,
+"valueTo": 19,
+"score": 90.8
+}, 
+{ 
+"valueFrom": 20,
+"valueTo": 24,
+"score": 87.5
+}, 
+{ 
+"valueFrom": 25,
+"valueTo": 29,
+"score": 81.1
+}, 
+{ 
+"valueFrom": 30,
+"valueTo": 34,
+"score": 75.4
+}, 
+{ 
+"valueFrom": 35,
+"valueTo": 39,
+"score": 62.9
+}, 
+{ 
+"valueFrom": 40,
+"valueTo": 44,
+"score": 51.6
+}, 
+{ 
+"valueFrom": 45,
+"valueTo": 49,
+"score": 47.6
+}, 
+{ 
+"valueFrom": 50,
+"valueTo": 54,
+"score": 37.6
+}, 
+{ 
+"valueFrom": 55,
+"valueTo": 59,
+"score": 28.2
+}, 
+{ 
+"valueFrom": 60,
+"valueTo": 64,
+"score": 18.3
+}, 
+{ 
+"valueFrom": 65,
+"valueTo": 69,
+"score": 16.1
+}, 
+{ 
+"valueFrom": 70,
+"valueTo": 74,
+"score": 12.9
+}, 
+{ 
+"valueFrom": 75,
+"valueTo": 79,
+"score": 4.3
+}, 
+{ 
+"valueFrom": 80,
+"valueTo": 84,
+"score": 1
+}, 
+{ 
+"valueFrom": 85,
+"valueTo": 89,
+"score": 0.5
+}, 
+{ 
+"valueFrom": 90,
+"valueTo": 94,
+"score": 0
+}, 
+{ 
+"valueFrom": 95,
+"valueTo": 100,
+"score": 0
+} 
+] 
+}, 
+  { 
+"key": "200% national",
+"description": "null",
+"entries": [
+{ 
+"valueFrom": 0,
+"valueTo": 4,
+"score": 100
+}, 
+{ 
+"valueFrom": 5,
+"valueTo": 9,
+"score": 100
+}, 
+{ 
+"valueFrom": 10,
+"valueTo": 14,
+"score": 99
+}, 
+{ 
+"valueFrom": 15,
+"valueTo": 19,
+"score": 99.3
+}, 
+{ 
+"valueFrom": 20,
+"valueTo": 24,
+"score": 97.6
+}, 
+{ 
+"valueFrom": 25,
+"valueTo": 29,
+"score": 95.4
+}, 
+{ 
+"valueFrom": 30,
+"valueTo": 34,
+"score": 94.4
+}, 
+{ 
+"valueFrom": 35,
+"valueTo": 39,
+"score": 92.3
+}, 
+{ 
+"valueFrom": 40,
+"valueTo": 44,
+"score": 86.7
+}, 
+{ 
+"valueFrom": 45,
+"valueTo": 49,
+"score": 81.9
+}, 
+{ 
+"valueFrom": 50,
+"valueTo": 54,
+"score": 70
+}, 
+{ 
+"valueFrom": 55,
+"valueTo": 59,
+"score": 63.6
+}, 
+{ 
+"valueFrom": 60,
+"valueTo": 64,
+"score": 52.8
+}, 
+{ 
+"valueFrom": 65,
+"valueTo": 69,
+"score": 44.6
+}, 
+{ 
+"valueFrom": 70,
+"valueTo": 74,
+"score": 44.1
+}, 
+{ 
+"valueFrom": 75,
+"valueTo": 79,
+"score": 32.1
+}, 
+{ 
+"valueFrom": 80,
+"valueTo": 84,
+"score": 24.8
+}, 
+{ 
+"valueFrom": 85,
+"valueTo": 89,
+"score": 25.2
+}, 
+{ 
+"valueFrom": 90,
+"valueTo": 94,
+"score": 6.2
+}, 
+{ 
+"valueFrom": 95,
+"valueTo": 100,
+"score": 0
+} 
+] 
+}, 
+  { 
+"key": "150% national",
+"description": "null",
+"entries": [
+{ 
+"valueFrom": 0,
+"valueTo": 4,
+"score": 100
+}, 
+{ 
+"valueFrom": 5,
+"valueTo": 9,
+"score": 100
+}, 
+{ 
+"valueFrom": 10,
+"valueTo": 14,
+"score": 98.1
+}, 
+{ 
+"valueFrom": 15,
+"valueTo": 19,
+"score": 97.5
+}, 
+{ 
+"valueFrom": 20,
+"valueTo": 24,
+"score": 95.8
+}, 
+{ 
+"valueFrom": 25,
+"valueTo": 29,
+"score": 91.3
+}, 
+{ 
+"valueFrom": 30,
+"valueTo": 34,
+"score": 87.5
+}, 
+{ 
+"valueFrom": 35,
+"valueTo": 39,
+"score": 80.3
+}, 
+{ 
+"valueFrom": 40,
+"valueTo": 44,
+"score": 67.3
+}, 
+{ 
+"valueFrom": 45,
+"valueTo": 49,
+"score": 69.3
+}, 
+{ 
+"valueFrom": 50,
+"valueTo": 54,
+"score": 55.1
+}, 
+{ 
+"valueFrom": 55,
+"valueTo": 59,
+"score": 49.5
+}, 
+{ 
+"valueFrom": 60,
+"valueTo": 64,
+"score": 32.5
+}, 
+{ 
+"valueFrom": 65,
+"valueTo": 69,
+"score": 26.3
+}, 
+{ 
+"valueFrom": 70,
+"valueTo": 74,
+"score": 23.8
+}, 
+{ 
+"valueFrom": 75,
+"valueTo": 79,
+"score": 11.5
+}, 
+{ 
+"valueFrom": 80,
+"valueTo": 84,
+"score": 8.4
+}, 
+{ 
+"valueFrom": 85,
+"valueTo": 89,
+"score": 11
+}, 
+{ 
+"valueFrom": 90,
+"valueTo": 94,
+"score": 0
+}, 
+{ 
+"valueFrom": 95,
+"valueTo": 100,
+"score": 0
+} 
+] 
+}, 
+{ 
+"key": "national",
+"description": "null",
+"entries": [
+{ 
+"valueFrom": 0,
+"valueTo": 4,
+"score": 100
+}, 
+{ 
+"valueFrom": 5,
+"valueTo": 9,
+"score": 88.1
+}, 
+{ 
+"valueFrom": 10,
+"valueTo": 14,
+"score": 93.3
+}, 
+{ 
+"valueFrom": 15,
+"valueTo": 19,
+"score": 85.3
+}, 
+{ 
+"valueFrom": 20,
+"valueTo": 24,
+"score": 80.1
+}, 
+{ 
+"valueFrom": 25,
+"valueTo": 29,
+"score": 75
+}, 
+{ 
+"valueFrom": 30,
+"valueTo": 34,
+"score": 69.2
+}, 
+{ 
+"valueFrom": 35,
+"valueTo": 39,
+"score": 56
+}, 
+{ 
+"valueFrom": 40,
+"valueTo": 44,
+"score": 43.5
+}, 
+{ 
+"valueFrom": 45,
+"valueTo": 49,
+"score": 40.4
+}, 
+{ 
+"valueFrom": 50,
+"valueTo": 54,
+"score": 27.5
+}, 
+{ 
+"valueFrom": 55,
+"valueTo": 59,
+"score": 19.3
+}, 
+{ 
+"valueFrom": 60,
+"valueTo": 64,
+"score": 11.8
+}, 
+{ 
+"valueFrom": 65,
+"valueTo": 69,
+"score": 13
+}, 
+{ 
+"valueFrom": 70,
+"valueTo": 74,
+"score": 6.4
+}, 
+{ 
+"valueFrom": 75,
+"valueTo": 79,
+"score": 3.9
+}, 
+{ 
+"valueFrom": 80,
+"valueTo": 84,
+"score": 1
+}, 
+{ 
+"valueFrom": 85,
+"valueTo": 89,
+"score": 0.5
+}, 
+{ 
+"valueFrom": 90,
+"valueTo": 94,
+"score": 0
+}, 
+{ 
+"valueFrom": 95,
+"valueTo": 100,
+"score": 0
+} 
+] 
+}, 
+  { 
+"key": "USAID Extreme",
+"description": "null",
+"entries": [
+{ 
+"valueFrom": 0,
+"valueTo": 4,
+"score": 86.8
+}, 
+{ 
+"valueFrom": 5,
+"valueTo": 9,
+"score": 78.8
+}, 
+{ 
+"valueFrom": 10,
+"valueTo": 14,
+"score": 67.9
+}, 
+{ 
+"valueFrom": 15,
+"valueTo": 19,
+"score": 56.5
+}, 
+{ 
+"valueFrom": 20,
+"valueTo": 24,
+"score": 53.8
+}, 
+{ 
+"valueFrom": 25,
+"valueTo": 29,
+"score": 41.3
+}, 
+{ 
+"valueFrom": 30,
+"valueTo": 34,
+"score": 32.1
+}, 
+{ 
+"valueFrom": 35,
+"valueTo": 39,
+"score": 23.1
+}, 
+{ 
+"valueFrom": 40,
+"valueTo": 44,
+"score": 16.5
+}, 
+{ 
+"valueFrom": 45,
+"valueTo": 49,
+"score": 13.2
+}, 
+{ 
+"valueFrom": 50,
+"valueTo": 54,
+"score": 9.2
+}, 
+{ 
+"valueFrom": 55,
+"valueTo": 59,
+"score": 5.7
+}, 
+{ 
+"valueFrom": 60,
+"valueTo": 64,
+"score": 0.7
+}, 
+{ 
+"valueFrom": 65,
+"valueTo": 69,
+"score": 0.9
+}, 
+{ 
+"valueFrom": 70,
+"valueTo": 74,
+"score": 0.5
+}, 
+{ 
+"valueFrom": 75,
+"valueTo": 79,
+"score": 0.5
+}, 
+{ 
+"valueFrom": 80,
+"valueTo": 84,
+"score": 0
+}, 
+{ 
+"valueFrom": 85,
+"valueTo": 89,
+"score": 0
+}, 
+{ 
+"valueFrom": 90,
+"valueTo": 94,
+"score": 0
+}, 
+{ 
+"valueFrom": 95,
+"valueTo": 100,
+"score": 0
+} 
+] 
+}, 
+  
+ { 
+"key": "Food",
+"description": "null",
+"entries": [
+{ 
+"valueFrom": 0,
+"valueTo": 4,
+"score": 70.3
+}, 
+{ 
+"valueFrom": 5,
+"valueTo": 9,
+"score": 67.9
+}, 
+{ 
+"valueFrom": 10,
+"valueTo": 14,
+"score": 54
+}, 
+{ 
+"valueFrom": 15,
+"valueTo": 19,
+"score": 47.9
+}, 
+{ 
+"valueFrom": 20,
+"valueTo": 24,
+"score": 40.2
+}, 
+{ 
+"valueFrom": 25,
+"valueTo": 29,
+"score": 24.6
+}, 
+{ 
+"valueFrom": 30,
+"valueTo": 34,
+"score": 20.3
+}, 
+{ 
+"valueFrom": 35,
+"valueTo": 39,
+"score": 12.1
+}, 
+{ 
+"valueFrom": 40,
+"valueTo": 44,
+"score": 8.4
+}, 
+{ 
+"valueFrom": 45,
+"valueTo": 49,
+"score": 5.8
+}, 
+{ 
+"valueFrom": 50,
+"valueTo": 54,
+"score": 2.9
+}, 
+{ 
+"valueFrom": 55,
+"valueTo": 59,
+"score": 2.2
+}, 
+{ 
+"valueFrom": 60,
+"valueTo": 64,
+"score": 0.3
+}, 
+{ 
+"valueFrom": 65,
+"valueTo": 69,
+"score": 0.5
+}, 
+{ 
+"valueFrom": 70,
+"valueTo": 74,
+"score": 0.5
+}, 
+{ 
+"valueFrom": 75,
+"valueTo": 79,
+"score": 0
+}, 
+{ 
+"valueFrom": 80,
+"valueTo": 84,
+"score": 0
+}, 
+{ 
+"valueFrom": 85,
+"valueTo": 89,
+"score": 0
+}, 
+{ 
+"valueFrom": 90,
+"valueTo": 94,
+"score": 0
+}, 
+{ 
+"valueFrom": 95,
+"valueTo": 100,
+"score": 0
+} 
+] 
+}, 
+]
+
+
+
 
