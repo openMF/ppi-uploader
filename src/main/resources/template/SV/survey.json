@@ -1,0 +1,262 @@
+{
+	  "key":"ppi-El Salvador-2008",
+	  "name":"PPI Survey for El Salvador, version 2008",
+	  "description":null,
+	  "countryCode":"SV",
+	  "validFrom":null,
+	  "validTo":null,
+	  "componentDatas": null,
+	  "questionDatas":
+	  [
+	    {
+	      "componentKey":null,
+	      "key":"household-members 17 or younger",
+	      "text":"How many household members are 17- years-old or younger? ",
+	      "description":null,
+	      "sequenceNo":1,
+	      "responseDatas":
+	      [
+	        {
+	          "text":"A. Four or more",
+	          "value":0,
+	          "sequenceNo":1
+	        },
+	        {
+	          "text":"B. Three",
+	          "value":5,
+	          "sequenceNo":2
+	        },
+	        {
+	          "text":"C. Two",
+	          "value":10,
+	          "sequenceNo":3
+	        },
+	        {
+	          "text":"D. One",
+	          "value":19,
+	          "sequenceNo":4
+	        },
+	        {
+	          "text":"E. None",
+	          "value":27,
+	          "sequenceNo":5
+	        }
+	      ]
+	    },
+	    {
+	      "componentKey":null,
+	      "key":"rooms does the household",
+	      "text":"Not counting bathrooms, kitchen, hallways, or garage, how many rooms does the household have for its own use? ",
+	      "description":null,
+	      "sequenceNo":2,
+	      "responseDatas":
+	      [
+	        {
+	          "text":"A. One",
+	          "value":0,
+	          "sequenceNo":1
+	        },
+	        {
+	          "text":"B. Two",
+	          "value":3,
+	          "sequenceNo":2
+	        },
+	        {
+	          "text":"C. Three",
+	          "value":4,
+	          "sequenceNo":3
+	        },
+		 {
+	          "text":"D. Four",
+	          "value":12,
+	          "sequenceNo":4
+	        },
+		  {
+	          "text":"E. Five or more",
+	          "value":15,
+	          "sequenceNo":5
+	        }
+	      ]
+	    },
+	    {
+	      "componentKey":null,
+	      "key":"salaried employees",
+	      "text":"How many household members are salaried employees (be they temporary or permanent)? ,
+	      "description":null,
+	      "sequenceNo":3,
+	      "responseDatas":
+	      [
+	        {
+	          "text":"A. None",
+	          "value":0,
+	          "sequenceNo":1
+	        },
+	        {
+	          "text":"B. One",
+	          "value":7,
+	          "sequenceNo":2
+	        },
+	        {
+	          "text":"C. Two or more",
+	          "value":18,
+	          "sequenceNo":3
+	        }
+	      ]
+	    },
+	    {
+	      "componentKey":null,
+	      "key":"female head/spouse work",
+	      "text":"Last week, did the female head/spouse do any work (not counting household chores)? ",
+	      "description":null,
+	      "sequenceNo":4,
+	      "responseDatas":
+	      [
+	        {
+	          "text":"A. No",
+	          "value":0,
+	          "sequenceNo":1
+	        },
+	        {
+	          "text":"B. Yes",
+	          "value":8,
+	          "sequenceNo":2
+	        },
+	        {
+	          "text":"C. There is no female head/spouse",
+	          "value":10,
+	          "sequenceNo":3
+	        }
+	      ]
+	    },
+	    {
+	      "componentKey":null,
+	      "key":" What is the main fuel used for cooking? ",
+	      "text":" What is the main fuel used for cooking?",
+	      "description":null,
+	      "sequenceNo":5,
+	      "responseDatas":
+	      [
+	        {
+	          "text":"A. Firewood, charcoal, kerosene, or other",
+	          "value":0,
+	          "sequenceNo":1
+	        },
+	        {
+	          "text":"B. Propane, electricity, or does not cook ",
+	          "value":7,
+	          "sequenceNo":2
+	        }
+	      ]
+	    },
+	    {
+	      "componentKey":null,
+	      "key":"refrigerator",
+	      "text":"Does the household have a refrigerator?",
+	      "description":null,
+	      "sequenceNo":6,
+	      "responseDatas":
+	      [
+	        {
+	          "text":"A. No",
+	          "value":0,
+	          "sequenceNo":1
+	        },
+	        {
+	          "text":"B. Yes",
+	          "value":4,
+	          "sequenceNo":2
+	        }
+	      ]
+	    },
+	    {
+	      "componentKey":null,
+	      "key":"blender? ",
+	      "text":"Does the household have a blender? ",
+	      "description":null,
+	      "sequenceNo":7,
+	      "responseDatas":
+	      [
+	        {
+	          "text":"A. No",
+	          "value":0,
+	          "sequenceNo":1
+	        },
+	        {
+	          "text":"B. Yes",
+	          "value":3,
+	          "sequenceNo":2
+	        }
+	      ]
+	    },
+	    {
+	      "componentKey":null,
+	      "key":"TV VCR DVD",
+	      "text":"Does the household have a television and/or a VCR or DVD? ",
+	      "description":null,
+	      "sequenceNo":8,
+	      "responseDatas":
+	      [
+	        {
+	          "text":"A. None",
+	          "value":0,
+	          "sequenceNo":1
+	        },
+	        {
+	          "text":"B. Only a television, or a VCR or DVD ",
+	          "value":1,
+	          "sequenceNo":2
+	        },
+	        {
+	          "text":"C. Both a television and a VCR or DVD ",
+	          "value":6,
+	          "sequenceNo":3
+	        }
+	      ]
+	    },
+	    {
+	      "componentKey":null,
+	      "key":"stereo system",
+	      "text":"Does the household have a radio and/or a stereo system? ",
+	      "description":null,
+	      "sequenceNo":9,
+	      "responseDatas":
+	      [
+	        {
+	          "text":"A. None",
+	          "value":0,
+	          "sequenceNo":1
+	        },
+	        {
+	          "text":"B. Only a radio, or only a stereo system",
+	          "value":1,
+	          "sequenceNo":2
+	        },
+	        {
+	          "text":"C. Both a radio and a stereo system",
+	          "value":4,
+	          "sequenceNo":3
+	        }
+	      ]
+	    },
+	    {
+	      "componentKey":null,
+	      "key":"Does the household have a fan? ",
+	      "text":"Does the household have a fan? ",
+	      "description":null,
+	      "sequenceNo":10,
+	      "responseDatas":
+	      [
+	        {
+	          "text":"A. No",
+	          "value":0,
+	          "sequenceNo":1
+	        },
+	        {
+	          "text":"B. Yes",
+	          "value":6,
+	          "sequenceNo":2
+	        }
+	      ]
+	    }
+	  ]
+	}
