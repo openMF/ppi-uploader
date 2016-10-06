@@ -1,0 +1,257 @@
+ {
+ "key":"ppi-Guatemala-2006",
+  "name":"PPI Survey for Guatemala, version 2006",
+  "description":null,
+  "countryCode":"GT",
+  "validFrom":null,
+  "validTo":null,
+  "componentDatas": null,
+  "questionDatas":
+  [
+    {
+      "componentKey":null,
+      "key":"household-members",
+      "text":"How many household members are aged 13 or younger?",
+      "description":null,
+      "sequenceNo":1,
+      "responseDatas":
+      [
+        {
+          "text":"A. Five or more",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Four",
+          "value":10,
+          "sequenceNo":2
+        },
+        {
+          "text":"C. Three ",
+          "value":12,
+          "sequenceNo":3
+        },
+        {
+          "text":"D. Two",
+          "value":17,
+          "sequenceNo":4
+        },
+        {
+          "text":"E. One",
+          "value":23,
+          "sequenceNo":5
+        },
+        {
+          "text":"F. None",
+          "value":33,
+          "sequenceNo":6
+        },
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"children-attend-school",
+      "text":"Did all children ages 7 to 13 enroll for the current school year? ",
+      "description":null,
+      "sequenceNo":2,
+      "responseDatas":
+      [
+        {
+          "text":"A. No",
+          "value":0,
+          "sequenceNo":1
+          },
+         {
+          "text":"B. No children ages 7 to 13",
+          "value":2,
+          "sequenceNo":2
+        }  
+        {
+          "text":"C. Yes",
+          "value":6,
+          "sequenceNo":3
+        },
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"Female head/spouse read and write",
+      "text":"Can the female head/spouse read and write? ?",
+      "description":null,
+      "sequenceNo":3,
+      "responseDatas":
+      [
+        {
+          "text":"A. No",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Yes",
+          "value":6,
+          "sequenceNo":2
+        },
+        {
+          "text":"C. No female head/spouse ",
+          "value":9,
+          "sequenceNo":3
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"casual laborers",
+      "text":"Do any household members work mainly as casual laborers or domestic workers? ",
+      "description":null,
+      "sequenceNo":4,
+      "responseDatas":
+      [
+        {
+          "text":"A. Yes",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. No",
+          "value":5,
+          "sequenceNo":2
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"main construction material",
+      "text":"What is the main construction material of the residence’s floors? ",
+      "description":null,
+      "sequenceNo":5,
+      "responseDatas":
+      [
+        {
+          "text":"A. Earth, sand, wood, or other ",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Mud bricks or cement slab ",
+          "value":3,
+          "sequenceNo":2
+        },
+        {
+          "text":"C. Formed cement bricks ",
+          "value":9,
+          "sequenceNo":3
+        },
+        {
+          "text":"D. Parquet, granite or ceramic ",
+          "value":15,
+          "sequenceNo":4
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"refrigerator",
+      "text":"Does the household have a refrigerator? ?",
+      "description":null,
+      "sequenceNo":6,
+      "responseDatas":
+      [
+        {
+          "text":"A. No",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Yes",
+          "value":9,
+          "sequenceNo":2
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"Stove?",
+      "text":" Does the household have a gas or electric stove? ",
+      "description":null,
+      "sequenceNo":7,
+      "responseDatas":
+      [
+        {
+          "text":"A. No",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Yes",
+          "value":8,
+          "sequenceNo":2
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"Stone mill?",
+      "text":"Does the household have a stone mill? ",
+      "description":null,
+      "sequenceNo":8,
+      "responseDatas":
+      [
+        {
+          "text":"A. Yes",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. No",
+          "value":3,
+          "sequenceNo":2
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"Iron",
+      "text":" Does the household have an electric iron? ",
+      "description":null,
+      "sequenceNo":9,
+      "responseDatas":
+      [
+        {
+          "text":"A. No",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Yes",
+          "value":8,
+          "sequenceNo":2
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"unskilled labor",
+      "text":"If any household member works mainly in agriculture, animal husbandry, hunting, or fishing, does the household have any cows, bulls, calves, pigs, horses, burros, or mules? ",
+      "description":null,
+      "sequenceNo":10,
+      "responseDatas":
+      [
+        {
+          "text":"A. No",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Yes",
+          "value":3,
+          "sequenceNo":2
+        },
+        {
+          "text":"C. No one works mainly in agriculture ",
+          "value":4,
+          "sequenceNo":3
+        }
+      ]
+    }
+  ]
+}
