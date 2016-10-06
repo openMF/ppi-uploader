@@ -1,8 +1,8 @@
 {
-  "key":"ppi-philippines-2009",
-  "name":"PPI Survey for the Philippines, version 2009",
+  "key":"ppi-Honduras-2007",
+  "name":"PPI Survey for Honduras, version 2007",
   "description":null,
-  "countryCode":"PH",
+  "countryCode":"HN",
   "validFrom":null,
   "validTo":null,
   "componentDatas": null,
