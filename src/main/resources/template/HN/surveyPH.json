@@ -10,80 +10,109 @@
   [
     {
       "componentKey":null,
-      "key":"household-members",
-      "text":"How many members does the household have?",
+      "key":"household-members 14-yearsold",
+      "text":"How many household members are 14-yearsold or younger? ",
       "description":null,
       "sequenceNo":1,
       "responseDatas":
       [
         {
-          "text":"A. Eight or more",
+          "text":"A. Five",
           "value":0,
           "sequenceNo":1
         },
         {
-          "text":"B. Seven",
-          "value":2,
+          "text":"B. Four",
+          "value":11,
           "sequenceNo":2
         },
         {
-          "text":"C. Six",
-          "value":6,
+          "text":"C. Three",
+          "value":14,
           "sequenceNo":3
         },
         {
-          "text":"D. Five",
-          "value":11,
+          "text":"D. Two",
+          "value":16,
           "sequenceNo":4
         },
         {
-          "text":"E. Four",
-          "value":15,
+          "text":"E. One",
+          "value":23,
           "sequenceNo":5
         },
         {
-          "text":"F. Three",
-          "value":21,
+          "text":"F. None",
+          "value":32,
           "sequenceNo":6
-        },
-        {
-          "text":"G. One or two",
-          "value":30,
-          "sequenceNo":7
         }
       ]
     },
     {
       "componentKey":null,
-      "key":"children-attend-school",
-      "text":"Are all household members ages 6 to 17 currently attending school?",
+      "key":"educational level that the female head/spouse",
+      "text":"What is the highest educational level that the female head/spouse has reached?",
       "description":null,
       "sequenceNo":2,
       "responseDatas":
       [
         {
-          "text":"A. No",
+          "text":"A. None, pre-school, or literacy program ",
           "value":0,
           "sequenceNo":1
         },
         {
-          "text":"B. Yes",
-          "value":1,
+          "text":"B. Primary school ",
+          "value":6,
           "sequenceNo":2
         },
         {
-          "text":"C. No one ages 6 to 17",
-          "value":2,
+          "text":"C. No female head/spouse, common cycle, or no data",
+          "value":10,
           "sequenceNo":3
+        },
+        {
+          "text":"D. Diversified or higher ",
+          "value":14,
+          "sequenceNo":4
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"occupation of the male head",
+      "text":"What is the main occupation of the male head/ spouse?",
+      "description":null,
+      "sequenceNo":3,
+      "responseDatas":
+      [
+        {
+          "text":"A. No data or no main occupation",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Farmer, rancher, agricultural worker, or no male head/spouse ",
+          "value":9,
+          "sequenceNo":2
+        },
+        {
+          "text":"C. Shop owner, salesperson, service worker, transport and storage operator, or worker in textiles, construction, mechanics, graphics, chemicals, food processing, etc. ",
+          "value":11,
+          "sequenceNo":3
+        },
+        {
+          "text":"D. Office worker, transportation operator, professional, technician, director, manager, administrator, or related job ",
+          "value":16,
+          "sequenceNo":4
         }
       ]
     },
     {
       "componentKey":null,
-      "key":"worked-past-week",
-      "text":"How many household members did any work for at least one hour in the past week?",
+      "key":"salary",
+      "text":"How many household members receive a salary in their main occupation? ",
       "description":null,
-      "sequenceNo":3,
+      "sequenceNo":4,
       "responseDatas":
       [
         {
@@ -93,82 +122,47 @@
         },
         {
           "text":"B. One",
-          "value":7,
+          "value":3,
           "sequenceNo":2
         },
         {
-          "text":"C. Two",
-          "value":7,
+          "text":"C. Two or more",
+          "value":10,
           "sequenceNo":3
-        },
-        {
-          "text":"D. Three or more",
-          "value":12,
-          "sequenceNo":4
         }
       ]
     },
     {
       "componentKey":null,
-      "key":"unskilled-workers",
-      "text":"In their primary occupation or business in the past week, how many household members were farmers, forestry workers, fishers, laborers, or unskilled workers?",
-      "description":null,
-      "sequenceNo":4,
-      "responseDatas":
-      [
-        {
-          "text":"A. Three or more",
-          "value":0,
-          "sequenceNo":1
-        },
-        {
-          "text":"B. Two",
-          "value":4,
-          "sequenceNo":2
-        },
-        {
-          "text":"C. One",
-          "value":8,
-          "sequenceNo":3
-        },
-        {
-          "text":"D. None",
-          "value":12,
-          "sequenceNo":4
-        }
-      ]
-    },
-    {
-      "componentKey":null,
-      "key":"female-highest-grade",
-      "text":"What is the highest grade completed by the female head/spouse?",
+      "key":"Bedrooms",
+      "text":"How many rooms does the household use as bedrooms? ",
       "description":null,
       "sequenceNo":5,
       "responseDatas":
       [
         {
-          "text":"A. No grade completed, or elementary undergraduate",
+          "text":"A. One",
           "value":0,
           "sequenceNo":1
         },
         {
-          "text":"B. No female head/spouse",
-          "value":2,
+          "text":"B. Two",
+          "value":1,
           "sequenceNo":2
         },
         {
-          "text":"C. Elementary graduate, or high-school undergraduate",
+          "text":"C. ",
           "value":2,
           "sequenceNo":3
         },
         {
-          "text":"D. High-school graduate",
+          "text":"D. Three",
           "value":4,
           "sequenceNo":4
         },
         {
-          "text":"E. College undergraduate, or higher",
-          "value":7,
+          "text":"E. Four or more",
+          "value":5,
           "sequenceNo":5
         }
       ]
@@ -176,43 +170,48 @@
     {
       "componentKey":null,
       "key":"walls-construction-materials",
-      "text":"What type of construction materials are the outer walls made of?",
+      "text":"What is the main construction material of the floors of the residence??",
       "description":null,
       "sequenceNo":6,
       "responseDatas":
       [
         {
-          "text":"A. Salvaged/makeshift materials, mixed but predominantly salvaged materials, light materials (cogon, nipa, anahaw), or mixed but predominantly light materials",
+          "text":"A. Dirt, other, or no data",
           "value":0,
           "sequenceNo":1
         },
         {
-          "text":"B. Mixed but predominantly strong materials",
-          "value":2,
+          "text":"B. Mud bricks, poured concrete, or wood",
+          "value":3,
           "sequenceNo":2
         },
         {
-          "text":"C. Strong materials (galvanized iron, aluminum, tile, concrete, brick, stone, wood, plywood, asbestos)",
-          "value":3,
+          "text":"C.  Cement bricks",
+          "value":4,
           "sequenceNo":3
+        },
+        {
+          "text":"D.  Ceramic tile or granite ",
+          "value":7,
+          "sequenceNo":4
         }
       ]
     },
     {
       "componentKey":null,
-      "key":"sala-sets",
-      "text":"Does the family own any sala sets?",
+      "key":"Water",
+      "text": "What is the household’s source of water?",
       "description":null,
       "sequenceNo":7,
       "responseDatas":
       [
         {
-          "text":"A. No",
+          "text":"A. Not public network ",
           "value":0,
           "sequenceNo":1
         },
         {
-          "text":"B. Yes",
+          "text":"B. Public network",
           "value":3,
           "sequenceNo":2
         }
@@ -220,8 +219,8 @@
     },
     {
       "componentKey":null,
-      "key":"refrigerator-washing-machine",
-      "text":"Does the family own a refrigerator/freezer or a washing machine?",
+      "key":"refrigerator",
+      "text":"Does any household member have a working refrigerator? ",
       "description":null,
       "sequenceNo":8,
       "responseDatas":
@@ -232,21 +231,16 @@
           "sequenceNo":1
         },
         {
-          "text":"B. One or the other, but not both",
-          "value":6,
+          "text":"B. Yes",
+          "value":4,
           "sequenceNo":2
-        },
-        {
-          "text":"C. Both",
-          "value":12,
-          "sequenceNo":3
         }
       ]
     },
     {
       "componentKey":null,
-      "key":"television-player",
-      "text":"Does the family own a television set or a VTR/VHS/VCD/DVD player?",
+      "key":"Stove",
+      "text":"Does any household member have a working stove with four burners? ",
       "description":null,
       "sequenceNo":9,
       "responseDatas":
@@ -257,43 +251,33 @@
           "sequenceNo":1
         },
         {
-          "text":"B. Only television",
-          "value":4,
+          "text":"B. Yes",
+          "value":5,
           "sequenceNo":2
-        },
-        {
-          "text":"C. VTR/VHS/VCD/DVD player (with or without TV)",
-          "value":7,
-          "sequenceNo":3
         }
       ]
     },
     {
       "componentKey":null,
-      "key":"telephones-cellphones",
-      "text":"How many telephones/cellphones does the family",
+      "key":"television",
+      "text":"Does any household member have a working television with or without cable? ",
       "description":null,
       "sequenceNo":10,
       "responseDatas":
       [
         {
-          "text":"A. Nono",
+          "text":"A. No",
           "value":0,
           "sequenceNo":1
         },
         {
-          "text":"B. One",
-          "value":4,
+          "text":"B. Yes, without cable ",
+          "value":2,
           "sequenceNo":2
         },
         {
-          "text":"C. Two",
-          "value":7,
-          "sequenceNo":3
-        },
-        {
-          "text":"D. Three or more",
-          "value":12,
+          "text":"C. Yes, with cable",
+          "value":4,
           "sequenceNo":3
         }
       ]
