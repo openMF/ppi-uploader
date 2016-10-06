@@ -1,0 +1,287 @@
+{
+	  "key":"ppi-peru-2010",
+	  "name":"PPI Survey for Peru, version 2010",
+	  "description":null,
+	  "countryCode":"PE",
+	  "validFrom":null,
+	  "validTo":null,
+	  "componentDatas": null,
+	  "questionDatas":
+	  [
+	    {
+	      "componentKey":null,
+	      "key":"household-members",
+	      "text":"How many members does the household have?",
+	      "description":null,
+	      "sequenceNo":1,
+	      "responseDatas":
+	      [
+	        {
+	          "text":"A.  Seven or more",
+	          "value":0,
+	          "sequenceNo":1
+	        },
+	        {
+	          "text":"B. Six",
+	          "value":7,
+	          "sequenceNo":2
+	        },
+	        {
+	          "text":"C. Five",
+	          "value":12,
+	          "sequenceNo":3
+	        },
+	        {
+	          "text":"D. Four",
+	          "value":17,
+	          "sequenceNo":4
+	        },
+	        {
+	          "text":"E. Three",
+	          "value":22,
+	          "sequenceNo":5
+	        },
+	        {
+	          "text":"F. Two",
+	          "value":27,
+	          "sequenceNo":6
+	        },
+	        {
+	          "text":"G. One",
+	          "value":34,
+	          "sequenceNo":7
+	        }
+	      ]
+	    },
+	    {
+	      "componentKey":null,
+	      "key":"children-working",
+	      "text":" In the past week, how many household members ages 14 or older did any work? (not counting household chores) ",
+	      "description":null,
+	      "sequenceNo":2,
+	      "responseDatas":
+	      [
+	        {
+	          "text":"A. One or none",
+	          "value":0,
+	          "sequenceNo":1
+	        },
+	        {
+	          "text":"B. Two ",
+	          "value":2,
+	          "sequenceNo":2
+	        },
+	        {
+	          "text":"C. Three",
+	          "value":6,
+	          "sequenceNo":3
+	        },
+		{
+	          "text":"D. Four or more",
+	          "value":9,
+	          "sequenceNo":4
+	        }    
+	      ]
+	    },
+	    {
+	      "componentKey":null,
+	      "key":"female highest educational",
+	      "text":"What is the highest educational level that the female head/spouse completed? ",
+	      "description":null,
+	      "sequenceNo":3,
+	      "responseDatas":
+	      [
+	        {
+	          "text":"A. None, pre-school, or kindergarten",
+	          "value":0,
+	          "sequenceNo":1
+	        },
+	        {
+	          "text":"B. Grade school (incomplete) ",
+	          "value":3,
+	          "sequenceNo":2
+	        },
+	        {
+	          "text":"C. Grade school (complete), or high school (incomplete) ",
+	          "value":4,
+	          "sequenceNo":3
+	        },
+	        {
+	          "text":"D.  No female head/spouse",
+	          "value":6,
+	          "sequenceNo":4
+	        }
+		  {
+	          "text":"E. High school (complete), or non-university superior (incomplete)",
+	          "value":7,
+	          "sequenceNo":5
+	        },
+		  {
+	          "text":"F. Non-university superior (complete), or higher",
+	          "value":13,
+	          "sequenceNo":6
+	        }      
+	      ]
+	    },
+	    {
+	      "componentKey":null,
+	      "key":"bedrooms",
+	      "text":"How many rooms are used only as bedrooms? ",
+	      "description":null,
+	      "sequenceNo":4,
+	      "responseDatas":
+	      [
+	        {
+	          "text":"A. None",
+	          "value":0,
+	          "sequenceNo":1
+	        },
+	        {
+	          "text":"B. One",
+	          "value":2,
+	          "sequenceNo":2
+	        },
+	        {
+	          "text":"C. Two",
+	          "value":4,
+	          "sequenceNo":3
+	        },
+	        {
+	          "text":"D. Three or more",
+	          "value":8,
+	          "sequenceNo":4
+	        }
+	      ]
+	    },
+	    {
+	      "componentKey":null,
+	      "key":"exterior walls",
+	      "text":"What is the main material of the exterior walls?",
+	      "description":null,
+	      "sequenceNo":5,
+	      "responseDatas":
+	      [
+	        {
+	          "text":"A. Mud, matting, wattle and daub, adobe, stone with mud, or other",
+	          "value":0,
+	          "sequenceNo":1
+	        },
+	        {
+	          "text":"B. Wood, stone, stone blocks with mortar or cement, or brick or cement blocks ",
+	          "value":4,
+	          "sequenceNo":2
+	        }
+	      ]
+	    },
+	    {
+	      "componentKey":null,
+	      "key":"construction materials ",
+	      "text":"What type of construction materials are the outer walls made of?",
+	      "description":null,
+	      "sequenceNo":6,
+	      "responseDatas":
+	      [
+	        {
+	          "text":"A. Charcoal, kerosene, or other",
+	          "value":0,
+	          "sequenceNo":1
+	        },
+	        {
+	          "text":"B. Firewood",
+	          "value":3,
+	          "sequenceNo":2
+	        },
+	        {
+	          "text":"C. Gas (LPG or natural), electricity, or does not cook ",
+	          "value":7,
+	          "sequenceNo":3
+	        }
+	      ]
+	    },
+	    {
+	      "componentKey":null,
+	      "key":"refrigerator/freezer",
+	      "text":"Does the household have a refrigerator/freezer? ",
+	      "description":null,
+	      "sequenceNo":7,
+	      "responseDatas":
+	      [
+	        {
+	          "text":"A. No",
+	          "value":0,
+	          "sequenceNo":1
+	        },
+	        {
+	          "text":"B. Yes",
+	          "value":3,
+	          "sequenceNo":2
+	        }
+	      ]
+	    },
+	    {
+	      "componentKey":null,
+	      "key":"blender?",
+	      "text":"Does the household have a blender?",
+	      "description":null,
+	      "sequenceNo":8,
+	      "responseDatas":
+	      [
+	        {
+	          "text":"A. No",
+	          "value":0,
+	          "sequenceNo":1
+	        },
+	        {
+	          "text":"B. Yes",
+	          "value":6,
+	          "sequenceNo":2
+	        }
+	      ]
+	    },
+	    {
+	      "componentKey":null,
+	      "key":"color televisions? ",
+	      "text":"How many color televisions does the household have? ",
+	      "description":null,
+	      "sequenceNo":9,
+	      "responseDatas":
+	      [
+	        {
+	          "text":"A. None",
+	          "value":0,
+	          "sequenceNo":1
+	        },
+	        {
+	          "text":"B. One",
+	          "value":5,
+	          "sequenceNo":2
+	        },
+	        {
+	          "text":"C. Two or more",
+	          "value":9,
+	          "sequenceNo":3
+	        }
+	      ]
+	    },
+	    {
+	      "componentKey":null,
+	      "key":"telephones-cellphones",
+	      "text":"Does the household have a cellular telephone? ",
+	      "description":null,
+	      "sequenceNo":10,
+	      "responseDatas":
+	      [
+	        {
+	          "text":"A. No",
+	          "value":0,
+	          "sequenceNo":1
+	        },
+	        {
+	          "text":"B. Yes",
+	          "value":7,
+	          "sequenceNo":2
+	        }
+	      ]
+	    }
+	  ]
+	}
