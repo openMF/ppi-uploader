@@ -1,0 +1,638 @@
+[
+  {
+    "key": "National_Indonesia_2010",
+    "description": null,
+    "entries": [
+      {
+        "valueFrom": 0,
+        "valueFrom": 4,
+        "score": 66.3
+      },
+      {
+        "valueFrom": 5,
+        "valueFrom": 9,
+        "score": 60
+      },
+      {
+        "valueFrom": 10,
+        "valueFrom": 14,
+        "score": 48.4
+      },
+      {
+        "valueFrom": 15,
+        "valueFrom": 19,
+        "score": 34.1
+      },
+      {
+        "valueFrom": 20,
+        "valueFrom": 24,
+        "score": 25.2
+      },
+      {
+        "valueFrom": 25,
+        "valueFrom": 29,
+        "score": 17.3
+      },
+      {
+        "valueFrom": 30,
+        "valueFrom": 34,
+        "score": 10.3
+      },
+      {
+        "valueFrom": 35,
+        "valueFrom": 39,
+        "score": 5.8
+      },
+      {
+        "valueFrom": 40,
+        "valueFrom": 44,
+        "score": 3.2
+      },
+      {
+        "valueFrom": 45,
+        "valueFrom": 49,
+        "score": 1.4
+      },
+      {
+        "valueFrom": 50,
+        "valueFrom": 54,
+        "score": 0.6
+      },
+      {
+        "valueFrom": 55,
+        "valueFrom": 59,
+        "score": 0.2
+      },
+      {
+        "valueFrom": 60,
+        "valueFrom": 64,
+        "score": 0.1
+      },
+      {
+        "valueFrom": 65,
+        "valueFrom": 69,
+        "score": 0
+      },
+      {
+        "valueFrom": 70,
+        "valueFrom": 74,
+        "score": 0
+      },
+      {
+        "valueFrom": 75,
+        "valueFrom": 79,
+        "score": 0
+      },
+      {
+        "valueFrom": 80,
+        "valueFrom": 84,
+        "score": 0
+      },
+      {
+        "valueFrom": 85,
+        "valueFrom": 89,
+        "score": 0
+      },
+      {
+        "valueFrom": 90,
+        "valueFrom": 94,
+        "score": 0
+      },
+      {
+        "valueFrom": 95,
+        "valueFrom": 100,
+        "score": 0
+      }
+    ]
+  },
+  {
+    "key": "150%_of_National_Indonesia_2010",
+    "description": null,
+    "entries": [
+      {
+        "valueFrom": 0,
+        "valueFrom": 4,
+        "score": 96.1
+      },
+      {
+        "valueFrom": 5,
+        "valueFrom": 9,
+        "score": 93.3
+      },
+      {
+        "valueFrom": 10,
+        "valueFrom": 14,
+        "score": 87.9
+      },
+      {
+        "valueFrom": 15,
+        "valueFrom": 19,
+        "score": 81.8
+      },
+      {
+        "valueFrom": 20,
+        "valueFrom": 24,
+        "score": 76.2
+      },
+      {
+        "valueFrom": 25,
+        "valueFrom": 29,
+        "score": 65.5
+      },
+      {
+        "valueFrom": 30,
+        "valueFrom": 34,
+        "score": 54
+      },
+      {
+        "valueFrom": 35,
+        "valueFrom": 39,
+        "score": 40.7
+      },
+      {
+        "valueFrom": 40,
+        "valueFrom": 44,
+        "score": 27.9
+      },
+      {
+        "valueFrom": 45,
+        "valueFrom": 49,
+        "score": 17.4
+      },
+      {
+        "valueFrom": 50,
+        "valueFrom": 54,
+        "score": 9.9
+      },
+      {
+        "valueFrom": 55,
+        "valueFrom": 59,
+        "score": 5.2
+      },
+      {
+        "valueFrom": 60,
+        "valueFrom": 64,
+        "score": 2.9
+      },
+      {
+        "valueFrom": 65,
+        "valueFrom": 69,
+        "score": 1.3
+      },
+      {
+        "valueFrom": 70,
+        "valueFrom": 74,
+        "score": 0.9
+      },
+      {
+        "valueFrom": 75,
+        "valueFrom": 79,
+        "score": 0.4
+      },
+      {
+        "valueFrom": 80,
+        "valueFrom": 84,
+        "score": 0.2
+      },
+      {
+        "valueFrom": 85,
+        "valueFrom": 89,
+        "score": 0
+      },
+      {
+        "valueFrom": 90,
+        "valueFrom": 94,
+        "score": 0
+      },
+      {
+        "valueFrom": 95,
+        "valueFrom": 100,
+        "score": 0
+      }
+    ]
+  },
+  {
+    "key": "200%_of_National_Indonesia_2010",
+    "description": null,
+    "entries": [
+      {
+        "valueFrom": 0,
+        "valueFrom": 4,
+        "score": 99
+      },
+      {
+        "valueFrom": 5,
+        "valueFrom": 9,
+        "score": 98.3
+      },
+      {
+        "valueFrom": 10,
+        "valueFrom": 14,
+        "score": 97
+      },
+      {
+        "valueFrom": 15,
+        "valueFrom": 19,
+        "score": 95.1
+      },
+      {
+        "valueFrom": 20,
+        "valueFrom": 24,
+        "score": 93.4
+      },
+      {
+        "valueFrom": 25,
+        "valueFrom": 29,
+        "score": 88.1
+      },
+      {
+        "valueFrom": 30,
+        "valueFrom": 34,
+        "score": 82.6
+      },
+      {
+        "valueFrom": 35,
+        "valueFrom": 39,
+        "score": 72.9
+      },
+      {
+        "valueFrom": 40,
+        "valueFrom": 44,
+        "score": 60.6
+      },
+      {
+        "valueFrom": 45,
+        "valueFrom": 49,
+        "score": 46.1
+      },
+      {
+        "valueFrom": 50,
+        "valueFrom": 54,
+        "score": 32.4
+      },
+      {
+        "valueFrom": 55,
+        "valueFrom": 59,
+        "score": 20.7
+      },
+      {
+        "valueFrom": 60,
+        "valueFrom": 64,
+        "score": 12.8
+      },
+      {
+        "valueFrom": 65,
+        "valueFrom": 69,
+        "score": 6.4
+      },
+      {
+        "valueFrom": 70,
+        "valueFrom": 74,
+        "score": 4.8
+      },
+      {
+        "valueFrom": 75,
+        "valueFrom": 79,
+        "score": 2.5
+      },
+      {
+        "valueFrom": 80,
+        "valueFrom": 84,
+        "score": 0.2
+      },
+      {
+        "valueFrom": 85,
+        "valueFrom": 89,
+        "score": 0
+      },
+      {
+        "valueFrom": 90,
+        "valueFrom": 94,
+        "score": 0
+      },
+      {
+        "valueFrom": 95,
+        "valueFrom": 100,
+        "score": 0
+      }
+    ]
+  },
+  {
+    "key": "USAID_Extreme_Indonesia_2010",
+    "description": null,
+    "entries": [
+      {
+        "valueFrom": 0,
+        "valueFrom": 4,
+        "score": 49.8
+      },
+      {
+        "valueFrom": 5,
+        "valueFrom": 9,
+        "score": 38.4
+      },
+      {
+        "valueFrom": 10,
+        "valueFrom": 14,
+        "score": 28.3
+      },
+      {
+        "valueFrom": 15,
+        "valueFrom": 19,
+        "score": 18
+      },
+      {
+        "valueFrom": 20,
+        "valueFrom": 24,
+        "score": 12.6
+      },
+      {
+        "valueFrom": 25,
+        "valueFrom": 29,
+        "score": 7.3
+      },
+      {
+        "valueFrom": 30,
+        "valueFrom": 34,
+        "score": 4
+      },
+      {
+        "valueFrom": 35,
+        "valueFrom": 39,
+        "score": 1.9
+      },
+      {
+        "valueFrom": 40,
+        "valueFrom": 44,
+        "score": 1.1
+      },
+      {
+        "valueFrom": 45,
+        "valueFrom": 49,
+        "score": 0.5
+      },
+      {
+        "valueFrom": 50,
+        "valueFrom": 54,
+        "score": 0.1
+      },
+      {
+        "valueFrom": 55,
+        "valueFrom": 59,
+        "score": 0
+      },
+      {
+        "valueFrom": 60,
+        "valueFrom": 64,
+        "score": 0
+      },
+      {
+        "valueFrom": 65,
+        "valueFrom": 69,
+        "score": 0
+      },
+      {
+        "valueFrom": 70,
+        "valueFrom": 74,
+        "score": 0
+      },
+      {
+        "valueFrom": 75,
+        "valueFrom": 79,
+        "score": 0
+      },
+      {
+        "valueFrom": 80,
+        "valueFrom": 84,
+        "score": 0
+      },
+      {
+        "valueFrom": 85,
+        "valueFrom": 89,
+        "score": 0
+      },
+      {
+        "valueFrom": 90,
+        "valueFrom": 94,
+        "score": 0
+      },
+      {
+        "valueFrom": 95,
+        "valueFrom": 100,
+        "score": 0
+      }
+    ]
+  },
+  {
+    "key": "$1.25/day/2005_PPP_Indonesia_2010",
+    "description": null,
+    "entries": [
+      {
+        "valueFrom": 0,
+        "valueFrom": 4,
+        "score": 74.2
+      },
+      {
+        "valueFrom": 5,
+        "valueFrom": 9,
+        "score": 68.9
+      },
+      {
+        "valueFrom": 10,
+        "valueFrom": 14,
+        "score": 57.7
+      },
+      {
+        "valueFrom": 15,
+        "valueFrom": 19,
+        "score": 45.5
+      },
+      {
+        "valueFrom": 20,
+        "valueFrom": 24,
+        "score": 35.3
+      },
+      {
+        "valueFrom": 25,
+        "valueFrom": 29,
+        "score": 24.7
+      },
+      {
+        "valueFrom": 30,
+        "valueFrom": 34,
+        "score": 16.2
+      },
+      {
+        "valueFrom": 35,
+        "valueFrom": 39,
+        "score": 9.4
+      },
+      {
+        "valueFrom": 40,
+        "valueFrom": 44,
+        "score": 5.3
+      },
+      {
+        "valueFrom": 45,
+        "valueFrom": 49,
+        "score": 2.6
+      },
+      {
+        "valueFrom": 50,
+        "valueFrom": 54,
+        "score": 1.3
+      },
+      {
+        "valueFrom": 55,
+        "valueFrom": 59,
+        "score": 0.5
+      },
+      {
+        "valueFrom": 60,
+        "valueFrom": 64,
+        "score": 0.1
+      },
+      {
+        "valueFrom": 65,
+        "valueFrom": 69,
+        "score": 0.1
+      },
+      {
+        "valueFrom": 70,
+        "valueFrom": 74,
+        "score": 0
+      },
+      {
+        "valueFrom": 75,
+        "valueFrom": 79,
+        "score": 0
+      },
+      {
+        "valueFrom": 80,
+        "valueFrom": 84,
+        "score": 0
+      },
+      {
+        "valueFrom": 85,
+        "valueFrom": 89,
+        "score": 0
+      },
+      {
+        "valueFrom": 90,
+        "valueFrom": 94,
+        "score": 0
+      },
+      {
+        "valueFrom": 95,
+        "valueFrom": 100,
+        "score": 0
+      }
+    ]
+  },
+  {
+    "key": "$2.50/day/2005_PPP_Indonesia_2010",
+    "description": null,
+    "entries": [
+      {
+        "valueFrom": 0,
+        "valueFrom": 4,
+        "score": 99.6
+      },
+      {
+        "valueFrom": 5,
+        "valueFrom": 9,
+        "score": 99
+      },
+      {
+        "valueFrom": 10,
+        "valueFrom": 14,
+        "score": 98.3
+      },
+      {
+        "valueFrom": 15,
+        "valueFrom": 19,
+        "score": 96.5
+      },
+      {
+        "valueFrom": 20,
+        "valueFrom": 24,
+        "score": 95.2
+      },
+      {
+        "valueFrom": 25,
+        "valueFrom": 29,
+        "score": 91.5
+      },
+      {
+        "valueFrom": 30,
+        "valueFrom": 34,
+        "score": 87.7
+      },
+      {
+        "valueFrom": 35,
+        "valueFrom": 39,
+        "score": 79.7
+      },
+      {
+        "valueFrom": 40,
+        "valueFrom": 44,
+        "score": 68.4
+      },
+      {
+        "valueFrom": 45,
+        "valueFrom": 49,
+        "score": 54.7
+      },
+      {
+        "valueFrom": 50,
+        "valueFrom": 54,
+        "score": 40.1
+      },
+      {
+        "valueFrom": 55,
+        "valueFrom": 59,
+        "score": 26.9
+      },
+      {
+        "valueFrom": 60,
+        "valueFrom": 64,
+        "score": 17.6
+      },
+      {
+        "valueFrom": 65,
+        "valueFrom": 69,
+        "score": 9.1
+      },
+      {
+        "valueFrom": 70,
+        "valueFrom": 74,
+        "score": 6.9
+      },
+      {
+        "valueFrom": 75,
+        "valueFrom": 79,
+        "score": 3.7
+      },
+      {
+        "valueFrom": 80,
+        "valueFrom": 84,
+        "score": 0.2
+      },
+      {
+        "valueFrom": 85,
+        "valueFrom": 89,
+        "score": 0
+      },
+      {
+        "valueFrom": 90,
+        "valueFrom": 94,
+        "score": 0
+      },
+      {
+        "valueFrom": 95,
+        "valueFrom": 100,
+        "score": 0
+      }
+    ]
+  }
+]
