@@ -1,0 +1,292 @@
+{
+  "key":"ppi-Rwanda-2010",
+  "name":"PPI Survey for Rwanda, version 2012",
+  "description":null,
+  "countryCode":"RW",
+  "validFrom":null,
+  "validTo":null,
+  "componentDatas": null,
+  "questionDatas":
+  [
+    {
+      "componentKey":null,
+      "key":"household-members-Children",
+      "text":"How many household members are 17years-old or less?",
+      "description":null,
+      "sequenceNo":1,
+      "responseDatas":
+      [
+        {
+          "text":"A. Five or more",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Four",
+          "value":1,
+          "sequenceNo":2
+        },
+        {
+          "text":"C. Three",
+          "value":7,
+          "sequenceNo":3
+        },
+        {
+          "text":"D. Two",
+          "value":8,
+          "sequenceNo":4
+        },
+        {
+          "text":"E. One",
+          "value":13,
+          "sequenceNo":5
+        },
+        {
+          "text":"F. None",
+          "value":20,
+          "sequenceNo":6
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"children-attend-school",
+      "text":"Do all household members ages 7 to 17 go to school?",
+      "description":null,
+      "sequenceNo":2,
+      "responseDatas":
+      [
+        {
+          "text":"A. No",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Yes",
+          "value":2,
+          "sequenceNo":2
+        },
+        {
+          "text":"C. No one in age range",
+          "value":3,
+          "sequenceNo":3
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"female-education",
+      "text":"What is the highest grade that the female head/spouse has successfully
+completed?",
+      "description":null,
+      "sequenceNo":3,
+      "responseDatas":
+      [
+        {
+          "text":"A. Never attended school",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Attended and completed none, one, or two years",
+          "value":2,
+          "sequenceNo":2
+        },
+        {
+          "text":"C. Years 3 or 4 of primary",
+          "value":3,
+          "sequenceNo":3
+        },
+       {
+          "text":"D. Years 5 or 6 of primary",
+          "value":5,
+          "sequenceNo":4
+        },
+       {
+          "text":"E. There is no female head/spouse",
+          "value":5,
+          "sequenceNo":5
+        },
+       {
+          "text":"F. Anything after 6 years of primary",
+          "value":9,
+          "sequenceNo":6
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"male-head-occupation",
+      "text":"What is the status of the male head/spouse in his main occupation?",
+      "description":null,
+      "sequenceNo":4,
+      "responseDatas":
+      [
+        {
+          "text":"A. Agricultural wage worker, or does not work",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. There is no male head/spouse",
+          "value":3,
+          "sequenceNo":2
+        },
+       {
+          "text":"C. Self-employed in agriculture, or unpaid worker (homemaker, apprentice, volunteer, etc.)",
+          "value":4,
+          "sequenceNo":3
+        },
+       {
+          "text":"D. Non-agricultural wage worker",
+          "value":5,
+          "sequenceNo":4
+        },
+       {
+          "text":"E. Self-employed in non-agriculture",
+          "value":8,
+          "sequenceNo":5
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"floor-material",
+      "text":"What is the main material of the floor?",
+      "description":null,
+      "sequenceNo":5,
+      "responseDatas":
+      [
+        {
+          "text":"A. One",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Two or three",
+          "value":5,
+          "sequenceNo":2
+        },
+        {
+          "text":"C. Four",
+          "value":7,
+          "sequenceNo":3
+        },
+        {
+          "text":"D. Five",
+          "value":9,
+          "sequenceNo":4
+        },
+       {
+          "text":"E. Six or more",
+          "value":12,
+          "sequenceNo":5
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"Lighting",
+      "text":"What is the main source of lighting for the household?",
+      "description":null,
+      "sequenceNo":6,
+      "responseDatas":
+      [
+        {
+          "text":"A. Burning wood, or other",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Home-made kerosene or fuel-oil lamp (agatadowa)",
+          "value":8,
+          "sequenceNo":2
+        },
+        {
+          "text":"C. Candles, gas lamp, electrical grid, or generator",
+          "value":13,
+          "sequenceNo":3
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"cooking-fuel",
+      "text":"What is the main fuel used for cooking?",
+      "description":null,
+      "sequenceNo":7,
+      "responseDatas":
+      [
+        {
+          "text":"A. Firewood, field waste, or other",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Charcoal, LPG, electricity, or kerosene",
+          "value":16,
+          "sequenceNo":2
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"cassette-player",
+      "text":"Does the household own a radio or radio-cassette player?",
+      "description":null,
+      "sequenceNo":8,
+      "responseDatas":
+      [
+        {
+          "text":"A. No",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Yes",
+          "value":3,
+          "sequenceNo":2
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"land-acres",
+      "text":"How many ares of agricultural land does the household own or use?",
+      "description":null,
+      "sequenceNo":9,
+      "responseDatas":
+      [
+        {
+          "text":"A. 0 to 10",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. 11 to 35",
+          "value":1,
+          "sequenceNo":2
+        },
+        {
+          "text":"C. 36 to 60",
+          "value":2,
+          "sequenceNo":3
+        },
+        {
+          "text":"D. 61 to 100",
+          "value":4,
+          "sequenceNo":4
+        },
+       {
+          "text":"E. 101 to 150",
+          "value":6,
+          "sequenceNo":5
+        },
+       {
+          "text":"F. 151 or more",
+          "value":9,
+          "sequenceNo":6
+        }
+      ]
+    }
+}

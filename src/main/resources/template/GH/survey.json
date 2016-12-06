@@ -1,0 +1,302 @@
+{
+  "key":"ppi-Ghana-2012",
+  "name":"PPI Survey for Ghana, version 2012",
+  "description":null,
+  "countryCode":"GH",
+  "validFrom":null,
+  "validTo":null,
+  "componentDatas": null,
+  "questionDatas":
+  [
+    {
+      "componentKey":null,
+      "key":"household-members",
+      "text":"How many members does the household have?",
+      "description":null,
+      "sequenceNo":1,
+      "responseDatas":
+      [
+        {
+          "text":"A. Eight or more",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Seven",
+          "value":4,
+          "sequenceNo":2
+        },
+        {
+          "text":"C. Six",
+          "value":9,
+          "sequenceNo":3
+        },
+        {
+          "text":"D. Five",
+          "value":13,
+          "sequenceNo":4
+        },
+        {
+          "text":"E. Four",
+          "value":14,
+          "sequenceNo":5
+        },
+        {
+          "text":"F. Three",
+          "value":21,
+          "sequenceNo":6
+        },
+        {
+          "text":"G. Two",
+          "value":24,
+          "sequenceNo":7
+        },
+        {
+          "text":"H. One",
+          "value":29,
+          "sequenceNo":8
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"children-attend-school",
+      "text":"Are all household members ages 5 to 17 currently in school?",
+      "description":null,
+      "sequenceNo":2,
+      "responseDatas":
+      [
+        {
+          "text":"A. No",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Yes",
+          "value":2,
+          "sequenceNo":2
+        },
+        {
+          "text":"C. No one ages 5 to 17",
+          "value":3,
+          "sequenceNo":3
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"Male-Read",
+      "text":"Can the male head/spouse read a phrase/sentence in English?",
+      "description":null,
+      "sequenceNo":3,
+      "responseDatas":
+      [
+        {
+          "text":"A. No",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. No male head/spouse",
+          "value":2,
+          "sequenceNo":2
+        },
+        {
+          "text":"C. Yes",
+          "value":5,
+          "sequenceNo":3
+        },
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"walls-construction-materials",
+      "text":" What is the main construction
+material used for the outer wall?",
+      "description":null,
+      "sequenceNo":4,
+      "responseDatas":
+      [
+        {
+          "text":"A. Mud bricks/earth, wood, bamboo, metal sheet/slate/asbestos, palm
+leaves/thatch (grass/raffia), or other",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Cement/concrete blocks, landcrete, stone, or burnt bricks",
+          "value":5,
+          "sequenceNo":2
+        },
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"Toilet",
+      "text":"What type of toilet facility is usually used by the
+household?",
+      "description":null,
+      "sequenceNo":5,
+      "responseDatas":
+      [
+        {
+          "text":"A. No toilet facility (bush, beach), or other",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Pit latrine, bucket/pan",
+          "value":4,
+          "sequenceNo":2
+        },
+        {
+          "text":"C. Public toilet (e.g., W.C., KVIP, pit pan)",
+          "value":4,
+          "sequenceNo":3
+        },
+        {
+          "text":"D. KVIP, or W.C.",
+          "value":6,
+          "sequenceNo":4
+        },
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"main-fuel",
+      "text":"What is the main fuel used by the household
+for cooking?",
+      "description":null,
+      "sequenceNo":6,
+      "responseDatas":
+      [
+        {
+          "text":"A. None, no cooking",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Wood, crop residue, sawdust, animal waste, or other",
+          "value":6,
+          "sequenceNo":2
+        },
+        {
+          "text":"C. Charcoal, or kerosene",
+          "value":13,
+          "sequenceNo":3
+        }
+        {
+          "text":"D. Gas, or electricity",
+          "value":22,
+          "sequenceNo":4
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"box-iron",
+      "text":"Does any household member own a working box iron
+or electric iron?",
+      "description":null,
+      "sequenceNo":7,
+      "responseDatas":
+      [
+        {
+          "text":"A. No",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Yes",
+          "value":4,
+          "sequenceNo":2
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"television-player",
+      "text":"Does any household member own a working
+television, video player, VCD/DVD/MP3/MP4
+player/iPod, or satellite dish?",
+      "description":null,
+      "sequenceNo":8,
+      "responseDatas":
+      [
+        {
+          "text":"A. No",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Only television",
+          "value":2,
+          "sequenceNo":2
+        },
+        {
+          "text":"C. Video player, VCD/DVD/MP3/MP4 player/ iPod, or
+satellite dish (regardless of T.V.)",
+          "value":8,
+          "sequenceNo":3
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"telephones-cellphones",
+      "text":"How many working mobile phones are owned by
+members of the household?",
+      "description":null,
+      "sequenceNo":9,
+      "responseDatas":
+      [
+        {
+          "text":"A. None",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. One",
+          "value":4,
+          "sequenceNo":2
+        },
+        {
+          "text":"C. Two",
+          "value":8,
+          "sequenceNo":3
+        }
+        {
+          "text":"D. Three or more",
+          "value":10,
+          "sequenceNo":4
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"Car",
+      "text":"Does any household member own a working
+bicycle, motor cycle, or car?",
+      "description":null,
+      "sequenceNo":10,
+      "responseDatas":
+      [
+        {
+          "text":"A. None",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Only bicycle",
+          "value":3,
+          "sequenceNo":2
+        },
+        {
+          "text":"C. Motor cycle or car (regardless of bicycle)",
+          "value":8,
+          "sequenceNo":3
+        },
+      ]
+    }
+  ]
+}

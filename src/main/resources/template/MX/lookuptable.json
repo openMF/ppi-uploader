@@ -1,0 +1,1697 @@
+[
+  {
+    "key": "Total-Below-National-Food-Poverty-Line",
+    "description": null,
+    "entries": [
+      {
+        "valueFrom": 0,
+        "valueTo": 4,
+        "score": 83.9
+      },
+      {
+        "valueFrom": 5,
+        "valueTo": 9,
+        "score": 80.7
+      },
+      {
+        "valueFrom": 10,
+        "valueTo": 14,
+        "score": 68.0
+      },
+      {
+        "valueFrom": 15,
+        "valueTo": 19,
+        "score": 51.4
+      },
+      {
+        "valueFrom": 20,
+        "valueTo": 24,
+        "score": 46.9
+      },
+      {
+        "valueFrom": 25,
+        "valueTo": 29,
+        "score": 35.7
+      },
+      {
+        "valueFrom": 30,
+        "valueTo": 34,
+        "score": 27.8
+      },
+      {
+        "valueFrom": 35,
+        "valueTo": 39,
+        "score": 15.7
+      },
+      {
+        "valueFrom": 40,
+        "valueTo": 44,
+        "score": 9.9
+      },
+      {
+        "valueFrom": 45,
+        "valueTo": 49,
+        "score": 7.5
+      },
+      {
+        "valueFrom": 50,
+        "valueTo": 54,
+        "score": 4.6
+      },
+      {
+        "valueFrom": 55,
+        "valueTo": 59,
+        "score": 2.2
+      },
+      {
+        "valueFrom": 60,
+        "valueTo": 64,
+        "score": 1.1
+      },
+      {
+        "valueFrom": 65,
+        "valueTo": 69,
+        "score": 0.9
+      },
+      {
+        "valueFrom": 70,
+        "valueTo": 74,
+        "score": 0.2
+      },
+      {
+        "valueFrom": 75,
+        "valueTo": 79,
+        "score": 0.0
+      },
+      {
+        "valueFrom": 80,
+        "valueTo": 84,
+        "score": 0.0
+      },
+      {
+        "valueFrom": 85,
+        "valueTo": 89,
+        "score": 0.0
+      },
+      {
+        "valueFrom": 90,
+        "valueTo": 94,
+        "score": 0.0
+      },
+      {
+        "valueFrom": 95,
+        "valueTo": 100,
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "key": "Total-Above-National-Food-Poverty-Line",
+    "description": null,
+    "entries": [
+      {
+        "valueFrom": 0,
+        "valueTo": 4,
+        "score": 16.1
+      },
+      {
+        "valueFrom": 5,
+        "valueTo": 9,
+        "score": 19.3
+      },
+      {
+        "valueFrom": 10,
+        "valueTo": 14,
+        "score": 32.0
+      },
+      {
+        "valueFrom": 15,
+        "valueTo": 19,
+        "score": 48.6
+      },
+      {
+        "valueFrom": 20,
+        "valueTo": 24,
+        "score": 53.1
+      },
+      {
+        "valueFrom": 25,
+        "valueTo": 29,
+        "score": 64.3
+      },
+      {
+        "valueFrom": 30,
+        "valueTo": 34,
+        "score": 72.2
+      },
+      {
+        "valueFrom": 35,
+        "valueTo": 39,
+        "score": 84.3
+      },
+      {
+        "valueFrom": 40,
+        "valueTo": 44,
+        "score": 90.1
+      },
+      {
+        "valueFrom": 45,
+        "valueTo": 49,
+        "score": 92.5
+      },
+      {
+        "valueFrom": 50,
+        "valueTo": 54,
+        "score": 95.4
+      },
+      {
+        "valueFrom": 55,
+        "valueTo": 59,
+        "score": 97.8
+      },
+      {
+        "valueFrom": 60,
+        "valueTo": 64,
+        "score": 98.9
+      },
+      {
+        "valueFrom": 65,
+        "valueTo": 69,
+        "score": 99.1
+      },
+      {
+        "valueFrom": 70,
+        "valueTo": 74,
+        "score": 99.8
+      },
+      {
+        "valueFrom": 75,
+        "valueTo": 79,
+        "score": 100.0
+      },
+      {
+        "valueFrom": 80,
+        "valueTo": 84,
+        "score": 100.0
+      },
+      {
+        "valueFrom": 85,
+        "valueTo": 89,
+        "score": 100.0
+      },
+      {
+        "valueFrom": 90,
+        "valueTo": 94,
+        "score": 100.0
+      },
+      {
+        "valueFrom": 95,
+        "valueTo": 100,
+        "score": 100.0
+      }
+    ]
+  },
+  {
+    "key": "Total-Below-National-Capacity-Poverty-Line",
+    "description": null,
+    "entries": [
+      {
+        "valueFrom": 0,
+        "valueTo": 4,
+        "score": 89.6
+      },
+      {
+        "valueFrom": 5,
+        "valueTo": 9,
+        "score": 88.9
+      },
+      {
+        "valueFrom": 10,
+        "valueTo": 14,
+        "score": 76.4
+      },
+      {
+        "valueFrom": 15,
+        "valueTo": 19,
+        "score": 67.8
+      },
+      {
+        "valueFrom": 20,
+        "valueTo": 24,
+        "score": 61.4
+      },
+      {
+        "valueFrom": 25,
+        "valueTo": 29,
+        "score": 49.4
+      },
+      {
+        "valueFrom": 30,
+        "valueTo": 34,
+        "score": 40.6
+      },
+      {
+        "valueFrom": 35,
+        "valueTo": 39,
+        "score": 25.2
+      },
+      {
+        "valueFrom": 40,
+        "valueTo": 44,
+        "score": 15.0
+      },
+      {
+        "valueFrom": 45,
+        "valueTo": 49,
+        "score": 13.9
+      },
+      {
+        "valueFrom": 50,
+        "valueTo": 54,
+        "score": 8.1
+      },
+      {
+        "valueFrom": 55,
+        "valueTo": 59,
+        "score": 4.9
+      },
+      {
+        "valueFrom": 60,
+        "valueTo": 64,
+        "score": 2.4
+      },
+      {
+        "valueFrom": 65,
+        "valueTo": 69,
+        "score": 1.4
+      },
+      {
+        "valueFrom": 70,
+        "valueTo": 74,
+        "score": 0.4
+      },
+      {
+        "valueFrom": 75,
+        "valueTo": 79,
+        "score": 0.0
+      },
+      {
+        "valueFrom": 80,
+        "valueTo": 84,
+        "score": 0.5
+      },
+      {
+        "valueFrom": 85,
+        "valueTo": 89,
+        "score": 0.0
+      },
+      {
+        "valueFrom": 90,
+        "valueTo": 94,
+        "score": 0.0
+      },
+      {
+        "valueFrom": 95,
+        "valueTo": 100,
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "key": "Total-Above-National-Capacity-Poverty-Line",
+    "description": null,
+    "entries": [
+      {
+        "valueFrom": 0,
+        "valueTo": 4,
+        "score": 10.4
+      },
+      {
+        "valueFrom": 5,
+        "valueTo": 9,
+        "score": 11.1
+      },
+      {
+        "valueFrom": 10,
+        "valueTo": 14,
+        "score": 23.6
+      },
+      {
+        "valueFrom": 15,
+        "valueTo": 19,
+        "score": 32.2
+      },
+      {
+        "valueFrom": 20,
+        "valueTo": 24,
+        "score": 38.6
+      },
+      {
+        "valueFrom": 25,
+        "valueTo": 29,
+        "score": 50.6
+      },
+      {
+        "valueFrom": 30,
+        "valueTo": 34,
+        "score": 59.4
+      },
+      {
+        "valueFrom": 35,
+        "valueTo": 39,
+        "score": 74.8
+      },
+      {
+        "valueFrom": 40,
+        "valueTo": 44,
+        "score": 85.0
+      },
+      {
+        "valueFrom": 45,
+        "valueTo": 49,
+        "score": 86.1
+      },
+      {
+        "valueFrom": 50,
+        "valueTo": 54,
+        "score": 91.9
+      },
+      {
+        "valueFrom": 55,
+        "valueTo": 59,
+        "score": 95.1
+      },
+      {
+        "valueFrom": 60,
+        "valueTo": 64,
+        "score": 97.6
+      },
+      {
+        "valueFrom": 65,
+        "valueTo": 69,
+        "score": 98.6
+      },
+      {
+        "valueFrom": 70,
+        "valueTo": 74,
+        "score": 99.6
+      },
+      {
+        "valueFrom": 75,
+        "valueTo": 79,
+        "score": 100.0
+      },
+      {
+        "valueFrom": 80,
+        "valueTo": 84,
+        "score": 99.5
+      },
+      {
+        "valueFrom": 85,
+        "valueTo": 89,
+        "score": 100.0
+      },
+      {
+        "valueFrom": 90,
+        "valueTo": 94,
+        "score": 100.0
+      },
+      {
+        "valueFrom": 95,
+        "valueTo": 100,
+        "score": 100.0
+      }
+    ]
+  },
+  {
+    "key": "Total-Below-National-Asset-Poverty-Line",
+    "description": null,
+    "entries": [
+      {
+        "valueFrom": 0,
+        "valueTo": 4,
+        "score": 98.8
+      },
+      {
+        "valueFrom": 5,
+        "valueTo": 9,
+        "score": 97.1
+      },
+      {
+        "valueFrom": 10,
+        "valueTo": 14,
+        "score": 94.2
+      },
+      {
+        "valueFrom": 15,
+        "valueTo": 19,
+        "score": 92.2
+      },
+      {
+        "valueFrom": 20,
+        "valueTo": 24,
+        "score": 86.8
+      },
+      {
+        "valueFrom": 25,
+        "valueTo": 29,
+        "score": 81.1
+      },
+      {
+        "valueFrom": 30,
+        "valueTo": 34,
+        "score": 71.6
+      },
+      {
+        "valueFrom": 35,
+        "valueTo": 39,
+        "score": 60.2
+      },
+      {
+        "valueFrom": 40,
+        "valueTo": 44,
+        "score": 50.6
+      },
+      {
+        "valueFrom": 45,
+        "valueTo": 49,
+        "score": 41.6
+      },
+      {
+        "valueFrom": 50,
+        "valueTo": 54,
+        "score": 26.4
+      },
+      {
+        "valueFrom": 55,
+        "valueTo": 59,
+        "score": 17.8
+      },
+      {
+        "valueFrom": 60,
+        "valueTo": 64,
+        "score": 10.7
+      },
+      {
+        "valueFrom": 65,
+        "valueTo": 69,
+        "score": 6.5
+      },
+      {
+        "valueFrom": 70,
+        "valueTo": 74,
+        "score": 2.9
+      },
+      {
+        "valueFrom": 75,
+        "valueTo": 79,
+        "score": 0.1
+      },
+      {
+        "valueFrom": 80,
+        "valueTo": 84,
+        "score": 2.0
+      },
+      {
+        "valueFrom": 85,
+        "valueTo": 89,
+        "score": 0.0
+      },
+      {
+        "valueFrom": 90,
+        "valueTo": 94,
+        "score": 0.0
+      },
+      {
+        "valueFrom": 95,
+        "valueTo": 100,
+        "score": 0.00
+      }
+    ]
+  },
+  {
+    "key": "Total-Above-National-Asset-Poverty-Line",
+    "description": null,
+    "entries": [
+      {
+        "valueFrom": 0,
+        "valueTo": 4,
+        "score": 1.2
+      },
+      {
+        "valueFrom": 5,
+        "valueTo": 9,
+        "score": 2.9
+      },
+      {
+        "valueFrom": 10,
+        "valueTo": 14,
+        "score": 5.8
+      },
+      {
+        "valueFrom": 15,
+        "valueTo": 19,
+        "score": 7.8
+      },
+      {
+        "valueFrom": 20,
+        "valueTo": 24,
+        "score": 13.2
+      },
+      {
+        "valueFrom": 25,
+        "valueTo": 29,
+        "score": 18.9
+      },
+      {
+        "valueFrom": 30,
+        "valueTo": 34,
+        "score": 28.4
+      },
+      {
+        "valueFrom": 35,
+        "valueTo": 39,
+        "score": 39.8
+      },
+      {
+        "valueFrom": 40,
+        "valueTo": 44,
+        "score": 49.4
+      },
+      {
+        "valueFrom": 45,
+        "valueTo": 49,
+        "score": 58.4
+      },
+      {
+        "valueFrom": 50,
+        "valueTo": 54,
+        "score": 73.6
+      },
+      {
+        "valueFrom": 55,
+        "valueTo": 59,
+        "score": 82.2
+      },
+      {
+        "valueFrom": 60,
+        "valueTo": 64,
+        "score": 89.3
+      },
+      {
+        "valueFrom": 65,
+        "valueTo": 69,
+        "score": 93.5
+      },
+      {
+        "valueFrom": 70,
+        "valueTo": 74,
+        "score": 97.1
+      },
+      {
+        "valueFrom": 75,
+        "valueTo": 79,
+        "score": 99.9
+      },
+      {
+        "valueFrom": 80,
+        "valueTo": 84,
+        "score": 98.0
+      },
+      {
+        "valueFrom": 85,
+        "valueTo": 89,
+        "score": 100.0
+      },
+      {
+        "valueFrom": 90,
+        "valueTo": 94,
+        "score": 100.0
+      },
+      {
+        "valueFrom": 95,
+        "valueTo": 100,
+        "score": 100.0
+      }
+    ]
+  },
+  {
+    "key": "Below-125-Percent-National-Asset-Poverty-Line",
+    "description": null,
+    "entries": [
+      {
+        "valueFrom": 0,
+        "valueTo": 4,
+        "score": 98.8
+      },
+      {
+        "valueFrom": 5,
+        "valueTo": 9,
+        "score": 98.5
+      },
+      {
+        "valueFrom": 10,
+        "valueTo": 14,
+        "score": 97.5
+      },
+      {
+        "valueFrom": 15,
+        "valueTo": 19,
+        "score": 96.1
+      },
+      {
+        "valueFrom": 20,
+        "valueTo": 24,
+        "score": 92.5
+      },
+      {
+        "valueFrom": 25,
+        "valueTo": 29,
+        "score": 89.7
+      },
+      {
+        "valueFrom": 30,
+        "valueTo": 34,
+        "score": 84.4
+      },
+      {
+        "valueFrom": 35,
+        "valueTo": 39,
+        "score": 74.9
+      },
+      {
+        "valueFrom": 40,
+        "valueTo": 44,
+        "score": 64.4
+      },
+      {
+        "valueFrom": 45,
+        "valueTo": 49,
+        "score": 59.9
+      },
+      {
+        "valueFrom": 50,
+        "valueTo": 54,
+        "score": 42.6
+      },
+      {
+        "valueFrom": 55,
+        "valueTo": 59,
+        "score": 31.4
+      },
+      {
+        "valueFrom": 60,
+        "valueTo": 64,
+        "score": 19.2
+      },
+      {
+        "valueFrom": 65,
+        "valueTo": 69,
+        "score": 13.3
+      },
+      {
+        "valueFrom": 70,
+        "valueTo": 74,
+        "score": 6.5
+      },
+      {
+        "valueFrom": 75,
+        "valueTo": 79,
+        "score": 3.2
+      },
+      {
+        "valueFrom": 80,
+        "valueTo": 84,
+        "score": 2.9
+      },
+      {
+        "valueFrom": 85,
+        "valueTo": 89,
+        "score": 0.0
+      },
+      {
+        "valueFrom": 90,
+        "valueTo": 94,
+        "score": 0.0
+      },
+      {
+        "valueFrom": 95,
+        "valueTo": 100,
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "key": "Above-125-Percent-National-Asset-Poverty-Line",
+    "description": null,
+    "entries": [
+      {
+        "valueFrom": 0,
+        "valueTo": 4,
+        "score": 1.2
+      },
+      {
+        "valueFrom": 5,
+        "valueTo": 9,
+        "score": 1.5
+      },
+      {
+        "valueFrom": 10,
+        "valueTo": 14,
+        "score": 2.5
+      },
+      {
+        "valueFrom": 15,
+        "valueTo": 19,
+        "score": 3.9
+      },
+      {
+        "valueFrom": 20,
+        "valueTo": 24,
+        "score": 7.5
+      },
+      {
+        "valueFrom": 25,
+        "valueTo": 29,
+        "score": 10.3
+      },
+      {
+        "valueFrom": 30,
+        "valueTo": 34,
+        "score": 15.6
+      },
+      {
+        "valueFrom": 35,
+        "valueTo": 39,
+        "score": 25.1
+      },
+      {
+        "valueFrom": 40,
+        "valueTo": 44,
+        "score": 35.6
+      },
+      {
+        "valueFrom": 45,
+        "valueTo": 49,
+        "score": 40.1
+      },
+      {
+        "valueFrom": 50,
+        "valueTo": 54,
+        "score": 57.4
+      },
+      {
+        "valueFrom": 55,
+        "valueTo": 59,
+        "score": 68.6
+      },
+      {
+        "valueFrom": 60,
+        "valueTo": 64,
+        "score": 80.8
+      },
+      {
+        "valueFrom": 65,
+        "valueTo": 69,
+        "score": 86.7
+      },
+      {
+        "valueFrom": 70,
+        "valueTo": 74,
+        "score": 93.5
+      },
+      {
+        "valueFrom": 75,
+        "valueTo": 79,
+        "score": 96.8
+      },
+      {
+        "valueFrom": 80,
+        "valueTo": 84,
+        "score": 97.1
+      },
+      {
+        "valueFrom": 85,
+        "valueTo": 89,
+        "score": 100.0
+      },
+      {
+        "valueFrom": 90,
+        "valueTo": 94,
+        "score": 100.0
+      },
+      {
+        "valueFrom": 95,
+        "valueTo": 100,
+        "score": 100.0
+      }
+    ]
+  },
+  {
+    "key": "Below-150-Percent-National-Asset-Poverty-Line": null,
+    "entries": [
+      {
+        "valueFrom": 0,
+        "valueTo": 4,
+        "score": 100.0
+      },
+      {
+        "valueFrom": 5,
+        "valueTo": 9,
+        "score": 100.0
+      },
+      {
+        "valueFrom": 10,
+        "valueTo": 14,
+        "score": 98.1
+      },
+      {
+        "valueFrom": 15,
+        "valueTo": 19,
+        "score": 97.7
+      },
+      {
+        "valueFrom": 20,
+        "valueTo": 24,
+        "score": 96.1
+      },
+      {
+        "valueFrom": 25,
+        "valueTo": 29,
+        "score": 94.4
+      },
+      {
+        "valueFrom": 30,
+        "valueTo": 34,
+        "score": 90.8
+      },
+      {
+        "valueFrom": 35,
+        "valueTo": 39,
+        "score": 84.4
+      },
+      {
+        "valueFrom": 40,
+        "valueTo": 44,
+        "score": 75.4
+      },
+      {
+        "valueFrom": 45,
+        "valueTo": 49,
+        "score": 70.9
+      },
+      {
+        "valueFrom": 50,
+        "valueTo": 54,
+        "score": 56.8
+      },
+      {
+        "valueFrom": 55,
+        "valueTo": 59,
+        "score": 45.4
+      },
+      {
+        "valueFrom": 60,
+        "valueTo": 64,
+        "score": 29.0
+      },
+      {
+        "valueFrom": 65,
+        "valueTo": 69,
+        "score": 19.9
+      },
+      {
+        "valueFrom": 70,
+        "valueTo": 74,
+        "score": 12.4
+      },
+      {
+        "valueFrom": 75,
+        "valueTo": 79,
+        "score": 8.2
+      },
+      {
+        "valueFrom": 80,
+        "valueTo": 84,
+        "score": 5.3
+      },
+      {
+        "valueFrom": 85,
+        "valueTo": 89,
+        "score": 0.0
+      },
+      {
+        "valueFrom": 90,
+        "valueTo": 94,
+        "score": 0.0
+      },
+      {
+        "valueFrom": 95,
+        "valueTo": 100,
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "key": "Above-150-Percent-National-Asset-Poverty-Line",
+    "description": null,
+    "entries": [
+      {
+        "valueFrom": 0,
+        "valueTo": 4,
+        "score": 0.0
+      },
+      {
+        "valueFrom": 5,
+        "valueTo": 9,
+        "score": 0.0
+      },
+      {
+        "valueFrom": 10,
+        "valueTo": 14,
+        "score": 1.9
+      },
+      {
+        "valueFrom": 15,
+        "valueTo": 19,
+        "score": 2.3
+      },
+      {
+        "valueFrom": 20,
+        "valueTo": 24,
+        "score": 3.9
+      },
+      {
+        "valueFrom": 25,
+        "valueTo": 29,
+        "score": 5.6
+      },
+      {
+        "valueFrom": 30,
+        "valueTo": 34,
+        "score": 9.2
+      },
+      {
+        "valueFrom": 35,
+        "valueTo": 39,
+        "score": 15.6
+      },
+      {
+        "valueFrom": 40,
+        "valueTo": 44,
+        "score": 24.6
+      },
+      {
+        "valueFrom": 45,
+        "valueTo": 49,
+        "score": 29.1
+      },
+      {
+        "valueFrom": 50,
+        "valueTo": 54,
+        "score": 43.2
+      },
+      {
+        "valueFrom": 55,
+        "valueTo": 59,
+        "score": 54.6
+      },
+      {
+        "valueFrom": 60,
+        "valueTo": 64,
+        "score": 71.0
+      },
+      {
+        "valueFrom": 65,
+        "valueTo": 69,
+        "score": 80.1
+      },
+      {
+        "valueFrom": 70,
+        "valueTo": 74,
+        "score": 87.6
+      },
+      {
+        "valueFrom": 75,
+        "valueTo": 79,
+        "score": 91.8
+      },
+      {
+        "valueFrom": 80,
+        "valueTo": 84,
+        "score": 94.7
+      },
+      {
+        "valueFrom": 85,
+        "valueTo": 89,
+        "score": 100.0
+      },
+      {
+        "valueFrom": 90,
+        "valueTo": 94,
+        "score": 100.0
+      },
+      {
+        "valueFrom": 95,
+        "valueTo": 100,
+        "score": 100.0
+      }
+    ]
+  },
+  {
+    "key": "Total-Below-USAID-Extreme-Poverty-Line", 
+    "description": null,
+    "entries": [
+      {
+        "valueFrom": 0,
+        "valueTo": 4,
+        "score": 83.9
+      },
+      {
+        "valueFrom": 5,
+        "valueTo": 9,
+        "score": 78.9
+      },
+      {
+        "valueFrom": 10,
+        "valueTo": 14,
+        "score": 68.9
+      },
+      {
+        "valueFrom": 15,
+        "valueTo": 19,
+        "score": 52.3
+      },
+      {
+        "valueFrom": 20,
+        "valueTo": 24,
+        "score": 53.6
+      },
+      {
+        "valueFrom": 25,
+        "valueTo": 29,
+        "score": 45.4
+      },
+      {
+        "valueFrom": 30,
+        "valueTo": 34,
+        "score": 37.8
+      },
+      {
+        "valueFrom": 35,
+        "valueTo": 39,
+        "score": 24.7
+      },
+      {
+        "valueFrom": 40,
+        "valueTo": 44,
+        "score": 15.3
+      },
+      {
+        "valueFrom": 45,
+        "valueTo": 49,
+        "score": 14.4
+      },
+      {
+        "valueFrom": 50,
+        "valueTo": 54,
+        "score": 8.9
+      },
+      {
+        "valueFrom": 55,
+        "valueTo": 59,
+        "score": 6.1
+      },
+      {
+        "valueFrom": 60,
+        "valueTo": 64,
+        "score": 3.9
+      },
+      {
+        "valueFrom": 65,
+        "valueTo": 69,
+        "score": 1.6
+      },
+      {
+        "valueFrom": 70,
+        "valueTo": 74,
+        "score": 0.5
+      },
+      {
+        "valueFrom": 75,
+        "valueTo": 79,
+        "score": 0.0
+      },
+      {
+        "valueFrom": 80,
+        "valueTo": 84,
+        "score": 0.5
+      },
+      {
+        "valueFrom": 85,
+        "valueTo": 89,
+        "score": 0.0
+      },
+      {
+        "valueFrom": 90,
+        "valueTo": 94,
+        "score": 0.0
+      },
+      {
+        "valueFrom": 95,
+        "valueTo": 100,
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "key": "Total-Above-USAID-Extreme-Poverty-Line",
+    "description": null,
+    "entries": [
+      {
+        "valueFrom": 0,
+        "valueTo": 4,
+        "score": 16.1
+      },
+      {
+        "valueFrom": 5,
+        "valueTo": 9,
+        "score": 21.1
+      },
+      {
+        "valueFrom": 10,
+        "valueTo": 14,
+        "score": 31.1
+      },
+      {
+        "valueFrom": 15,
+        "valueTo": 19,
+        "score": 47.7
+      },
+      {
+        "valueFrom": 20,
+        "valueTo": 24,
+        "score": 46.4
+      },
+      {
+        "valueFrom": 25,
+        "valueTo": 29,
+        "score": 54.6
+      },
+      {
+        "valueFrom": 30,
+        "valueTo": 34,
+        "score": 62.2
+      },
+      {
+        "valueFrom": 35,
+        "valueTo": 39,
+        "score": 75.3
+      },
+      {
+        "valueFrom": 40,
+        "valueTo": 44,
+        "score": 84.7
+      },
+      {
+        "valueFrom": 45,
+        "valueTo": 49,
+        "score": 85.6
+      },
+      {
+        "valueFrom": 50,
+        "valueTo": 54,
+        "score": 91.1
+      },
+      {
+        "valueFrom": 55,
+        "valueTo": 59,
+        "score": 93.9
+      },
+      {
+        "valueFrom": 60,
+        "valueTo": 64,
+        "score": 96.1
+      },
+      {
+        "valueFrom": 65,
+        "valueTo": 69,
+        "score": 98.4
+      },
+      {
+        "valueFrom": 70,
+        "valueTo": 74,
+        "score": 99.5
+      },
+      {
+        "valueFrom": 75,
+        "valueTo": 79,
+        "score": 100.0
+      },
+      {
+        "valueFrom": 80,
+        "valueTo": 84,
+        "score": 99.5
+      },
+      {
+        "valueFrom": 85,
+        "valueTo": 89,
+        "score": 100.0
+      },
+      {
+        "valueFrom": 90,
+        "valueTo": 94,
+        "score": 100.0
+      },
+      {
+        "valueFrom": 95,
+        "valueTo": 100,
+        "score": 100.0
+      }
+    ]
+  },
+  {
+    "key": "Below-125-day-2005-PPP",
+    "description": null,
+    "entries": [
+      {
+        "valueFrom": 0,
+        "valueTo": 4,
+        "score": 24.9
+      },
+      {
+        "valueFrom": 5,
+        "valueTo": 9,
+        "score": 21.3
+      },
+      {
+        "valueFrom": 10,
+        "valueTo": 14,
+        "score": 13.4
+      },
+      {
+        "valueFrom": 15,
+        "valueTo": 19,
+        "score": 8.5
+      },
+      {
+        "valueFrom": 20,
+        "valueTo": 24,
+        "score": 4.5
+      },
+      {
+        "valueFrom": 25,
+        "valueTo": 29,
+        "score": 2.8
+      },
+      {
+        "valueFrom": 30,
+        "valueTo": 34,
+        "score": 1.9
+      },
+      {
+        "valueFrom": 35,
+        "valueTo": 39,
+        "score": 0.9
+      },
+      {
+        "valueFrom": 40,
+        "valueTo": 44,
+        "score": 0.6
+      },
+      {
+        "valueFrom": 45,
+        "valueTo": 49,
+        "score": 0.1
+      },
+      {
+        "valueFrom": 50,
+        "valueTo": 54,
+        "score": 0.7
+      },
+      {
+        "valueFrom": 55,
+        "valueTo": 59,
+        "score": 0.4
+      },
+      {
+        "valueFrom": 60,
+        "valueTo": 64,
+        "score": 0.1
+      },
+      {
+        "valueFrom": 65,
+        "valueTo": 69,
+        "score": 0.0
+      },
+      {
+        "valueFrom": 70,
+        "valueTo": 74,
+        "score": 0.0
+      },
+      {
+        "valueFrom": 75,
+        "valueTo": 79,
+        "score": 0.0
+      },
+      {
+        "valueFrom": 80,
+        "valueTo": 84,
+        "score": 0.0
+      },
+      {
+        "valueFrom": 85,
+        "valueTo": 89,
+        "score": 0.0
+      },
+      {
+        "valueFrom": 90,
+        "valueTo": 94,
+        "score": 0.0
+      },
+      {
+        "valueFrom": 95,
+        "valueTo": 100,
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "key": "Above-125-day-2005-PPP",
+    "description": null,
+    "entries": [
+      {
+        "valueFrom": 0,
+        "valueTo": 4,
+        "score": 75.1
+      },
+      {
+        "valueFrom": 5,
+        "valueTo": 9,
+        "score": 78.7
+      },
+      {
+        "valueFrom": 10,
+        "valueTo": 14,
+        "score": 86.6
+      },
+      {
+        "valueFrom": 15,
+        "valueTo": 19,
+        "score": 91.5
+      },
+      {
+        "valueFrom": 20,
+        "valueTo": 24,
+        "score": 95.5
+      },
+      {
+        "valueFrom": 25,
+        "valueTo": 29,
+        "score": 97.2
+      },
+      {
+        "valueFrom": 30,
+        "valueTo": 34,
+        "score": 98.1
+      },
+      {
+        "valueFrom": 35,
+        "valueTo": 39,
+        "score": 99.1
+      },
+      {
+        "valueFrom": 40,
+        "valueTo": 44,
+        "score": 99.4
+      },
+      {
+        "valueFrom": 45,
+        "valueTo": 49,
+        "score": 99.9
+      },
+      {
+        "valueFrom": 50,
+        "valueTo": 54,
+        "score": 99.3
+      },
+      {
+        "valueFrom": 55,
+        "valueTo": 59,
+        "score": 99.6
+      },
+      {
+        "valueFrom": 60,
+        "valueTo": 64,
+        "score": 99.9
+      },
+      {
+        "valueFrom": 65,
+        "valueTo": 69,
+        "score": 100.0
+      },
+      {
+        "valueFrom": 70,
+        "valueTo": 74,
+        "score": 100.0
+      },
+      {
+        "valueFrom": 75,
+        "valueTo": 79,
+        "score": 100.0
+      },
+      {
+        "valueFrom": 80,
+        "valueTo": 84,
+        "score": 100.0
+      },
+      {
+        "valueFrom": 85,
+        "valueTo": 89,
+        "score": 100.0
+      },
+      {
+        "valueFrom": 90,
+        "valueTo": 94,
+        "score": 100.0
+      },
+      {
+        "valueFrom": 95,
+        "valueTo": 100,
+        "score": 100.0
+      }
+    ]
+  },
+ {
+    "key": "Below-250-Day-2005-PPP",
+    "description": null,
+    "entries": [
+      {
+        "valueFrom": 0,
+        "valueTo": 4,
+        "score": 64.5
+      },
+      {
+        "valueFrom": 5,
+        "valueTo": 9,
+        "score": 66.5
+      },
+      {
+        "valueFrom": 10,
+        "valueTo": 14,
+        "score": 51.3
+      },
+      {
+        "valueFrom": 15,
+        "valueTo": 19,
+        "score": 25.2
+      },
+      {
+        "valueFrom": 20,
+        "valueTo": 24,
+        "score": 33.4
+      },
+      {
+        "valueFrom": 25,
+        "valueTo": 29,
+        "score": 18.7
+      },
+      {
+        "valueFrom": 30,
+        "valueTo": 34,
+        "score": 14.6
+      },
+      {
+        "valueFrom": 35,
+        "valueTo": 39,
+        "score": 7.6
+      },
+      {
+        "valueFrom": 40,
+        "valueTo": 44,
+        "score": 4.5
+      },
+      {
+        "valueFrom": 45,
+        "valueTo": 49,
+        "score": 3.8
+      },
+      {
+        "valueFrom": 50,
+        "valueTo": 54,
+        "score": 2.8
+      },
+      {
+        "valueFrom": 55,
+        "valueTo": 59,
+        "score": 1.1
+      },
+      {
+        "valueFrom": 60,
+        "valueTo": 64,
+        "score": 0.6
+      },
+      {
+        "valueFrom": 65,
+        "valueTo": 69,
+        "score": 0.8
+      },
+      {
+        "valueFrom": 70,
+        "valueTo": 74,
+        "score": 0.0
+      },
+      {
+        "valueFrom": 75,
+        "valueTo": 79,
+        "score": 0.0
+      },
+      {
+        "valueFrom": 80,
+        "valueTo": 84,
+        "score": 0.0
+      },
+      {
+        "valueFrom": 85,
+        "valueTo": 89,
+        "score": 0.0
+      },
+      {
+        "valueFrom": 90,
+        "valueTo": 94,
+        "score": 0.0
+      },
+      {
+        "valueFrom": 95,
+        "valueTo": 100,
+        "score": 0.0
+      }
+    ]
+  },
+ {
+    "key": "Above-250-Day-2005-PPP",
+    "description": null,
+    "entries": [
+      {
+        "valueFrom": 0,
+        "valueTo": 4,
+        "score": 35.5
+      },
+      {
+        "valueFrom": 5,
+        "valueTo": 9,
+        "score": 33.5
+      },
+      {
+        "valueFrom": 10,
+        "valueTo": 14,
+        "score": 48.7
+      },
+      {
+        "valueFrom": 15,
+        "valueTo": 19,
+        "score": 74.8
+      },
+      {
+        "valueFrom": 20,
+        "valueTo": 24,
+        "score": 66.6
+      },
+      {
+        "valueFrom": 25,
+        "valueTo": 29,
+        "score": 81.3
+      },
+      {
+        "valueFrom": 30,
+        "valueTo": 34,
+        "score": 85.4
+      },
+      {
+        "valueFrom": 35,
+        "valueTo": 39,
+        "score": 92.4
+      },
+      {
+        "valueFrom": 40,
+        "valueTo": 44,
+        "score": 95.5
+      },
+      {
+        "valueFrom": 45,
+        "valueTo": 49,
+        "score": 96.2
+      },
+      {
+        "valueFrom": 50,
+        "valueTo": 54,
+        "score": 97.2
+      },
+      {
+        "valueFrom": 55,
+        "valueTo": 59,
+        "score": 98.9
+      },
+      {
+        "valueFrom": 60,
+        "valueTo": 64,
+        "score": 99.4
+      },
+      {
+        "valueFrom": 65,
+        "valueTo": 69,
+        "score": 99.2
+      },
+      {
+        "valueFrom": 70,
+        "valueTo": 74,
+        "score": 100.0
+      },
+      {
+        "valueFrom": 75,
+        "valueTo": 79,
+        "score": 100.0
+      },
+      {
+        "valueFrom": 80,
+        "valueTo": 84,
+        "score": 100.0
+      },
+      {
+        "valueFrom": 85,
+        "valueTo": 89,
+        "score": 100.0
+      },
+      {
+        "valueFrom": 90,
+        "valueTo": 94,
+        "score": 100.0
+      },
+      {
+        "valueFrom": 95,
+        "valueTo": 100,
+        "score": 100.0
+      }
+    ]
+  },
+]
