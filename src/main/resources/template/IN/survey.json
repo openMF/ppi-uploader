@@ -1,0 +1,267 @@
+{
+  "key":"ppi-india-2012",
+  "name":"PPI Survey for India, created in May 2012 based on data from 2009",
+  "description":null,
+  "countryCode":"IN",
+  "validFrom":null,
+  "validTo":null,
+  "componentDatas": null,
+  "questionDatas":
+  [
+    {
+      "componentKey":null,
+      "key":"household-members-17",
+      "text":"How many household members are 17-years-old or younger?",
+      "description":null,
+      "sequenceNo":1,
+      "responseDatas":
+      [
+        {
+          "text":"A. Four or more",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Three",
+          "value":7,
+          "sequenceNo":2
+        },
+        {
+          "text":"C. Two",
+          "value":11,
+          "sequenceNo":3
+        },
+        {
+          "text":"D. One",
+          "value":17,
+          "sequenceNo":4
+        },
+        {
+          "text":"E. Zero",
+          "value":26,
+          "sequenceNo":5
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"male-education",
+      "text":"What is the general education level of the male head/spouse",
+      "description":null,
+      "sequenceNo":2,
+      "responseDatas":
+      [
+        {
+          "text":"A. No male head/spouse",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Not literate, no formal school, or primary or below",
+          "value":0,
+          "sequenceNo":2
+        },
+        {
+          "text":"C. Middle",
+          "value":3,
+          "sequenceNo":3
+        },
+        {
+          "text":"D. Secondary or higher secondary",
+          "value":5,
+          "sequenceNo":4
+        },
+        {
+          "text":"E. Diploma/certificate course, graduate, or postgraduate and above",
+          "value":7,
+          "sequenceNo":5
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"household-type",
+      "text":"What is the household type?",
+      "description":null,
+      "sequenceNo":3,
+      "responseDatas":
+      [
+        {
+          "text":"A. Labour (agricultural, casual, or other)",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Self-employed (agriculture or non-agriculture), regular wage/salary-earning, or others",
+          "value":5,
+          "sequenceNo":2
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"unskilled-workers",
+      "text":"What is the primary source of energy for cooking?",
+      "description":null,
+      "sequenceNo":4,
+      "responseDatas":
+      [
+        {
+          "text":"A. Firewood and chips, dung cake, kerosene, charcoal, coke or coal, gobar gas, or others",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. LPG or electricity",
+          "value":3,
+          "sequenceNo":2
+        },
+        {
+          "text":"C. No cooking arrangement ",
+          "value":9,
+          "sequenceNo":3
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"casseroles-thermos-thermoware",
+      "text":"Does the household possess any casseroles, thermos, or thermoware?",
+      "description":null,
+      "sequenceNo":5,
+      "responseDatas":
+      [
+        {
+          "text":"A. No",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Yes",
+          "value":5,
+          "sequenceNo":2
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"television-vcr-vcd-dvd",
+      "text":" Does the household possess a television and a VCR/VCD/DVD player?",
+      "description":null,
+      "sequenceNo":6,
+      "responseDatas":
+      [
+        {
+          "text":"A. No, neither one",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Yes, only one",
+          "value":4,
+          "sequenceNo":2
+        },
+        {
+          "text":"C. Yes, both",
+          "value":9,
+          "sequenceNo":3
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"mobile-handset-landline",
+      "text":"Does the household possess a mobile handset and a telephone instrument (landline)?",
+      "description":null,
+      "sequenceNo":7,
+      "responseDatas":
+      [
+        {
+          "text":"A. No, neither one",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Yes, only a mobile",
+          "value":9,
+          "sequenceNo":2
+        },
+        {
+          "text":"C. Yes, a landline, regardless of mobile",
+          "value":15,
+          "sequenceNo":2
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"sewing-machine",
+      "text":"Does the household possess a sewing machine?",
+      "description":null,
+      "sequenceNo":8,
+      "responseDatas":
+      [
+        {
+          "text":"A. No",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Yes",
+          "value":1,
+          "sequenceNo":2
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"almirah-dressing-table",
+      "text":"Does the household possess an almirah/dressing table? ",
+      "description":null,
+      "sequenceNo":9,
+      "responseDatas":
+      [
+        {
+          "text":"A. No",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Yes",
+          "value":5,
+          "sequenceNo":2
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"bicycle-scooter-car",
+      "text":". Does the household possess a bicycle, motorcycle/scooter, or motor car/jeep?",
+      "description":null,
+      "sequenceNo":10,
+      "responseDatas":
+      [
+        {
+          "text":"A. No, none",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Yes, bicycle only, no motorcycle/scooter, or car",
+          "value":1,
+          "sequenceNo":2
+        },
+        {
+          "text":"C. Motorcycle/scooter, but no car (regardless of bicycle)",
+          "value":13,
+          "sequenceNo":3
+        },
+        {
+          "text":"D. Motor car/jeep (regardless of others)",
+          "value":18,
+          "sequenceNo":4
+        }
+      ]
+    }
+  ]
+}
