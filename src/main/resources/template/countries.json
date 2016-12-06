@@ -1,5 +1,8 @@
 [
-
+  {
+	    "name": "Philippines",
+	    "countryCode": "PH"
+	  },
 	  {
 	    "name": "Honduras",
 	    "countryCode": "HN"
