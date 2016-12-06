@@ -1,0 +1,282 @@
+{
+  "key":"ppi-dominican-republic-2010",
+  "name":"PPI Survey for the Dominican Republic, updated November 2010",
+  "description":null,
+  "countryCode":"DO",
+  "validFrom":null,
+  "validTo":null,
+  "componentDatas": null,
+  "questionDatas":
+  [
+    {
+      "componentKey":null,
+      "key":"household-members-under-16",
+      "text":"How many household members are 16-years-old or younger?",
+      "description":null,
+      "sequenceNo":1,
+      "responseDatas":
+      [
+        {
+          "text":"A. Four or more",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Three",
+          "value":3,
+          "sequenceNo":2
+        },
+        {
+          "text":"C. Two",
+          "value":7,
+          "sequenceNo":3
+        },
+        {
+          "text":"D. One",
+          "value":11,
+          "sequenceNo":4
+        },
+        {
+          "text":"E. None",
+          "value":12,
+          "sequenceNo":5
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"highest-level-female",
+      "text":"What is the highest level and grade that fhe female head/spouse has passed?",
+      "description":null,
+      "sequenceNo":2,
+      "responseDatas":
+      [
+        {
+          "text":"A. None, or up to first grade",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Second to fifth grade",
+          "value":2,
+          "sequenceNo":2
+        },
+        {
+          "text":"C. Sixth or seventh grade",
+          "value":3,
+          "sequenceNo":3
+        },
+        {
+          "text":"D. Eight to twelfth grade",
+          "value":5,
+          "sequenceNo":4
+        },
+        {
+          "text":"E. There is no female head/spouse",
+          "value":5,
+          "sequenceNo":5
+        },
+        {
+          "text":"F. One to three years of post-secondary school or college",
+          "value":7,
+          "sequenceNo":6
+        },
+        {
+          "text":"G. Four or more years of post-secondary school or college",
+          "value":10,
+          "sequenceNo":7
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"private-school",
+      "text":"Does any household member attend a private or semi-private school?",
+      "description":null,
+      "sequenceNo":3,
+      "responseDatas":
+      [
+        {
+          "text":"A. No",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Yes",
+          "value":4,
+          "sequenceNo":2
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"primary-industry-activity",
+      "text":"How many household members work in a business whose main activity is agriculture, animal husbandry, hunting, fishing, mining, or quarrying?",
+      "description":null,
+      "sequenceNo":4,
+      "responseDatas":
+      [
+        {
+          "text":"A. Five or more",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Four",
+          "value":6,
+          "sequenceNo":2
+        },
+        {
+          "text":"C. Three",
+          "value":7,
+          "sequenceNo":3
+        },
+        {
+          "text":"D. Two",
+          "value":11,
+          "sequenceNo":4
+        },
+        {
+          "text":"E. One",
+          "value":19,
+          "sequenceNo":5
+        },
+        {
+          "text":"F. None",
+          "value":22,
+          "sequenceNo":6
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"roof-material",
+      "text":"What is the main material of the roof?",
+      "description":null,
+      "sequenceNo":5,
+      "responseDatas":
+      [
+        {
+          "text":"A. Tin, asbestos, yagua leaves, cane, or other",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Reinforced concrete",
+          "value":3,
+          "sequenceNo":2
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"toilet-arrangement",
+      "text":"What type of toilet arrangement does the household have?",
+      "description":null,
+      "sequenceNo":6,
+      "responseDatas":
+      [
+        {
+          "text":"A. Not private flush toilet",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Private flush toilet",
+          "value":4,
+          "sequenceNo":2
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"water-meter",
+      "text":"Does the residence have a water meter?",
+      "description":null,
+      "sequenceNo":7,
+      "responseDatas":
+      [
+        {
+          "text":"A. No",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Yes",
+          "value":8,
+          "sequenceNo":2
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"cooking-fuel",
+      "text":"What the the principal cooking fuel used by the household?",
+      "description":null,
+      "sequenceNo":8,
+      "responseDatas":
+      [
+        {
+          "text":"A. Firewood, charcoal, kerosene, or other",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Electricity or propane",
+          "value":8,
+          "sequenceNo":2
+        },
+        {
+          "text":"C. Does not cook",
+          "value":13,
+          "sequenceNo":3
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"motorcycle-car-SUV-pickup",
+      "text":"Does the household have a motorcycle, car, SUV, or pick-up?",
+      "description":null,
+      "sequenceNo":9,
+      "responseDatas":
+      [
+        {
+          "text":"A. No",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Motorcycle only",
+          "value":5,
+          "sequenceNo":2
+        },
+        {
+          "text":"C. Car, SUV, or pick-up (regardless of motorcycle)",
+          "value":17,
+          "sequenceNo":3
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"vcr-dvd",
+      "text":"Does the household have a VCR or DVD?",
+      "description":null,
+      "sequenceNo":10,
+      "responseDatas":
+      [
+        {
+          "text":"A. No",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Yes",
+          "value":7,
+          "sequenceNo":2
+        }
+      ]
+    }
+  ]
+}
