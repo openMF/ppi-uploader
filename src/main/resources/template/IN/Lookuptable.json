@@ -1,0 +1,1804 @@
+[
+  {
+    "key": "Legacy_R59_National_Saxena_India_2009",
+    "description": null,
+    "entries": [
+      {
+        "valueFrom": 0,
+        "valueFrom": 4,
+        "score": 66.2
+      },
+      {
+        "valueFrom": 5,
+        "valueFrom": 9,
+        "score": 58.8
+      },
+      {
+        "valueFrom": 10,
+        "valueFrom": 14,
+        "score": 41.4
+      },
+      {
+        "valueFrom": 15,
+        "valueFrom": 19,
+        "score": 31.5
+      },
+      {
+        "valueFrom": 20,
+        "valueFrom": 24,
+        "score": 22.9
+      },
+      {
+        "valueFrom": 25,
+        "valueFrom": 29,
+        "score": 15.8
+      },
+      {
+        "valueFrom": 30,
+        "valueFrom": 34,
+        "score": 11.8
+      },
+      {
+        "valueFrom": 35,
+        "valueFrom": 39,
+        "score": 6.9
+      },
+      {
+        "valueFrom": 40,
+        "valueFrom": 44,
+        "score": 4.6
+      },
+      {
+        "valueFrom": 45,
+        "valueFrom": 49,
+        "score": 2.8
+      },
+      {
+        "valueFrom": 50,
+        "valueFrom": 54,
+        "score": 2
+      },
+      {
+        "valueFrom": 55,
+        "valueFrom": 59,
+        "score": 1.4
+      },
+      {
+        "valueFrom": 60,
+        "valueFrom": 64,
+        "score": 0.8
+      },
+      {
+        "valueFrom": 65,
+        "valueFrom": 69,
+        "score": 0.4
+      },
+      {
+        "valueFrom": 70,
+        "valueFrom": 74,
+        "score": 0.2
+      },
+      {
+        "valueFrom": 75,
+        "valueFrom": 79,
+        "score": 0.1
+      },
+      {
+        "valueFrom": 80,
+        "valueFrom": 84,
+        "score": 0.1
+      },
+      {
+        "valueFrom": 85,
+        "valueFrom": 89,
+        "score": 0
+      },
+      {
+        "valueFrom": 90,
+        "valueFrom": 94,
+        "score": 0
+      },
+      {
+        "valueFrom": 95,
+        "valueFrom": 100,
+        "score": 0
+      }
+    ]
+  },
+  {
+    "key": "Legacy_R59_$1.08/day/1993_PPP_India_2009",
+    "description": null,
+    "entries": [
+      {
+        "valueFrom": 0,
+        "valueFrom": 4,
+        "score": 83.9
+      },
+      {
+        "valueFrom": 5,
+        "valueFrom": 9,
+        "score": 75.5
+      },
+      {
+        "valueFrom": 10,
+        "valueFrom": 14,
+        "score": 66.4
+      },
+      {
+        "valueFrom": 15,
+        "valueFrom": 19,
+        "score": 56.5
+      },
+      {
+        "valueFrom": 20,
+        "valueFrom": 24,
+        "score": 41.6
+      },
+      {
+        "valueFrom": 25,
+        "valueFrom": 29,
+        "score": 32.5
+      },
+      {
+        "valueFrom": 30,
+        "valueFrom": 34,
+        "score": 25
+      },
+      {
+        "valueFrom": 35,
+        "valueFrom": 39,
+        "score": 15.7
+      },
+      {
+        "valueFrom": 40,
+        "valueFrom": 44,
+        "score": 9.3
+      },
+      {
+        "valueFrom": 45,
+        "valueFrom": 49,
+        "score": 5.7
+      },
+      {
+        "valueFrom": 50,
+        "valueFrom": 54,
+        "score": 3.2
+      },
+      {
+        "valueFrom": 55,
+        "valueFrom": 59,
+        "score": 1.9
+      },
+      {
+        "valueFrom": 60,
+        "valueFrom": 64,
+        "score": 1.2
+      },
+      {
+        "valueFrom": 65,
+        "valueFrom": 69,
+        "score": 0.3
+      },
+      {
+        "valueFrom": 70,
+        "valueFrom": 74,
+        "score": 0.1
+      },
+      {
+        "valueFrom": 75,
+        "valueFrom": 79,
+        "score": 0
+      },
+      {
+        "valueFrom": 80,
+        "valueFrom": 84,
+        "score": 0
+      },
+      {
+        "valueFrom": 85,
+        "valueFrom": 89,
+        "score": 0
+      },
+      {
+        "valueFrom": 90,
+        "valueFrom": 94,
+        "score": 0
+      },
+      {
+        "valueFrom": 95,
+        "valueFrom": 100,
+        "score": 0
+      }
+    ]
+  },
+  {
+    "key": "Legacy_R59_$2.16/day/1993_PPP_India_2009",
+    "description": null,
+    "entries": [
+      {
+        "valueFrom": 0,
+        "valueFrom": 4,
+        "score": 99.9
+      },
+      {
+        "valueFrom": 5,
+        "valueFrom": 9,
+        "score": 99.9
+      },
+      {
+        "valueFrom": 10,
+        "valueFrom": 14,
+        "score": 99
+      },
+      {
+        "valueFrom": 15,
+        "valueFrom": 19,
+        "score": 98.5
+      },
+      {
+        "valueFrom": 20,
+        "valueFrom": 24,
+        "score": 97.3
+      },
+      {
+        "valueFrom": 25,
+        "valueFrom": 29,
+        "score": 94.1
+      },
+      {
+        "valueFrom": 30,
+        "valueFrom": 34,
+        "score": 87.1
+      },
+      {
+        "valueFrom": 35,
+        "valueFrom": 39,
+        "score": 81
+      },
+      {
+        "valueFrom": 40,
+        "valueFrom": 44,
+        "score": 71.9
+      },
+      {
+        "valueFrom": 45,
+        "valueFrom": 49,
+        "score": 63.7
+      },
+      {
+        "valueFrom": 50,
+        "valueFrom": 54,
+        "score": 54.3
+      },
+      {
+        "valueFrom": 55,
+        "valueFrom": 59,
+        "score": 44.1
+      },
+      {
+        "valueFrom": 60,
+        "valueFrom": 64,
+        "score": 34.3
+      },
+      {
+        "valueFrom": 65,
+        "valueFrom": 69,
+        "score": 24.9
+      },
+      {
+        "valueFrom": 70,
+        "valueFrom": 74,
+        "score": 17.9
+      },
+      {
+        "valueFrom": 75,
+        "valueFrom": 79,
+        "score": 10.5
+      },
+      {
+        "valueFrom": 80,
+        "valueFrom": 84,
+        "score": 6.3
+      },
+      {
+        "valueFrom": 85,
+        "valueFrom": 89,
+        "score": 3.2
+      },
+      {
+        "valueFrom": 90,
+        "valueFrom": 94,
+        "score": 0.7
+      },
+      {
+        "valueFrom": 95,
+        "valueFrom": 100,
+        "score": 0
+      }
+    ]
+  },
+  {
+    "key": "Legacy_R62_National_Saxena_India_2009",
+    "description": null,
+    "entries": [
+      {
+        "valueFrom": 0,
+        "valueFrom": 4,
+        "score": 61.5
+      },
+      {
+        "valueFrom": 5,
+        "valueFrom": 9,
+        "score": 53.2
+      },
+      {
+        "valueFrom": 10,
+        "valueFrom": 14,
+        "score": 37.5
+      },
+      {
+        "valueFrom": 15,
+        "valueFrom": 19,
+        "score": 28.1
+      },
+      {
+        "valueFrom": 20,
+        "valueFrom": 24,
+        "score": 20.6
+      },
+      {
+        "valueFrom": 25,
+        "valueFrom": 29,
+        "score": 13.3
+      },
+      {
+        "valueFrom": 30,
+        "valueFrom": 34,
+        "score": 10.1
+      },
+      {
+        "valueFrom": 35,
+        "valueFrom": 39,
+        "score": 7.1
+      },
+      {
+        "valueFrom": 40,
+        "valueFrom": 44,
+        "score": 4.3
+      },
+      {
+        "valueFrom": 45,
+        "valueFrom": 49,
+        "score": 2.9
+      },
+      {
+        "valueFrom": 50,
+        "valueFrom": 54,
+        "score": 2.1
+      },
+      {
+        "valueFrom": 55,
+        "valueFrom": 59,
+        "score": 1.4
+      },
+      {
+        "valueFrom": 60,
+        "valueFrom": 64,
+        "score": 0.8
+      },
+      {
+        "valueFrom": 65,
+        "valueFrom": 69,
+        "score": 0.4
+      },
+      {
+        "valueFrom": 70,
+        "valueFrom": 74,
+        "score": 0.2
+      },
+      {
+        "valueFrom": 75,
+        "valueFrom": 79,
+        "score": 0.1
+      },
+      {
+        "valueFrom": 80,
+        "valueFrom": 84,
+        "score": 0.1
+      },
+      {
+        "valueFrom": 85,
+        "valueFrom": 89,
+        "score": 0
+      },
+      {
+        "valueFrom": 90,
+        "valueFrom": 94,
+        "score": 0
+      },
+      {
+        "valueFrom": 95,
+        "valueFrom": 100,
+        "score": 0
+      }
+    ]
+  },
+  {
+    "key": "Legacy_R62_$1.08/day/1993_PPP_India_2009",
+    "description": null,
+    "entries": [
+      {
+        "valueFrom": 0,
+        "valueFrom": 4,
+        "score": 77.4
+      },
+      {
+        "valueFrom": 5,
+        "valueFrom": 9,
+        "score": 68.8
+      },
+      {
+        "valueFrom": 10,
+        "valueFrom": 14,
+        "score": 56.2
+      },
+      {
+        "valueFrom": 15,
+        "valueFrom": 19,
+        "score": 46.6
+      },
+      {
+        "valueFrom": 20,
+        "valueFrom": 24,
+        "score": 32.9
+      },
+      {
+        "valueFrom": 25,
+        "valueFrom": 29,
+        "score": 24.9
+      },
+      {
+        "valueFrom": 30,
+        "valueFrom": 34,
+        "score": 17.7
+      },
+      {
+        "valueFrom": 35,
+        "valueFrom": 39,
+        "score": 10.3
+      },
+      {
+        "valueFrom": 40,
+        "valueFrom": 44,
+        "score": 6.4
+      },
+      {
+        "valueFrom": 45,
+        "valueFrom": 49,
+        "score": 3.3
+      },
+      {
+        "valueFrom": 50,
+        "valueFrom": 54,
+        "score": 1.9
+      },
+      {
+        "valueFrom": 55,
+        "valueFrom": 59,
+        "score": 0.9
+      },
+      {
+        "valueFrom": 60,
+        "valueFrom": 64,
+        "score": 0.5
+      },
+      {
+        "valueFrom": 65,
+        "valueFrom": 69,
+        "score": 0.1
+      },
+      {
+        "valueFrom": 70,
+        "valueFrom": 74,
+        "score": 0
+      },
+      {
+        "valueFrom": 75,
+        "valueFrom": 79,
+        "score": 0
+      },
+      {
+        "valueFrom": 80,
+        "valueFrom": 84,
+        "score": 0
+      },
+      {
+        "valueFrom": 85,
+        "valueFrom": 89,
+        "score": 0
+      },
+      {
+        "valueFrom": 90,
+        "valueFrom": 94,
+        "score": 0
+      },
+      {
+        "valueFrom": 95,
+        "valueFrom": 100,
+        "score": 0
+      }
+    ]
+  },
+  {
+    "key": "Legacy_R62_$0.81/day/1993_PPP_India_2009",
+    "description": null,
+    "entries": [
+      {
+        "valueFrom": 0,
+        "valueFrom": 4,
+        "score": 40.4
+      },
+      {
+        "valueFrom": 5,
+        "valueFrom": 9,
+        "score": 31.5
+      },
+      {
+        "valueFrom": 10,
+        "valueFrom": 14,
+        "score": 21.7
+      },
+      {
+        "valueFrom": 15,
+        "valueFrom": 19,
+        "score": 14.3
+      },
+      {
+        "valueFrom": 20,
+        "valueFrom": 24,
+        "score": 8.2
+      },
+      {
+        "valueFrom": 25,
+        "valueFrom": 29,
+        "score": 6.8
+      },
+      {
+        "valueFrom": 30,
+        "valueFrom": 34,
+        "score": 4.1
+      },
+      {
+        "valueFrom": 35,
+        "valueFrom": 39,
+        "score": 2.1
+      },
+      {
+        "valueFrom": 40,
+        "valueFrom": 44,
+        "score": 0.9
+      },
+      {
+        "valueFrom": 45,
+        "valueFrom": 49,
+        "score": 0.5
+      },
+      {
+        "valueFrom": 50,
+        "valueFrom": 54,
+        "score": 0.2
+      },
+      {
+        "valueFrom": 55,
+        "valueFrom": 59,
+        "score": 0.2
+      },
+      {
+        "valueFrom": 60,
+        "valueFrom": 64,
+        "score": 0.1
+      },
+      {
+        "valueFrom": 65,
+        "valueFrom": 69,
+        "score": 0
+      },
+      {
+        "valueFrom": 70,
+        "valueFrom": 74,
+        "score": 0
+      },
+      {
+        "valueFrom": 75,
+        "valueFrom": 79,
+        "score": 0
+      },
+      {
+        "valueFrom": 80,
+        "valueFrom": 84,
+        "score": 0
+      },
+      {
+        "valueFrom": 85,
+        "valueFrom": 89,
+        "score": 0
+      },
+      {
+        "valueFrom": 90,
+        "valueFrom": 94,
+        "score": 0
+      },
+      {
+        "valueFrom": 95,
+        "valueFrom": 100,
+        "score": 0
+      }
+    ]
+  },
+  {
+    "key": "Legacy_R62_$1.35/day/1993_PPP_India_2009",
+    "description": null,
+    "entries": [
+      {
+        "valueFrom": 0,
+        "valueFrom": 4,
+        "score": 96.3
+      },
+      {
+        "valueFrom": 5,
+        "valueFrom": 9,
+        "score": 87
+      },
+      {
+        "valueFrom": 10,
+        "valueFrom": 14,
+        "score": 83.1
+      },
+      {
+        "valueFrom": 15,
+        "valueFrom": 19,
+        "score": 73.6
+      },
+      {
+        "valueFrom": 20,
+        "valueFrom": 24,
+        "score": 62.4
+      },
+      {
+        "valueFrom": 25,
+        "valueFrom": 29,
+        "score": 50.6
+      },
+      {
+        "valueFrom": 30,
+        "valueFrom": 34,
+        "score": 42.2
+      },
+      {
+        "valueFrom": 35,
+        "valueFrom": 39,
+        "score": 29
+      },
+      {
+        "valueFrom": 40,
+        "valueFrom": 44,
+        "score": 18.7
+      },
+      {
+        "valueFrom": 45,
+        "valueFrom": 49,
+        "score": 13.3
+      },
+      {
+        "valueFrom": 50,
+        "valueFrom": 54,
+        "score": 8.3
+      },
+      {
+        "valueFrom": 55,
+        "valueFrom": 59,
+        "score": 5.2
+      },
+      {
+        "valueFrom": 60,
+        "valueFrom": 64,
+        "score": 3
+      },
+      {
+        "valueFrom": 65,
+        "valueFrom": 69,
+        "score": 0.9
+      },
+      {
+        "valueFrom": 70,
+        "valueFrom": 74,
+        "score": 0.7
+      },
+      {
+        "valueFrom": 75,
+        "valueFrom": 79,
+        "score": 0.4
+      },
+      {
+        "valueFrom": 80,
+        "valueFrom": 84,
+        "score": 0.2
+      },
+      {
+        "valueFrom": 85,
+        "valueFrom": 89,
+        "score": 0
+      },
+      {
+        "valueFrom": 90,
+        "valueFrom": 94,
+        "score": 0
+      },
+      {
+        "valueFrom": 95,
+        "valueFrom": 100,
+        "score": 0
+      }
+    ]
+  },
+  {
+    "key": "Legacy_R62_$1.62/day/1993_PPP_India_2009",
+    "description": null,
+    "entries": [
+      {
+        "valueFrom": 0,
+        "valueFrom": 4,
+        "score": 99.2
+      },
+      {
+        "valueFrom": 5,
+        "valueFrom": 9,
+        "score": 97.5
+      },
+      {
+        "valueFrom": 10,
+        "valueFrom": 14,
+        "score": 93.5
+      },
+      {
+        "valueFrom": 15,
+        "valueFrom": 19,
+        "score": 89.5
+      },
+      {
+        "valueFrom": 20,
+        "valueFrom": 24,
+        "score": 81.4
+      },
+      {
+        "valueFrom": 25,
+        "valueFrom": 29,
+        "score": 72.1
+      },
+      {
+        "valueFrom": 30,
+        "valueFrom": 34,
+        "score": 62.1
+      },
+      {
+        "valueFrom": 35,
+        "valueFrom": 39,
+        "score": 50.3
+      },
+      {
+        "valueFrom": 40,
+        "valueFrom": 44,
+        "score": 36.7
+      },
+      {
+        "valueFrom": 45,
+        "valueFrom": 49,
+        "score": 28.5
+      },
+      {
+        "valueFrom": 50,
+        "valueFrom": 54,
+        "score": 20.7
+      },
+      {
+        "valueFrom": 55,
+        "valueFrom": 59,
+        "score": 14.2
+      },
+      {
+        "valueFrom": 60,
+        "valueFrom": 64,
+        "score": 8.3
+      },
+      {
+        "valueFrom": 65,
+        "valueFrom": 69,
+        "score": 4.8
+      },
+      {
+        "valueFrom": 70,
+        "valueFrom": 74,
+        "score": 2.6
+      },
+      {
+        "valueFrom": 75,
+        "valueFrom": 79,
+        "score": 1.5
+      },
+      {
+        "valueFrom": 80,
+        "valueFrom": 84,
+        "score": 0.7
+      },
+      {
+        "valueFrom": 85,
+        "valueFrom": 89,
+        "score": 0
+      },
+      {
+        "valueFrom": 90,
+        "valueFrom": 94,
+        "score": 0
+      },
+      {
+        "valueFrom": 95,
+        "valueFrom": 100,
+        "score": 0
+      }
+    ]
+  },
+  {
+    "key": "Legacy_R62_$2.16/day/1993_PPP_India_2009",
+    "description": null,
+    "entries": [
+      {
+        "valueFrom": 0,
+        "valueFrom": 4,
+        "score": 99.9
+      },
+      {
+        "valueFrom": 5,
+        "valueFrom": 9,
+        "score": 99.8
+      },
+      {
+        "valueFrom": 10,
+        "valueFrom": 14,
+        "score": 98.6
+      },
+      {
+        "valueFrom": 15,
+        "valueFrom": 19,
+        "score": 98
+      },
+      {
+        "valueFrom": 20,
+        "valueFrom": 24,
+        "score": 95.6
+      },
+      {
+        "valueFrom": 25,
+        "valueFrom": 29,
+        "score": 91.4
+      },
+      {
+        "valueFrom": 30,
+        "valueFrom": 34,
+        "score": 83.6
+      },
+      {
+        "valueFrom": 35,
+        "valueFrom": 39,
+        "score": 76.5
+      },
+      {
+        "valueFrom": 40,
+        "valueFrom": 44,
+        "score": 65.4
+      },
+      {
+        "valueFrom": 45,
+        "valueFrom": 49,
+        "score": 57.4
+      },
+      {
+        "valueFrom": 50,
+        "valueFrom": 54,
+        "score": 47
+      },
+      {
+        "valueFrom": 55,
+        "valueFrom": 59,
+        "score": 36.6
+      },
+      {
+        "valueFrom": 60,
+        "valueFrom": 64,
+        "score": 26.9
+      },
+      {
+        "valueFrom": 65,
+        "valueFrom": 69,
+        "score": 18.5
+      },
+      {
+        "valueFrom": 70,
+        "valueFrom": 74,
+        "score": 12.6
+      },
+      {
+        "valueFrom": 75,
+        "valueFrom": 79,
+        "score": 6.6
+      },
+      {
+        "valueFrom": 80,
+        "valueFrom": 84,
+        "score": 4.7
+      },
+      {
+        "valueFrom": 85,
+        "valueFrom": 89,
+        "score": 2.1
+      },
+      {
+        "valueFrom": 90,
+        "valueFrom": 94,
+        "score": 0.3
+      },
+      {
+        "valueFrom": 95,
+        "valueFrom": 100,
+        "score": 0
+      }
+    ]
+  },
+  {
+    "key": "R66_National_Tendulkar_India_2009",
+    "description": null,
+    "entries": [
+      {
+        "valueFrom": 0,
+        "valueFrom": 4,
+        "score": 86.8
+      },
+      {
+        "valueFrom": 5,
+        "valueFrom": 9,
+        "score": 75.7
+      },
+      {
+        "valueFrom": 10,
+        "valueFrom": 14,
+        "score": 65.2
+      },
+      {
+        "valueFrom": 15,
+        "valueFrom": 19,
+        "score": 55.5
+      },
+      {
+        "valueFrom": 20,
+        "valueFrom": 24,
+        "score": 42.1
+      },
+      {
+        "valueFrom": 25,
+        "valueFrom": 29,
+        "score": 30.7
+      },
+      {
+        "valueFrom": 30,
+        "valueFrom": 34,
+        "score": 23.5
+      },
+      {
+        "valueFrom": 35,
+        "valueFrom": 39,
+        "score": 14.5
+      },
+      {
+        "valueFrom": 40,
+        "valueFrom": 44,
+        "score": 9.5
+      },
+      {
+        "valueFrom": 45,
+        "valueFrom": 49,
+        "score": 5.5
+      },
+      {
+        "valueFrom": 50,
+        "valueFrom": 54,
+        "score": 3.5
+      },
+      {
+        "valueFrom": 55,
+        "valueFrom": 59,
+        "score": 2.4
+      },
+      {
+        "valueFrom": 60,
+        "valueFrom": 64,
+        "score": 1.5
+      },
+      {
+        "valueFrom": 65,
+        "valueFrom": 69,
+        "score": 0.6
+      },
+      {
+        "valueFrom": 70,
+        "valueFrom": 74,
+        "score": 0.3
+      },
+      {
+        "valueFrom": 75,
+        "valueFrom": 79,
+        "score": 0.2
+      },
+      {
+        "valueFrom": 80,
+        "valueFrom": 84,
+        "score": 0.1
+      },
+      {
+        "valueFrom": 85,
+        "valueFrom": 89,
+        "score": 0
+      },
+      {
+        "valueFrom": 90,
+        "valueFrom": 94,
+        "score": 0
+      },
+      {
+        "valueFrom": 95,
+        "valueFrom": 100,
+        "score": 0
+      }
+    ]
+  },
+  {
+    "key": "R66_100%_of_National_Tendulkar_India_2009",
+    "description": null,
+    "entries": [
+      {
+        "valueFrom": 0,
+        "valueFrom": 4,
+        "score": 73.7
+      },
+      {
+        "valueFrom": 5,
+        "valueFrom": 9,
+        "score": 63.5
+      },
+      {
+        "valueFrom": 10,
+        "valueFrom": 14,
+        "score": 53.5
+      },
+      {
+        "valueFrom": 15,
+        "valueFrom": 19,
+        "score": 38.0
+      },
+      {
+        "valueFrom": 20,
+        "valueFrom": 24,
+        "score": 25.9
+      },
+      {
+        "valueFrom": 25,
+        "valueFrom": 29,
+        "score": 21.9
+      },
+      {
+        "valueFrom": 30,
+        "valueFrom": 34,
+        "score": 14.6
+      },
+      {
+        "valueFrom": 35,
+        "valueFrom": 39,
+        "score": 9.4
+      },
+      {
+        "valueFrom": 40,
+        "valueFrom": 44,
+        "score": 6.5
+      },
+      {
+        "valueFrom": 45,
+        "valueFrom": 49,
+        "score": 3.6
+      },
+      {
+        "valueFrom": 50,
+        "valueFrom": 54,
+        "score": 2.0
+      },
+      {
+        "valueFrom": 55,
+        "valueFrom": 59,
+        "score": 1.1
+      },
+      {
+        "valueFrom": 60,
+        "valueFrom": 64,
+        "score": 0.5
+      },
+      {
+        "valueFrom": 65,
+        "valueFrom": 69,
+        "score": 0.2
+      },
+      {
+        "valueFrom": 70,
+        "valueFrom": 74,
+        "score": 0.2
+      },
+      {
+        "valueFrom": 75,
+        "valueFrom": 79,
+        "score": 0.0
+      },
+      {
+        "valueFrom": 80,
+        "valueFrom": 84,
+        "score": 0.0
+      },
+      {
+        "valueFrom": 85,
+        "valueFrom": 89,
+        "score": 0.0
+      },
+      {
+        "valueFrom": 90,
+        "valueFrom": 94,
+        "score": 0.0
+      },
+      {
+        "valueFrom": 95,
+        "valueFrom": 100,
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "key": "R66_150%_of_National_Tendulkar_India_2009",
+    "description": null,
+    "entries": [
+      {
+        "valueFrom": 0,
+        "valueFrom": 4,
+        "score": 99.0
+      },
+      {
+        "valueFrom": 5,
+        "valueFrom": 9,
+        "score": 94.8
+      },
+      {
+        "valueFrom": 10,
+        "valueFrom": 14,
+        "score": 91.5
+      },
+      {
+        "valueFrom": 15,
+        "valueFrom": 19,
+        "score": 83.5
+      },
+      {
+        "valueFrom": 20,
+        "valueFrom": 24,
+        "score": 75.9
+      },
+      {
+        "valueFrom": 25,
+        "valueFrom": 29,
+        "score": 68.4
+      },
+      {
+        "valueFrom": 30,
+        "valueFrom": 34,
+        "score": 55.1
+      },
+      {
+        "valueFrom": 35,
+        "valueFrom": 39,
+        "score": 46.4
+      },
+      {
+        "valueFrom": 40,
+        "valueFrom": 44,
+        "score": 37.7
+      },
+      {
+        "valueFrom": 45,
+        "valueFrom": 49,
+        "score": 27.7
+      },
+      {
+        "valueFrom": 50,
+        "valueFrom": 54,
+        "score": 19.8
+      },
+      {
+        "valueFrom": 55,
+        "valueFrom": 59,
+        "score": 13.2
+      },
+      {
+        "valueFrom": 60,
+        "valueFrom": 64,
+        "score": 10.8
+      },
+      {
+        "valueFrom": 65,
+        "valueFrom": 69,
+        "score": 6.7
+      },
+      {
+        "valueFrom": 70,
+        "valueFrom": 74,
+        "score": 3.9
+      },
+      {
+        "valueFrom": 75,
+        "valueFrom": 79,
+        "score": 1.5
+      },
+      {
+        "valueFrom": 80,
+        "valueFrom": 84,
+        "score": 1.5
+      },
+      {
+        "valueFrom": 85,
+        "valueFrom": 89,
+        "score": 0.4
+      },
+      {
+        "valueFrom": 90,
+        "valueFrom": 94,
+        "score": 0.1
+      },
+      {
+        "valueFrom": 95,
+        "valueFrom": 100,
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "key": "R66_200%_of_National_Tendulkar_India_2009",
+    "description": null,
+    "entries": [
+      {
+        "valueFrom": 0,
+        "valueFrom": 4,
+        "score": 99.9
+      },
+      {
+        "valueFrom": 5,
+        "valueFrom": 9,
+        "score": 99.6
+      },
+      {
+        "valueFrom": 10,
+        "valueFrom": 14,
+        "score": 98.1
+      },
+      {
+        "valueFrom": 15,
+        "valueFrom": 19,
+        "score": 96.0
+      },
+      {
+        "valueFrom": 20,
+        "valueFrom": 24,
+        "score": 93.0
+      },
+      {
+        "valueFrom": 25,
+        "valueFrom": 29,
+        "score": 90.2
+      },
+      {
+        "valueFrom": 30,
+        "valueFrom": 34,
+        "score": 81.7
+      },
+      {
+        "valueFrom": 35,
+        "valueFrom": 39,
+        "score": 73.7
+      },
+      {
+        "valueFrom": 40,
+        "valueFrom": 44,
+        "score": 67
+      },
+      {
+        "valueFrom": 45,
+        "valueFrom": 49,
+        "score": 57.7
+      },
+      {
+        "valueFrom": 50,
+        "valueFrom": 54,
+        "score": 45.5
+      },
+      {
+        "valueFrom": 55,
+        "valueFrom": 59,
+        "score": 36.7
+      },
+      {
+        "valueFrom": 60,
+        "valueFrom": 64,
+        "score": 31.0
+      },
+      {
+        "valueFrom": 65,
+        "valueFrom": 69,
+        "score": 23.5
+      },
+      {
+        "valueFrom": 70,
+        "valueFrom": 74,
+        "score": 16.1
+      },
+      {
+        "valueFrom": 75,
+        "valueFrom": 79,
+        "score": 11.0
+      },
+      {
+        "valueFrom": 80,
+        "valueFrom": 84,
+        "score": 6.7
+      },
+      {
+        "valueFrom": 85,
+        "valueFrom": 89,
+        "score": 2.6
+      },
+      {
+        "valueFrom": 90,
+        "valueFrom": 94,
+        "score": 1.1
+      },
+      {
+        "valueFrom": 95,
+        "valueFrom": 100,
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "key": "R66_USAID_Extreme_India_2009",
+    "description": null,
+    "entries": [
+      {
+        "valueFrom": 0,
+        "valueFrom": 4,
+        "score": 47.6
+      },
+      {
+        "valueFrom": 5,
+        "valueFrom": 9,
+        "score": 36.1
+      },
+      {
+        "valueFrom": 10,
+        "valueFrom": 14,
+        "score": 28.1
+      },
+      {
+        "valueFrom": 15,
+        "valueFrom": 19,
+        "score": 18.9
+      },
+      {
+        "valueFrom": 20,
+        "valueFrom": 24,
+        "score": 11.1
+      },
+      {
+        "valueFrom": 25,
+        "valueFrom": 29,
+        "score": 8.2
+      },
+      {
+        "valueFrom": 30,
+        "valueFrom": 34,
+        "score": 5.9
+      },
+      {
+        "valueFrom": 35,
+        "valueFrom": 39,
+        "score": 3.4
+      },
+      {
+        "valueFrom": 40,
+        "valueFrom": 44,
+        "score": 2.0
+      },
+      {
+        "valueFrom": 45,
+        "valueFrom": 49,
+        "score": 1.0
+      },
+      {
+        "valueFrom": 50,
+        "valueFrom": 54,
+        "score": 0.5
+      },
+      {
+        "valueFrom": 55,
+        "valueFrom": 59,
+        "score": 0.2
+      },
+      {
+        "valueFrom": 60,
+        "valueFrom": 64,
+        "score": 0.1
+      },
+      {
+        "valueFrom": 65,
+        "valueFrom": 69,
+        "score": 0.0
+      },
+      {
+        "valueFrom": 70,
+        "valueFrom": 74,
+        "score": 0.0
+      },
+      {
+        "valueFrom": 75,
+        "valueFrom": 79,
+        "score": 0.0
+      },
+      {
+        "valueFrom": 80,
+        "valueFrom": 84,
+        "score": 0.0
+      },
+      {
+        "valueFrom": 85,
+        "valueFrom": 89,
+        "score": 0.0
+      },
+      {
+        "valueFrom": 90,
+        "valueFrom": 94,
+        "score": 0.0
+      },
+      {
+        "valueFrom": 95,
+        "valueFrom": 100,
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "key": "R66_$1.25/day/PPP_2005_India_2009",
+    "description": null,
+    "entries": [
+      {
+        "valueFrom": 0,
+        "valueFrom": 4,
+        "score": 91.9
+      },
+      {
+        "valueFrom": 5,
+        "valueFrom": 9,
+        "score": 83.6
+      },
+      {
+        "valueFrom": 10,
+        "valueFrom": 14,
+        "score": 76.7
+      },
+      {
+        "valueFrom": 15,
+        "valueFrom": 19,
+        "score": 62.0
+      },
+      {
+        "valueFrom": 20,
+        "valueFrom": 24,
+        "score": 49.7
+      },
+      {
+        "valueFrom": 25,
+        "valueFrom": 29,
+        "score": 41.8
+      },
+      {
+        "valueFrom": 30,
+        "valueFrom": 34,
+        "score": 30.5
+      },
+      {
+        "valueFrom": 35,
+        "valueFrom": 39,
+        "score": 21.8
+      },
+      {
+        "valueFrom": 40,
+        "valueFrom": 44,
+        "score": 15.9
+      },
+      {
+        "valueFrom": 45,
+        "valueFrom": 49,
+        "score": 10.8
+      },
+      {
+        "valueFrom": 50,
+        "valueFrom": 54,
+        "score": 6.4
+      },
+      {
+        "valueFrom": 55,
+        "valueFrom": 59,
+        "score": 3.7
+      },
+      {
+        "valueFrom": 60,
+        "valueFrom": 64,
+        "score": 2.6
+      },
+      {
+        "valueFrom": 65,
+        "valueFrom": 69,
+        "score": 1.6
+      },
+      {
+        "valueFrom": 70,
+        "valueFrom": 74,
+        "score": 0.7
+      },
+      {
+        "valueFrom": 75,
+        "valueFrom": 79,
+        "score": 0.4
+      },
+      {
+        "valueFrom": 80,
+        "valueFrom": 84,
+        "score": 0.4
+      },
+      {
+        "valueFrom": 85,
+        "valueFrom": 89,
+        "score": 0.0
+      },
+      {
+        "valueFrom": 90,
+        "valueFrom": 94,
+        "score": 0.0
+      },
+      {
+        "valueFrom": 95,
+        "valueFrom": 100,
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "key": "R66_$1.88/day/PPP_2005_India_2009",
+    "description": null,
+    "entries": [
+      {
+        "valueFrom": 0,
+        "valueFrom": 4,
+        "score": 99.7
+      },
+      {
+        "valueFrom": 5,
+        "valueFrom": 9,
+        "score": 98.8
+      },
+      {
+        "valueFrom": 10,
+        "valueFrom": 14,
+        "score": 96.8
+      },
+      {
+        "valueFrom": 15,
+        "valueFrom": 19,
+        "score": 93.4
+      },
+      {
+        "valueFrom": 20,
+        "valueFrom": 24,
+        "score": 89.5
+      },
+      {
+        "valueFrom": 25,
+        "valueFrom": 29,
+        "score": 84.7
+      },
+      {
+        "valueFrom": 30,
+        "valueFrom": 34,
+        "score": 74.7
+      },
+      {
+        "valueFrom": 35,
+        "valueFrom": 39,
+        "score": 65.5
+      },
+      {
+        "valueFrom": 40,
+        "valueFrom": 44,
+        "score": 57.3
+      },
+      {
+        "valueFrom": 45,
+        "valueFrom": 49,
+        "score": 47.6
+      },
+      {
+        "valueFrom": 50,
+        "valueFrom": 54,
+        "score": 34.6
+      },
+      {
+        "valueFrom": 55,
+        "valueFrom": 59,
+        "score": 27.3
+      },
+      {
+        "valueFrom": 60,
+        "valueFrom": 64,
+        "score": 23.0
+      },
+      {
+        "valueFrom": 65,
+        "valueFrom": 69,
+        "score": 15.3
+      },
+      {
+        "valueFrom": 70,
+        "valueFrom": 74,
+        "score": 10.6
+      },
+      {
+        "valueFrom": 75,
+        "valueFrom": 79,
+        "score": 7.0
+      },
+      {
+        "valueFrom": 80,
+        "valueFrom": 84,
+        "score": 4.4
+      },
+      {
+        "valueFrom": 85,
+        "valueFrom": 89,
+        "score": 1.9
+      },
+      {
+        "valueFrom": 90,
+        "valueFrom": 94,
+        "score": 0.7
+      },
+      {
+        "valueFrom": 95,
+        "valueFrom": 100,
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "key": "R66_$2.50/day/PPP_2005_India_2009",
+    "description": null,
+    "entries": [
+      {
+        "valueFrom": 0,
+        "valueFrom": 4,
+        "score": 100.0
+      },
+      {
+        "valueFrom": 5,
+        "valueFrom": 9,
+        "score": 100.0
+      },
+      {
+        "valueFrom": 10,
+        "valueFrom": 14,
+        "score": 99.8
+      },
+      {
+        "valueFrom": 15,
+        "valueFrom": 19,
+        "score": 99.1
+      },
+      {
+        "valueFrom": 20,
+        "valueFrom": 24,
+        "score": 98.1
+      },
+      {
+        "valueFrom": 25,
+        "valueFrom": 29,
+        "score": 96.3
+      },
+      {
+        "valueFrom": 30,
+        "valueFrom": 34,
+        "score": 91.7
+      },
+      {
+        "valueFrom": 35,
+        "valueFrom": 39,
+        "score": 86.3
+      },
+      {
+        "valueFrom": 40,
+        "valueFrom": 44,
+        "score": 80.7
+      },
+      {
+        "valueFrom": 45,
+        "valueFrom": 49,
+        "score": 73.6
+      },
+      {
+        "valueFrom": 50,
+        "valueFrom": 54,
+        "score": 64.2
+      },
+      {
+        "valueFrom": 55,
+        "valueFrom": 59,
+        "score": 55.2
+      },
+      {
+        "valueFrom": 60,
+        "valueFrom": 64,
+        "score": 47.2
+      },
+      {
+        "valueFrom": 65,
+        "valueFrom": 69,
+        "score": 40.2
+      },
+      {
+        "valueFrom": 70,
+        "valueFrom": 74,
+        "score": 31.0
+      },
+      {
+        "valueFrom": 75,
+        "valueFrom": 79,
+        "score": 23.0
+      },
+      {
+        "valueFrom": 80,
+        "valueFrom": 84,
+        "score": 15.5
+      },
+      {
+        "valueFrom": 85,
+        "valueFrom": 89,
+        "score": 8.4
+      },
+      {
+        "valueFrom": 90,
+        "valueFrom": 94,
+        "score": 2.3
+      },
+      {
+        "valueFrom": 95,
+        "valueFrom": 100,
+        "score": 0.0
+      }
+    ]
+  }
+]
