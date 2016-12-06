@@ -1,0 +1,287 @@
+{
+  "key":"ppi-indonesia-2010",
+  "name":"PPI Survey for Indonesia, version 2010",
+  "description":null,
+  "countryCode":"ID",
+  "validFrom":null,
+  "validTo":null,
+  "componentDatas": null,
+  "questionDatas":
+  [
+    {
+      "componentKey":null,
+      "key":"household-members",
+      "text":"How many household members are there?",
+      "description":null,
+      "sequenceNo":1,
+      "responseDatas":
+      [
+        {
+          "text":"A. Six or more",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Five",
+          "value":5,
+          "sequenceNo":2
+        },
+        {
+          "text":"C. Four",
+          "value":11,
+          "sequenceNo":3
+        },
+        {
+          "text":"D. Three",
+          "value":18,
+          "sequenceNo":4
+        },
+        {
+          "text":"E. Two",
+          "value":24,
+          "sequenceNo":5
+        },
+        {
+          "text":"F. One",
+          "value":37,
+          "sequenceNo":6
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"children-attend-school",
+      "text":"Do all household members ages 6 to 18 go to school?",
+      "description":null,
+      "sequenceNo":2,
+      "responseDatas":
+      [
+        {
+          "text":"A. No members ages 6 to 18",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. No",
+          "value":0,
+          "sequenceNo":2
+        },
+        {
+          "text":"C. Yes",
+          "value":2,
+          "sequenceNo":3
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"female-highest-grade",
+      "text":"What is the highest level of education that the female head/spouse has completed?",
+      "description":null,
+      "sequenceNo":3,
+      "responseDatas":
+      [
+        {
+          "text":"A. None",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Grade school (incl. disabled, Islamic, or non-formal)",
+          "value":3,
+          "sequenceNo":2
+        },
+        {
+          "text":"C. Junior-high school (incl. disabled, Islamic, or non-formal)",
+          "value":4,
+          "sequenceNo":3
+        },
+        {
+          "text":"D. No female head/spouse",
+          "value":4,
+          "sequenceNo":4
+        },
+        {
+          "text":"E. Vocational school (high-school level)",
+          "value":4,
+          "sequenceNo":5
+        },
+        {
+          "text":"F. High school (incl. disabled, Islamic, or non-formal)",
+          "value":6,
+          "sequenceNo":6
+        },
+        {
+          "text":"G. Diploma (one-year or higher), or higher",
+          "value":18,
+          "sequenceNo":7
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"male-employment",
+      "text":"What was the employment status of the male head/spouse in the past week in his main job?",
+      "description":null,
+      "sequenceNo":4,
+      "responseDatas":
+      [
+        {
+          "text":"A. No male head/spouse",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Not working, or unpaid worker",
+          "value":0,
+          "sequenceNo":2
+        },
+        {
+          "text":"C. Self-employed",
+          "value":1,
+          "sequenceNo":3
+        },
+        {
+          "text":"D. Business owner, or business owner with temporary or unpaid workers",
+          "value":3,
+          "sequenceNo":4
+        },
+        {
+          "text":"E. Wage or salary employee",
+          "value":3,
+          "sequenceNo":5
+        },
+        {
+          "text":"F. Business owner with permanent or paid workers",
+          "value":6,
+          "sequenceNo":6
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"floor-material",
+      "text":"What is the main material of the floor?",
+      "description":null,
+      "sequenceNo":5,
+      "responseDatas":
+      [
+        {
+          "text":"A. Earth or bamboo",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Others",
+          "value":5,
+          "sequenceNo":2
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"toilet",
+      "text":"What type of toilet arrangement does the household have?",
+      "description":null,
+      "sequenceNo":6,
+      "responseDatas":
+      [
+        {
+          "text":"A. None, or latrine",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Non-flush to a septic tank",
+          "value":1,
+          "sequenceNo":2
+        },
+        {
+          "text":"C. Flush",
+          "value":4,
+          "sequenceNo":3
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"cooking-fuel",
+      "text":"What is the main cooking fuel?",
+      "description":null,
+      "sequenceNo":7,
+      "responseDatas":
+      [
+        {
+          "text":"A. Firewood, charcoal, or coal",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Gas/LPG, kerosene, electricity, others, or does not cook",
+          "value":5,
+          "sequenceNo":2
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"gas-cylinder",
+      "text":"Does the household have a gas cylinder of 12kg or more?",
+      "description":null,
+      "sequenceNo":8,
+      "responseDatas":
+      [
+        {
+          "text":"A. No",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Yes",
+          "value":6,
+          "sequenceNo":2
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"refrigerator-freezer",
+      "text":"Does the household have a refrigerator or freezer?",
+      "description":null,
+      "sequenceNo":9,
+      "responseDatas":
+      [
+        {
+          "text":"A. No",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Yes",
+          "value":8,
+          "sequenceNo":2
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"motorcycle-scooter-boat",
+      "text":"Does the household have a motorcycle, scooter, or motorized boat?",
+      "description":null,
+      "sequenceNo":10,
+      "responseDatas":
+      [
+        {
+          "text":"A. No",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Yes",
+          "value":9,
+          "sequenceNo":2
+        }
+      ]
+    }
+  ]
+}
