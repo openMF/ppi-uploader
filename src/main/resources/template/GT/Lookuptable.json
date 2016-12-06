@@ -1,0 +1,957 @@
+[
+{ 
+"key": "National_Guatemala_2006",
+"description": "null",
+"entries": [
+{ 
+"valueFrom": 0,
+"valueTo": 4,
+"score": 100
+}, 
+{ 
+"valueFrom": 5,
+"valueTo": 9,
+"score": 100
+}, 
+{ 
+"valueFrom": 10,
+"valueTo": 14,
+"score": 99.1
+}, 
+{ 
+"valueFrom": 15,
+"valueTo": 19,
+"score": 99.2
+}, 
+{ 
+"valueFrom": 20,
+"valueTo": 24,
+"score": 91.7
+}, 
+{ 
+"valueFrom": 25,
+"valueTo": 29,
+"score": 90
+}, 
+{ 
+"valueFrom": 30,
+"valueTo": 34,
+"score": 83
+}, 
+{ 
+"valueFrom": 35,
+"valueTo": 39,
+"score": 70.3
+}, 
+{ 
+"valueFrom": 40,
+"valueTo": 44,
+"score": 60.3
+}, 
+{ 
+"valueFrom": 45,
+"valueTo": 49,
+"score": 52.2
+}, 
+{ 
+"valueFrom": 50,
+"valueTo": 54,
+"score": 25.3
+}, 
+{ 
+"valueFrom": 55,
+"valueTo": 59,
+"score": 25.5
+}, 
+{ 
+"valueFrom": 60,
+"valueTo": 64,
+"score": 8.1
+}, 
+{ 
+"valueFrom": 65,
+"valueTo": 69,
+"score": 7.3
+}, 
+{ 
+"valueFrom": 70,
+"valueTo": 74,
+"score": 3.9
+}, 
+{ 
+"valueFrom": 75,
+"valueTo": 79,
+"score": 4.4
+}, 
+{ 
+"valueFrom": 80,
+"valueTo": 84,
+"score": 1.9
+}, 
+{ 
+"valueFrom": 85,
+"valueTo": 89,
+"score": 0.2
+}, 
+{ 
+"valueFrom": 90,
+"valueTo": 94,
+"score": 0
+}, 
+{ 
+"valueFrom": 95,
+"valueTo": 100,
+"score": 0
+} 
+] 
+}, 
+{ 
+"key": "National Food_Guatemala_2006",
+"description": "null",
+"entries": [
+{ 
+"valueFrom": 0,
+"valueTo": 4,
+"score": 71.7
+}, 
+{ 
+"valueFrom": 5,
+"valueTo": 9,
+"score": 64.5
+}, 
+{ 
+"valueFrom": 10,
+"valueTo": 14,
+"score": 64.4
+}, 
+{ 
+"valueFrom": 15,
+"valueTo": 19,
+"score": 45.3
+}, 
+{ 
+"valueFrom": 20,
+"valueTo": 24,
+"score": 33.5
+}, 
+{ 
+"valueFrom": 25,
+"valueTo": 29,
+"score": 25
+}, 
+{ 
+"valueFrom": 30,
+"valueTo": 34,
+"score": 15.9
+}, 
+{ 
+"valueFrom": 35,
+"valueTo": 39,
+"score": 11.3
+}, 
+{ 
+"valueFrom": 40,
+"valueTo": 44,
+"score": 7.3
+}, 
+{ 
+"valueFrom": 45,
+"valueTo": 49,
+"score": 2.2
+}, 
+{ 
+"valueFrom": 50,
+"valueTo": 54,
+"score": 0.7
+}, 
+{ 
+"valueFrom": 55,
+"valueTo": 59,
+"score": 0.4
+}, 
+{ 
+"valueFrom": 60,
+"valueTo": 64,
+"score": 0
+}, 
+{ 
+"valueFrom": 65,
+"valueTo": 69,
+"score": 0.1
+}, 
+{ 
+"valueFrom": 70,
+"valueTo": 74,
+"score": 0
+}, 
+{ 
+"valueFrom": 75,
+"valueTo": 79,
+"score": 0
+}, 
+{ 
+"valueFrom": 80,
+"valueTo": 84,
+"score": 0
+}, 
+{ 
+"valueFrom": 85,
+"valueTo": 89,
+"score": 0
+}, 
+{ 
+"valueFrom": 90,
+"valueTo": 94,
+"score": 0
+}, 
+{ 
+"valueFrom": 95,
+"valueTo": 100,
+"score": 0
+} 
+] 
+}, 
+{ 
+"key": "150% of National_Guatemala_2006",
+"description": "null",
+"entries": [
+{ 
+"valueFrom": 0,
+"valueTo": 4,
+"score": 100
+}, 
+{ 
+"valueFrom": 5,
+"valueTo": 9,
+"score": 100
+}, 
+{ 
+"valueFrom": 10,
+"valueTo": 14,
+"score": 99.8
+}, 
+{ 
+"valueFrom": 15,
+"valueTo": 19,
+"score": 99.7
+}, 
+{ 
+"valueFrom": 20,
+"valueTo": 24,
+"score": 99.7
+}, 
+{ 
+"valueFrom": 25,
+"valueTo": 29,
+"score": 98.6
+}, 
+{ 
+"valueFrom": 30,
+"valueTo": 34,
+"score": 97.2
+}, 
+{ 
+"valueFrom": 35,
+"valueTo": 39,
+"score": 92.2
+}, 
+{ 
+"valueFrom": 40,
+"valueTo": 44,
+"score": 85.3
+}, 
+{ 
+"valueFrom": 45,
+"valueTo": 49,
+"score": 83
+}, 
+{ 
+"valueFrom": 50,
+"valueTo": 54,
+"score": 64
+}, 
+{ 
+"valueFrom": 55,
+"valueTo": 59,
+"score": 63.5
+}, 
+{ 
+"valueFrom": 60,
+"valueTo": 64,
+"score": 39.2
+}, 
+{ 
+"valueFrom": 65,
+"valueTo": 69,
+"score": 35
+}, 
+{ 
+"valueFrom": 70,
+"valueTo": 74,
+"score": 15.9
+}, 
+{ 
+"valueFrom": 75,
+"valueTo": 79,
+"score": 11.7
+}, 
+{ 
+"valueFrom": 80,
+"valueTo": 84,
+"score": 7.8
+}, 
+{ 
+"valueFrom": 85,
+"valueTo": 89,
+"score": 1.6
+}, 
+{ 
+"valueFrom": 90,
+"valueTo": 94,
+"score": 1
+}, 
+{ 
+"valueFrom": 95,
+"valueTo": 100,
+"score": 0
+} 
+] 
+}, 
+{ 
+"key": "200% of National_Guatemala_2006",
+"description": "null",
+"entries": [
+{ 
+"valueFrom": 0,
+"valueTo": 4,
+"score": 100
+}, 
+{ 
+"valueFrom": 5,
+"valueTo": 9,
+"score": 100
+}, 
+{ 
+"valueFrom": 10,
+"valueTo": 14,
+"score": 99.8
+}, 
+{ 
+"valueFrom": 15,
+"valueTo": 19,
+"score": 100
+}, 
+{ 
+"valueFrom": 20,
+"valueTo": 24,
+"score": 100
+}, 
+{ 
+"valueFrom": 25,
+"valueTo": 29,
+"score": 100
+}, 
+{ 
+"valueFrom": 30,
+"valueTo": 34,
+"score": 99.4
+}, 
+{ 
+"valueFrom": 35,
+"valueTo": 39,
+"score": 98.8
+}, 
+{ 
+"valueFrom": 40,
+"valueTo": 44,
+"score": 95.6
+}, 
+{ 
+"valueFrom": 45,
+"valueTo": 49,
+"score": 95.7
+}, 
+{ 
+"valueFrom": 50,
+"valueTo": 54,
+"score": 89.9
+}, 
+{ 
+"valueFrom": 55,
+"valueTo": 59,
+"score": 87.8
+}, 
+{ 
+"valueFrom": 60,
+"valueTo": 64,
+"score": 73.5
+}, 
+{ 
+"valueFrom": 65,
+"valueTo": 69,
+"score": 56.2
+}, 
+{ 
+"valueFrom": 70,
+"valueTo": 74,
+"score": 31.2
+}, 
+{ 
+"valueFrom": 75,
+"valueTo": 79,
+"score": 29.7
+}, 
+{ 
+"valueFrom": 80,
+"valueTo": 84,
+"score": 24.1
+}, 
+{ 
+"valueFrom": 85,
+"valueTo": 89,
+"score": 4.2
+}, 
+{ 
+"valueFrom": 90,
+"valueTo": 94,
+"score": 4.5
+}, 
+{ 
+"valueFrom": 95,
+"valueTo": 100,
+"score": 0
+} 
+] 
+}, 
+{ 
+"key": "USAID Extreme_Guatemala_2006",
+"description": "null",
+"entries": [
+{ 
+"valueFrom": 0,
+"valueTo": 4,
+"score": 86.2
+}, 
+{ 
+"valueFrom": 5,
+"valueTo": 9,
+"score": 81.5
+}, 
+{ 
+"valueFrom": 10,
+"valueTo": 14,
+"score": 80.9
+}, 
+{ 
+"valueFrom": 15,
+"valueTo": 19,
+"score": 74.5
+}, 
+{ 
+"valueFrom": 20,
+"valueTo": 24,
+"score": 59.2
+}, 
+{ 
+"valueFrom": 25,
+"valueTo": 29,
+"score": 50.2
+}, 
+{ 
+"valueFrom": 30,
+"valueTo": 34,
+"score": 41.1
+}, 
+{ 
+"valueFrom": 35,
+"valueTo": 39,
+"score": 30.9
+}, 
+{ 
+"valueFrom": 40,
+"valueTo": 44,
+"score": 21.3
+}, 
+{ 
+"valueFrom": 45,
+"valueTo": 49,
+"score": 11.8
+}, 
+{ 
+"valueFrom": 50,
+"valueTo": 54,
+"score": 7.8
+}, 
+{ 
+"valueFrom": 55,
+"valueTo": 59,
+"score": 4.6
+}, 
+{ 
+"valueFrom": 60,
+"valueTo": 64,
+"score": 1.3
+}, 
+{ 
+"valueFrom": 65,
+"valueTo": 69,
+"score": 0.8
+}, 
+{ 
+"valueFrom": 70,
+"valueTo": 74,
+"score": 1.6
+}, 
+{ 
+"valueFrom": 75,
+"valueTo": 79,
+"score": 0.1
+}, 
+{ 
+"valueFrom": 80,
+"valueTo": 84,
+"score": 0
+}, 
+{ 
+"valueFrom": 85,
+"valueTo": 89,
+"score": 0.1
+}, 
+{ 
+"valueFrom": 90,
+"valueTo": 94,
+"score": 0
+}, 
+{ 
+"valueFrom": 95,
+"valueTo": 100,
+"score": 0
+} 
+] 
+}, 
+{ 
+"key": "1.25/day/2005_Guatemala_2006",
+"description": "null",
+"entries": [
+{ 
+"valueFrom": 0,
+"valueTo": 4,
+"score": 30.2
+}, 
+{ 
+"valueFrom": 5,
+"valueTo": 9,
+"score": 16.4
+}, 
+{ 
+"valueFrom": 10,
+"valueTo": 14,
+"score": 21.4
+}, 
+{ 
+"valueFrom": 15,
+"valueTo": 19,
+"score": 16.5
+}, 
+{ 
+"valueFrom": 20,
+"valueTo": 24,
+"score": 9.3
+}, 
+{ 
+"valueFrom": 25,
+"valueTo": 29,
+"score": 9.5
+}, 
+{ 
+"valueFrom": 30,
+"valueTo": 34,
+"score": 2.1
+}, 
+{ 
+"valueFrom": 35,
+"valueTo": 39,
+"score": 1.5
+}, 
+{ 
+"valueFrom": 40,
+"valueTo": 44,
+"score": 2
+}, 
+{ 
+"valueFrom": 45,
+"valueTo": 49,
+"score": 0.5
+}, 
+{ 
+"valueFrom": 50,
+"valueTo": 54,
+"score": 0
+}, 
+{ 
+"valueFrom": 55,
+"valueTo": 59,
+"score": 0
+}, 
+{ 
+"valueFrom": 60,
+"valueTo": 64,
+"score": 0
+}, 
+{ 
+"valueFrom": 65,
+"valueTo": 69,
+"score": 0
+}, 
+{ 
+"valueFrom": 70,
+"valueTo": 74,
+"score": 0
+}, 
+{ 
+"valueFrom": 75,
+"valueTo": 79,
+"score": 0
+}, 
+{ 
+"valueFrom": 80,
+"valueTo": 84,
+"score": 0
+}, 
+{ 
+"valueFrom": 85,
+"valueTo": 89,
+"score": 0
+}, 
+{ 
+"valueFrom": 90,
+"valueTo": 94,
+"score": 0
+}, 
+{ 
+"valueFrom": 95,
+"valueTo": 100,
+"score": 0
+} 
+] 
+}, 
+{ 
+"key": "$2.50/day/2005_Guatemala_2006",
+"description": "null",
+"entries": [
+{ 
+"valueFrom": 0,
+"valueTo": 4,
+"score": 99.4
+}, 
+{ 
+"valueFrom": 5,
+"valueTo": 9,
+"score": 95.2
+}, 
+{ 
+"valueFrom": 10,
+"valueTo": 14,
+"score": 93.6
+}, 
+{ 
+"valueFrom": 15,
+"valueTo": 19,
+"score": 88.5
+}, 
+{ 
+"valueFrom": 20,
+"valueTo": 24,
+"score": 68.5
+}, 
+{ 
+"valueFrom": 25,
+"valueTo": 29,
+"score": 63.2
+}, 
+{ 
+"valueFrom": 30,
+"valueTo": 34,
+"score": 46.1
+}, 
+{ 
+"valueFrom": 35,
+"valueTo": 39,
+"score": 34.5
+}, 
+{ 
+"valueFrom": 40,
+"valueTo": 44,
+"score": 26.5
+}, 
+{ 
+"valueFrom": 45,
+"valueTo": 49,
+"score": 15.6
+}, 
+{ 
+"valueFrom": 50,
+"valueTo": 54,
+"score": 5.3
+}, 
+{ 
+"valueFrom": 55,
+"valueTo": 59,
+"score": 3.6
+}, 
+{ 
+"valueFrom": 60,
+"valueTo": 64,
+"score": 0.4
+}, 
+{ 
+"valueFrom": 65,
+"valueTo": 69,
+"score": 0.6
+}, 
+{ 
+"valueFrom": 70,
+"valueTo": 74,
+"score": 0.4
+}, 
+{ 
+"valueFrom": 75,
+"valueTo": 79,
+"score": 0
+}, 
+{ 
+"valueFrom": 80,
+"valueTo": 84,
+"score": 0
+}, 
+{ 
+"valueFrom": 85,
+"valueTo": 89,
+"score": 0.1
+}, 
+{ 
+"valueFrom": 90,
+"valueTo": 94,
+"score": 0
+}, 
+{ 
+"valueFrom": 95,
+"valueTo": 100,
+"score": 0
+} 
+] 
+}, 
+{ 
+"key": "$3.75/day/2005_Guatemala_2006",
+"description": "null",
+"entries": [
+{ 
+"valueFrom": 0,
+"valueTo": 4,
+"score": 100
+}, 
+{ 
+"valueFrom": 5,
+"valueTo": 9,
+"score": 100
+}, 
+{ 
+"valueFrom": 10,
+"valueTo": 14,
+"score": 99.1
+}, 
+{ 
+"valueFrom": 15,
+"valueTo": 19,
+"score": 99.3
+}, 
+{ 
+"valueFrom": 20,
+"valueTo": 24,
+"score": 90.9
+}, 
+{ 
+"valueFrom": 25,
+"valueTo": 29,
+"score": 91.3
+}, 
+{ 
+"valueFrom": 30,
+"valueTo": 34,
+"score": 84.3
+}, 
+{ 
+"valueFrom": 35,
+"valueTo": 39,
+"score": 73.1
+}, 
+{ 
+"valueFrom": 40,
+"valueTo": 44,
+"score": 62.3
+}, 
+{ 
+"valueFrom": 45,
+"valueTo": 49,
+"score": 54.2
+}, 
+{ 
+"valueFrom": 50,
+"valueTo": 54,
+"score": 27.3
+}, 
+{ 
+"valueFrom": 55,
+"valueTo": 59,
+"score": 21.3
+}, 
+{ 
+"valueFrom": 60,
+"valueTo": 64,
+"score": 8.5
+}, 
+{ 
+"valueFrom": 65,
+"valueTo": 69,
+"score": 7.5
+}, 
+{ 
+"valueFrom": 70,
+"valueTo": 74,
+"score": 4.7
+}, 
+{ 
+"valueFrom": 75,
+"valueTo": 79,
+"score": 0.5
+}, 
+{ 
+"valueFrom": 80,
+"valueTo": 84,
+"score": 1.9
+}, 
+{ 
+"valueFrom": 85,
+"valueTo": 89,
+"score": 0.6
+}, 
+{ 
+"valueFrom": 90,
+"valueTo": 94,
+"score": 0
+}, 
+{ 
+"valueFrom": 95,
+"valueTo": 100,
+"score": 0
+} 
+] 
+}, 
+  { 
+"key": "$5.00/day/2005_Guatemala_2006",
+"description": "null",
+"entries": [
+{ 
+"valueFrom": 0,
+"valueTo": 4,
+"score": 100
+}, 
+{ 
+"valueFrom": 5,
+"valueTo": 9,
+"score": 100
+}, 
+{ 
+"valueFrom": 10,
+"valueTo": 14,
+"score": 99.8
+}, 
+{ 
+"valueFrom": 15,
+"valueTo": 19,
+"score": 99.7
+}, 
+{ 
+"valueFrom": 20,
+"valueTo": 24,
+"score": 99.1
+}, 
+{ 
+"valueFrom": 25,
+"valueTo": 29,
+"score": 96.7
+}, 
+{ 
+"valueFrom": 30,
+"valueTo": 34,
+"score": 95.9
+}, 
+{ 
+"valueFrom": 35,
+"valueTo": 39,
+"score": 89.4
+}, 
+{ 
+"valueFrom": 40,
+"valueTo": 44,
+"score": 79.8
+}, 
+{ 
+"valueFrom": 45,
+"valueTo": 49,
+"score": 78.8
+}, 
+{ 
+"valueFrom": 50,
+"valueTo": 54,
+"score": 54.2
+}, 
+{ 
+"valueFrom": 55,
+"valueTo": 59,
+"score": 55.8
+}, 
+{ 
+"valueFrom": 60,
+"valueTo": 64,
+"score": 29.9
+}, 
+{ 
+"valueFrom": 65,
+"valueTo": 69,
+"score": 23.4
+}, 
+{ 
+"valueFrom": 70,
+"valueTo": 74,
+"score": 11.6
+}, 
+{ 
+"valueFrom": 75,
+"valueTo": 79,
+"score": 7
+}, 
+{ 
+"valueFrom": 80,
+"valueTo": 84,
+"score": 3.8
+}, 
+{ 
+"valueFrom": 85,
+"valueTo": 89,
+"score": 1.1
+}, 
+{ 
+"valueFrom": 90,
+"valueTo": 94,
+"score": 1
+}, 
+{ 
+"valueFrom": 95,
+"valueTo": 100,
+"score": 0
+} 
+] 
+}
+
+]
