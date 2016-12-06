@@ -1,0 +1,272 @@
+{
+  "key":"ppi-uganda-2012",
+  "name":"PPI for Uganda 2012",
+  "description": "Created in June 2015 using Uganda’s 2012/13 National Household Survey by Mark Schreiner of Microfinance Risk Management L.L.C., developer of the PPI",
+  "countryCode":"UG",
+  "validFrom":null,
+  "validTo":null,
+  "componentDatas": null,
+  "questionDatas":
+  [
+    {
+      "componentKey":null,
+      "key":"household-members",
+      "text":"How many members does the household have?",
+      "description":null,
+      "sequenceNo":1,
+      "responseDatas":
+      [
+        {
+          "text":"A. Nine or more",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Eight",
+          "value":3,
+          "sequenceNo":2
+        },
+        {
+          "text":"C. Seven",
+          "value":4,
+          "sequenceNo":3
+        },
+        {
+          "text":"D. Five or six",
+          "value":6,
+          "sequenceNo":4
+        },
+        {
+          "text":"E. Four",
+          "value":8,
+          "sequenceNo":5
+        },
+        {
+          "text":"F. Three",
+          "value":12,
+          "sequenceNo":6
+        },
+        {
+          "text":"G. Two",
+          "value":21,
+          "sequenceNo":7
+        },
+        {
+          "text":"H. One",
+          "value":28,
+          "sequenceNo":8
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"children-attend-school",
+      "text":"Are all household members ages 6 to 12 currently in school?",
+      "description":null,
+      "sequenceNo":2,
+      "responseDatas":
+      [
+        {
+          "text":"A. No",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Yes",
+          "value":2,
+          "sequenceNo":2
+        },
+        {
+          "text":"C. No one ages 6 to 12",
+          "value":5,
+          "sequenceNo":3
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"female-read-write",
+      "text":"Can the (oldest) female head/spouse read and write with understanding in any language?",
+      "description":null,
+      "sequenceNo":3,
+      "responseDatas":
+      [
+        {
+          "text":"A. No",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. No female head/spouse",
+          "value":0,
+          "sequenceNo":2
+        },
+        {
+          "text":"C. Yes",
+          "value":3,
+          "sequenceNo":3
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"wall-construction",
+      "text":"What type of material is mainly used for construction of the wall of the dwelling?",
+      "description":null,
+      "sequenceNo":4,
+      "responseDatas":
+      [
+        {
+          "text":"A. Unburnt bricks with mud, mud and poles, or other",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"Unburnt bricks with cement, wood, tin/iron sheets, concrete/stones, burnt stabilized bricks, or cement blocks",
+          "value":4,
+          "sequenceNo":2
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"roof-construction",
+      "text":"What type of material is mainly used for construction of the roof of the dwelling?",
+      "description":null,
+      "sequenceNo":5,
+      "responseDatas":
+      [
+        {
+          "text":"A. Thatch, or tins",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Iron sheets, concrete, tiles, asbestos, or other",
+          "value":5,
+          "sequenceNo":2
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"cooking-energy",
+      "text":"What source of energy does the household mainly use for cooking?",
+      "description":null,
+      "sequenceNo":6,
+      "responseDatas":
+      [
+        {
+          "text":"A. Firewood, cow dung, or grass (reeds)",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Charcoal, paraffin stove, gas, biogas, electricity (regardless of source), or other",
+          "value":6,
+          "sequenceNo":2
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"household-toilet",
+      "text":"What type of toilet facility doesthe household mainly use?",
+      "description":null,
+      "sequenceNo":7,
+      "responseDatas":
+      [
+        {
+          "text":"No facility/bush/polythene bags/bucket/etc., or other",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Uncovered pit latrine (with or without slab), Ecosan (compost toilet), or covered pit latrine without slab",
+          "value":4,
+          "sequenceNo":2
+        },
+        {
+          "text":"C. Covered pit latrine with slab",
+          "value":6,
+          "sequenceNo":3
+        },
+        {
+          "text":"D. VIP latrine, or flush toilet",
+          "value":11,
+          "sequenceNo":4
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"mobile-phones",
+      "text":"How many mobile phones do members of your household own?",
+      "description":null,
+      "sequenceNo":8,
+      "responseDatas":
+      [
+        {
+          "text":"A. None",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. One",
+          "value":7,
+          "sequenceNo":2
+        },
+        {
+          "text":"C. Two",
+          "value":12,
+          "sequenceNo":3
+        },
+        {
+          "text":"D. Three or more",
+          "value":22,
+          "sequenceNo":4
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"radio",
+      "text":" Does any member of your household own a radio?",
+      "description":null,
+      "sequenceNo":9,
+      "responseDatas":
+      [
+        {
+          "text":"A. No",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Yes",
+          "value":7,
+          "sequenceNo":2
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"shoes",
+      "text":" Does every member of the household have at least one pair of shoes?",
+      "description":null,
+      "sequenceNo":10,
+      "responseDatas":
+      [
+        {
+          "text":"A. No",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Yes",
+          "value":9,
+          "sequenceNo":2
+        }
+      ]
+    }
+  ]
+}
