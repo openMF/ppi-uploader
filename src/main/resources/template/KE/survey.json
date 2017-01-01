@@ -1,0 +1,297 @@
+{
+  "key":"ppi-kenya-2005",
+  "name":"PPI Survey for Kenya in 2005",
+  "description":null,
+  "countryCode":"KE",
+  "validFrom":null,
+  "validTo":null,
+  "componentDatas": null,
+  "questionDatas":
+  [
+    {
+      "componentKey":null,
+      "key":"household-members",
+      "text":"How many members does the household have?",
+      "description":null,
+      "sequenceNo":1,
+      "responseDatas":
+      [
+        {
+          "text":"A. Nine or more",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Seven or eight",
+          "value":5,
+          "sequenceNo":2
+        },
+        {
+          "text":"C. Six",
+          "value":8,
+          "sequenceNo":3
+        },
+        {
+          "text":"D. Five",
+          "value":12,
+          "sequenceNo":4
+        },
+        {
+          "text":"E. Four",
+          "value":18,
+          "sequenceNo":5
+        },
+        {
+          "text":"F. Three",
+          "value":22,
+          "sequenceNo":6
+        },
+        {
+          "text":"G. One or two",
+          "value":32,
+          "sequenceNo":7
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"female-highest-grade",
+      "text":"What is the highest school grade that the female head/spouse has completed?",
+      "description":null,
+      "sequenceNo":2,
+      "responseDatas":
+      [
+        {
+          "text":"A. None, or pre-school",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Primary standards 1-6",
+          "value":1,
+          "sequenceNo":2
+        },
+        {
+          "text":"C. Primary standard 7",
+          "value":2,
+          "sequenceNo":3
+        },
+        {
+          "text":"D. Primary standard 8, or secondary forms 1-3",
+          "value":6,
+          "sequenceNo":4
+        },
+        {
+          "text":"E. No female head/spouse",
+          "value":6,
+          "sequenceNo":5
+        },
+        {
+          "text":"F. Secondary form 4 or higher",
+          "value":11,
+          "sequenceNo":6
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"male-occupation",
+      "text":"What kind of business (type of industry) is the main occupation of the male head/spouse connected with?",
+      "description":null,
+      "sequenceNo":3,
+      "responseDatas":
+      [
+        {
+          "text":"A. Does not work",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. No male head/spouse",
+          "value":3,
+          "sequenceNo":2
+        },
+        {
+          "text":"C. Agriculture, hunting, forestry, fishing, mining, or quarrying",
+          "value":7,
+          "sequenceNo":3
+        },
+        {
+          "text":"D. Any other",
+          "value":9,
+          "sequenceNo":4
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"number-of-habitable-rooms",
+      "text":"How many habitable rooms does this household occupy in its main dwelling (do not count bathrooms, toilets, storerooms, or garage)?",
+      "description":null,
+      "sequenceNo":4,
+      "responseDatas":
+      [
+        {
+          "text":"A. One",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Two",
+          "value":2,
+          "sequenceNo":2
+        },
+        {
+          "text":"C. Three",
+          "value":5,
+          "sequenceNo":3
+        },
+        {
+          "text":"D. Four or more",
+          "value":8,
+          "sequenceNo":4
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"main-floor-material",
+      "text":"The floor of the main dwelling is predominantly made of what material?",
+      "description":null,
+      "sequenceNo":5,
+      "responseDatas":
+      [
+        {
+          "text":"A. Wood, earth, or other",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Cement or tiles",
+          "value":3,
+          "sequenceNo":2
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"source-of-lighting-fuel",
+      "text":"What is the main source of lighting fuel for the household?",
+      "description":null,
+      "sequenceNo":6,
+      "responseDatas":
+      [
+        {
+          "text":"A. Collected firewood, purchased firewood, grass, or dry cell (torch)",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Paraffin, candles, biogas, or other",
+          "value":6,
+          "sequenceNo":2
+        },
+        {
+          "text":"C. Electricity, solar, or gas",
+          "value":12,
+          "sequenceNo":3
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"household-irons",
+      "text":"Does your household own any irons (charcoal or electric)?",
+      "description":null,
+      "sequenceNo":7,
+      "responseDatas":
+      [
+        {
+          "text":"A. No",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Yes",
+          "value":4,
+          "sequenceNo":2
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"household-mosquito-nets",
+      "text":"How many mosquito nets does your household own?",
+      "description":null,
+      "sequenceNo":8,
+      "responseDatas":
+      [
+        {
+          "text":"A. None",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. One",
+          "value":2,
+          "sequenceNo":2
+        },
+        {
+          "text":"C. Two or more",
+          "value":4,
+          "sequenceNo":3
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"household-towels",
+      "text":"How many towels does your household own?",
+      "description":null,
+      "sequenceNo":9,
+      "responseDatas":
+      [
+        {
+          "text":"A. None",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. One",
+          "value":6,
+          "sequenceNo":2
+        },
+        {
+          "text":"C. Two or more",
+          "value":10,
+          "sequenceNo":3
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"household-frying-pans",
+      "text":"How many frying pans does your household own?",
+      "description":null,
+      "sequenceNo":10,
+      "responseDatas":
+      [
+        {
+          "text":"A. None",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. One",
+          "value":3,
+          "sequenceNo":2
+        },
+        {
+          "text":"C. Two or more",
+          "value":7,
+          "sequenceNo":3
+        }
+      ]
+    }
+  ]
+}
