@@ -1,0 +1,66 @@
+[
+ {
+   "PPI from": "Identifier",
+   "PPI to": null,
+   "$2.50": {
+      "day": {
+         "2005 PPP_Ethiopia_2005": "$2.50/day/2005 PPP_Ethiopia_2005"
+      }
+   },
+   "$1.75": {
+      "day": {
+         "2005 PPP_Ethiopia_2005": "$1.75/day/2005 PPP_Ethiopia_2005"
+      }
+   },
+   "$1.25": {
+      "day": {
+         "2005 PPP_Ethiopia_2005": "$1.25/day/2005 PPP_Ethiopia_2005"
+      }
+   },
+   "$1.00": {
+      "day": {
+         "2005 PPP_Ethiopia_2005": "$1.00/day/2005 PPP_Ethiopia_2005"
+      }
+   }
+},
+ {
+   "PPI from": "Poverty Rate",
+   "PPI to": null,
+   "$2.50": {
+      "day": {
+         "2005 PPP_Ethiopia_2005": "78.4"
+      }
+   },
+   "$1.75": {
+      "day": {
+         "2005 PPP_Ethiopia_2005": "52.3"
+      }
+   },
+   "$1.25": {
+      "day": {
+         "2005 PPP_Ethiopia_2005": "27.2"
+      }
+   },
+   "$1.00": {
+      "day": {
+         "2005 PPP_Ethiopia_2005": "13.1"
+      }
+   }
+},
+ {
+   "PPI from": "0",
+   "PPI to": 4,
+   "$2.50": {
+      "day": {
+         "2005 PPP_Ethiopia_2005": "100"
+      }
+   },
+   "$1.75": {
+      "day": {
+         "2005 PPP_Ethiopia_2005": "87.6"
+      }
+   },
+   "$1.25": {
+      "day": {
+         "2005 PPP_Ethiopia_2005": "87.6"
+      }
