@@ -1,0 +1,884 @@
+[
+ {
+   "PPI� for Senegal 2005": "               Important: A PPI score must be converted into a poverty likelihood using the PPI Look-up Table.",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "PPI� for Senegal 2005": "                              Indicators                                     Responses                    Score",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "PPI� for Senegal 2005": "             1. What are the walls of the residence made     A. Other                                       0",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "PPI� for Senegal 2005": "             of?",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "PPI� for Senegal 2005": "                                                             B. Mud blocks or cinder blocks                 11",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "PPI� for Senegal 2005": "             2. What is the main source of energy for        A. Lantern or homemade kerosene lamp           0",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "PPI� for Senegal 2005": "             lighting?                                       B. Candle",
+   "FIELD2": " wood",
+   "FIELD3": " or other                      3",
+   "FIELD4": ""
+ },
+ {
+   "PPI� for Senegal 2005": "                                                             C. Generator",
+   "FIELD2": " solar",
+   "FIELD3": " gas lamp",
+   "FIELD4": " or electricity  8"
+ },
+ {
+   "PPI� for Senegal 2005": "                                                             (SENELEC)",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "PPI� for Senegal 2005": "             3. What is the main fuel used for cooking?      A. Other                                       0",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "PPI� for Senegal 2005": "                                                             B. Gas                                         7",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "PPI� for Senegal 2005": "             4. What is the main source of drinking water?   A. Other                                       0",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "PPI� for Senegal 2005": "                                                             C. Inside faucet                                7",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "PPI� for Senegal 2005": "             5. What toilet arrangement does the household   A. Uncovered latrine",
+   "FIELD2": " basin/bucket",
+   "FIELD3": " other",
+   "FIELD4": "     0"
+ },
+ {
+   "PPI� for Senegal 2005": "             use?                                            or none",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "PPI� for Senegal 2005": "                                                             B. Covered latrine",
+   "FIELD2": " improved ventilated        8",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "PPI� for Senegal 2005": "                                                             latrine",
+   "FIELD2": " or flush to septic tank",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "PPI� for Senegal 2005": "                                                             C. Flush to sewer                              19",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "PPI� for Senegal 2005": "             6. Does the household own a                     A. No                                          0",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "PPI� for Senegal 2005": "             refrigerator/freezer?                           B. Yes                                         19",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "PPI� for Senegal 2005": "             7. Does the household own a television?         A. No                                          0",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "PPI� for Senegal 2005": "                                                             B. Yes                                         2",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "PPI� for Senegal 2005": "             8. Does the household own a fan?                A. No                                          0",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "PPI� for Senegal 2005": "                                                             B. Yes                                         15",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "PPI� for Senegal 2005": "             9. Does the household own an electric iron?     A. No                                          0",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "PPI� for Senegal 2005": "                                                             B. Yes                                         5",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "PPI� for Senegal 2005": "             10. Does the female head/spouse know how        A. No female head/spouse                       0",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "PPI� for Senegal 2005": "             to read and write in any language?              B. No                                          2",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "PPI� for Senegal 2005": "                                                             B. Yes                                         7",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "PPI� for Senegal 2005": "                                                                                   Total Score:",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "PPI� for Senegal 2005": "             This PPI was created in September 2009 using Senegal�s Enqu�te de Suivi de la Pauvret� au S�n�gal (ESPS",
+   "FIELD2": " the Senegal Poverty Survey).",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "PPI� for Senegal 2005": "                                      For more information",
+   "FIELD2": " please visit www.progressoutofpoverty.org.",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "PPI� for Senegal 2005": "                                       By Mark Schreiner of Microfinance Risk Management",
+   "FIELD2": " L.L.C.",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "PPI� for Senegal 2005": "                            Category Likelihoods according to Senegal PPI� Score",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "PPI� for Senegal 2005": "                            National Poverty Line                         National Food Poverty Line                    USAID \"Extreme\" Poverty Line",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "PPI� for Senegal 2005": "                                                                    Total Below the        Total Above the           Total Below the       Total Above the",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "PPI� for Senegal 2005": "                                          Total Above the",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "PPI� for Senegal 2005": "                   Total Below the",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "PPI� for Senegal 2005": "    PPI Score   National Poverty Line   National Poverty Line       National Food          National Food            USAID \"Extreme\"       USAID \"Extreme\"",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "PPI� for Senegal 2005": "                                                                     Poverty Line           Poverty Line              Poverty Line           Poverty Line",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "PPI� for Senegal 2005": "       0-4              58.2%                  41.8%                    24.2%                  75.8%                     28.5%                 71.5%",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "PPI� for Senegal 2005": "       5-9              65.0%                  35.0%                    24.9%                  75.1%                     28.5%                 71.5%",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "PPI� for Senegal 2005": "      10-14             68.3%                  31.7%                    30.8%                  69.2%                     37.7%                 62.3%",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "PPI� for Senegal 2005": "      15-19             58.6%                  41.4%                    23.6%                  76.4%                     28.9%                 71.1%",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "PPI� for Senegal 2005": "      20-24             56.0%                  44.0%                    16.4%                  83.6%                     26.2%                 73.8%",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "PPI� for Senegal 2005": "      25-29            46.9%                  53.1%                     15.5%                  84.5%                     25.2%                 74.8%",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "PPI� for Senegal 2005": "      30-34            51.3%                  48.7%                      7.8%                  92.2%                     21.4%                 78.6%",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "PPI� for Senegal 2005": "      35-39            42.3%                  57.7%                      7.7%                  92.3%                     16.9%                 83.1%",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "PPI� for Senegal 2005": "      40-44            34.8%                  65.2%                      1.5%                  98.5%                     18.5%                 81.5%",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "PPI� for Senegal 2005": "      45-49            27.9%                  72.1%                      1.5%                  98.5%                     12.0%                 88.0%",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "PPI� for Senegal 2005": "      50-54            37.4%                  62.6%                      1.1%                  98.9%                     12.9%                 87.1%",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "PPI� for Senegal 2005": "      55-59            22.2%                  77.8%                      0.2%                  99.8%                      9.2%                 90.8%",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "PPI� for Senegal 2005": "      60-64            21.9%                  78.1%                      0.1%                  99.9%                     10.8%                 89.2%",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "PPI� for Senegal 2005": "      65-69            19.9%                  80.1%                      0.7%                  99.3%                      7.6%                 92.4%",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "PPI� for Senegal 2005": "      70-74            20.3%                  79.7%                      0.6%                  99.4%                     13.5%                 86.5%",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "PPI� for Senegal 2005": "      75-79            17.7%                  82.3%                      0.0%                  100.0%                     5.5%                 94.5%",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "PPI� for Senegal 2005": "      80-84             8.6%                  91.4%                      3.4%                  96.6%                      5.6%                 94.4%",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "PPI� for Senegal 2005": "      85-89             4.3%                  95.7%                      0.0%                  100.0%                     0.0%                 100.0%",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "PPI� for Senegal 2005": "      90-94            12.2%                  87.8%                      0.2%                  99.8%                      0.4%                 99.6%",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "PPI� for Senegal 2005": "      95-100            1.9%                  98.1%                      0.0%                  100.0%                     1.9%                 98.1%",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "PPI� for Senegal 2005": "    Source: Microfinance Risk Management",
+   "FIELD2": " L.L.C. based on the 2005/06 ESPS",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "PPI� for Senegal 2005": "                                        This PPI was updated in September",
+   "FIELD2": " 2009. For up-to-date PPIs and other information on the",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "PPI� for Senegal 2005": "                                    Progress out of Poverty Index� for Senegal and other countries go to www.progressoutofpoverty.org",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "PPI� for Senegal 2005": "                            Category Likelihoods according to Senegal PPI� Score",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "PPI� for Senegal 2005": "                                             75% of the National Poverty Line                    125% of the National Poverty Line",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "PPI� for Senegal 2005": "                                     Total Below the 75% of   Total Above the 75% of     Total Below the 125% of   Total Above the 125%",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "PPI� for Senegal 2005": "                        PPI Score     the National Poverty     the National Poverty        the National Poverty    of the National Poverty",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "PPI� for Senegal 2005": "                                              Line                     Line                       Line                      Line",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "PPI� for Senegal 2005": "                           0-4               38.8%                    61.2%                       77.1%                    22.9%",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "PPI� for Senegal 2005": "                           5-9               35.0%                    65.0%                       79.1%                    20.9%",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "PPI� for Senegal 2005": "                          10-14              45.3%                    54.7%                       81.2%                    18.8%",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "PPI� for Senegal 2005": "                          15-19              35.0%                    65.0%                       75.3%                    24.7%",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "PPI� for Senegal 2005": "                          20-24              29.9%                    70.1%                       74.3%                    25.7%",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "PPI� for Senegal 2005": "                          25-29              29.7%                    70.3%                       57.0%                    43.0%",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "PPI� for Senegal 2005": "                          30-34              28.2%                    71.8%                       72.1%                    27.9%",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "PPI� for Senegal 2005": "                          35-39              18.5%                    81.5%                       65.3%                    34.7%",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "PPI� for Senegal 2005": "                          40-44              15.1%                    84.9%                       58.4%                    41.6%",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "PPI� for Senegal 2005": "                          45-49              12.4%                    87.6%                       56.0%                    44.0%",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "PPI� for Senegal 2005": "                          50-54              15.7%                    84.3%                       46.2%                    53.8%",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "PPI� for Senegal 2005": "                          55-59              8.2%                     91.8%                       46.3%                    53.7%",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "PPI� for Senegal 2005": "                          60-64              8.8%                     91.2%                       46.9%                    53.1%",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "PPI� for Senegal 2005": "                          65-69              8.4%                     91.6%                       40.0%                    60.0%",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "PPI� for Senegal 2005": "                          70-74              16.3%                    83.7%                       33.0%                    67.0%",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "PPI� for Senegal 2005": "                          75-79              3.8%                     96.2%                       32.2%                    67.8%",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "PPI� for Senegal 2005": "                          80-84              4.1%                     95.9%                       13.5%                    86.5%",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "PPI� for Senegal 2005": "                          85-89              0.0%                    100.0%                       16.6%                    83.4%",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "PPI� for Senegal 2005": "                          90-94              0.4%                     99.6%                       17.5%                    82.5%",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "PPI� for Senegal 2005": "                         95-100              1.9%                     98.1%                       11.4%                    88.6%",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "PPI� for Senegal 2005": "                       Source: Microfinance Risk Management",
+   "FIELD2": " L.L.C. based on the 2005/06 ESPS",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "PPI� for Senegal 2005": "                                        This PPI was updated in September",
+   "FIELD2": " 2009. For up-to-date PPIs and other information on the",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "PPI� for Senegal 2005": "                                    Progress out of Poverty Index� for Senegal and other countries go to www.progressoutofpoverty.org",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "PPI� for Senegal 2005": "                            Category Likelihoods according to Senegal PPI� Score",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "PPI� for Senegal 2005": "                                            150% of the National Poverty Line                    200% of the National Poverty Line",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "PPI� for Senegal 2005": "                                    Total Below the 150% of    Total Above the 150%      Total Below the 200% of   Total Above the 200%",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "PPI� for Senegal 2005": "                        PPI Score     the National Poverty    of the National Poverty      the National Poverty    of the National Poverty",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "PPI� for Senegal 2005": "                                              Line                     Line                        Line                     Line",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "PPI� for Senegal 2005": "                           0-4               89.0%                    11.0%                       95.7%                    4.3%",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "PPI� for Senegal 2005": "                           5-9               82.8%                    17.2%                       96.4%                    3.6%",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "PPI� for Senegal 2005": "                          10-14              88.6%                    11.4%                       96.0%                    4.0%",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "PPI� for Senegal 2005": "                          15-19              83.2%                    16.8%                       92.3%                    7.7%",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "PPI� for Senegal 2005": "                          20-24              82.8%                    17.2%                       91.2%                    8.8%",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "PPI� for Senegal 2005": "                          25-29              69.8%                    30.2%                       81.1%                    18.9%",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "PPI� for Senegal 2005": "                          30-34              78.5%                    21.5%                       95.5%                    4.5%",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "PPI� for Senegal 2005": "                          35-39              72.8%                    27.2%                       89.8%                    10.2%",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "PPI� for Senegal 2005": "                          40-44              72.6%                    27.4%                       85.1%                    14.9%",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "PPI� for Senegal 2005": "                          45-49              79.5%                    20.5%                       90.9%                    9.1%",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "PPI� for Senegal 2005": "                          50-54              61.2%                    38.8%                       80.3%                    19.7%",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "PPI� for Senegal 2005": "                          55-59              62.4%                    37.6%                       89.9%                    10.1%",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "PPI� for Senegal 2005": "                          60-64              62.4%                    37.6%                       79.5%                    20.5%",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "PPI� for Senegal 2005": "                          65-69              54.3%                    45.7%                       74.8%                    25.2%",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "PPI� for Senegal 2005": "                          70-74              40.9%                    59.1%                       74.0%                    26.0%",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "PPI� for Senegal 2005": "                          75-79              44.6%                    55.4%                       67.1%                    32.9%",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "PPI� for Senegal 2005": "                          80-84              25.3%                    74.7%                       54.2%                    45.8%",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "PPI� for Senegal 2005": "                          85-89              43.0%                    57.0%                       54.7%                    45.3%",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "PPI� for Senegal 2005": "                          90-94              24.2%                    75.8%                       35.1%                    64.9%",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "PPI� for Senegal 2005": "                         95-100              21.4%                    78.6%                       48.7%                    51.3%",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "PPI� for Senegal 2005": "                       Source: Microfinance Risk Management",
+   "FIELD2": " L.L.C. based on the 2005/06 ESPS",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "PPI� for Senegal 2005": "                                        This PPI was updated in September",
+   "FIELD2": " 2009. For up-to-date PPIs and other information on the",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "PPI� for Senegal 2005": "                                    Progress out of Poverty Index� for Senegal and other countries go to www.progressoutofpoverty.org",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "PPI� for Senegal 2005": "                            Category Likelihoods according to Senegal PPI� Score",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "PPI� for Senegal 2005": "                      $1.25/Day/2005 PPP Poverty Line                  $2.50/Day/2005 PPP Poverty Line                 $3.75/Day/2005 PPP Poverty Line",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "PPI� for Senegal 2005": "                   Total Below the        Total Above the           Total Below the        Total Above the           Total Below the       Total Above the",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "PPI� for Senegal 2005": "    PPI Score    $1.25/Day/2005 PPP     $1.25/Day/2005 PPP        $2.50/Day/2005 PPP     $2.50/Day/2005 PPP        $3.75/Day/2005 PPP    $3.75/Day/2005 PPP",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "PPI� for Senegal 2005": "                        Line                   Line                      Line                   Line                      Line                  Line",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "PPI� for Senegal 2005": "       0-4             36.4%                   63.6%                    83.9%                  16.1%                     97.8%                  2.2%",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "PPI� for Senegal 2005": "       5-9             39.8%                   60.2%                    85.6%                  14.4%                     95.4%                  4.6%",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "PPI� for Senegal 2005": "      10-14            43.9%                   56.1%                    88.3%                  11.7%                     96.6%                  3.4%",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "PPI� for Senegal 2005": "      15-19            33.5%                   66.5%                    82.7%                  17.3%                     93.5%                  6.5%",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "PPI� for Senegal 2005": "      20-24            30.4%                   69.6%                    80.0%                  20.0%                     91.7%                  8.3%",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "PPI� for Senegal 2005": "      25-29            27.6%                  72.4%                     63.4%                  36.6%                     82.5%                 17.5%",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "PPI� for Senegal 2005": "      30-34            19.3%                  80.7%                     77.2%                  22.8%                     97.2%                  2.8%",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "PPI� for Senegal 2005": "      35-39            16.1%                  83.9%                     72.1%                  27.9%                     89.2%                 10.8%",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "PPI� for Senegal 2005": "      40-44            14.5%                  85.5%                     61.9%                  38.1%                     88.1%                 11.9%",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "PPI� for Senegal 2005": "      45-49             6.5%                  93.5%                     67.7%                  32.3%                     91.7%                  8.3%",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "PPI� for Senegal 2005": "      50-54            12.3%                  87.7%                     57.7%                  42.3%                     82.0%                 18.0%",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "PPI� for Senegal 2005": "      55-59             5.5%                  94.5%                     56.4%                  43.6%                     88.5%                 11.5%",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "PPI� for Senegal 2005": "      60-64             4.9%                  95.1%                     55.3%                  46.7%                     80.8%                 29.2%",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "PPI� for Senegal 2005": "      65-69             3.5%                  96.5%                     48.8%                  51.2%                     78.5%                 21.5%",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "PPI� for Senegal 2005": "      70-74             5.3%                  94.7%                     34.5%                  65.5%                     72.3%                 27.7%",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "PPI� for Senegal 2005": "      75-79             2.0%                  98.0%                     34.6%                  65.4%                     70.4%                 29.6%",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "PPI� for Senegal 2005": "      80-84             3.4%                  96.6%                     17.6%                  82.4%                     68.0%                 32.0%",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "PPI� for Senegal 2005": "      85-89             0.0%                  100.0%                    42.4%                  57.6%                     63.8%                 36.2%",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "PPI� for Senegal 2005": "      90-94             0.4%                  99.6%                     18.3%                  81.7%                     35.9%                 64.1%",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "PPI� for Senegal 2005": "      95-100            1.9%                  98.1%                     11.4%                  88.6%                     40.1%                 59.9%",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "PPI� for Senegal 2005": "    Source: Microfinance Risk Management",
+   "FIELD2": " L.L.C. based on the 2005/06 ESPS",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "PPI� for Senegal 2005": "                                        This PPI was updated in September",
+   "FIELD2": " 2009. For up-to-date PPIs and other information on the",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "PPI� for Senegal 2005": "                                    Progress out of Poverty Index� for Senegal and other countries go to www.progressoutofpoverty.org",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ }
+]
