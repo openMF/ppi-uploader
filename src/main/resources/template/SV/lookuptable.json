@@ -1,0 +1,530 @@
+[
+ {
+   "PPI from": "Identifier",
+   "PPI to": null,
+   "$3.75": {
+      "d�a": {
+         "2005 PPP_ElSalvador_2008": "$3.75/day/2005 PPP_ElSalvador_2008"
+      }
+   },
+   "$2.50": {
+      "d�a": {
+         "2005 PPP_ElSalvador_2008": "$2.50/day/2005 PPP_ElSalvador_2008"
+      }
+   },
+   "$1.25": {
+      "d�a": {
+         "2005 PPP_ElSalvador_2008": "$1.25/day/2005 PPP_ElSalvador_2008"
+      }
+   },
+   "200% de Nacional_ElSalvador_2008": "200% of National_ElSalvador_2008",
+   "150% de Nacional_ElSalvador_2008": "150% of National_ElSalvador_2008",
+   "Probeza Relativa Nacional_ElSalvador_2008": "National_ElSalvador_2008",
+   "USAID Extrema_ElSalvador_2008": "USAID Extreme_ElSalvador_2008",
+   "Pobreza Extrema Nacional_ElSalvador_2008": "Food_ElSalvador_2008"
+},
+ {
+   "PPI from": "Poverty Rate",
+   "PPI to": null,
+   "$3.75": {
+      "d�a": {
+         "2005 PPP_ElSalvador_2008": "88.7"
+      }
+   },
+   "$2.50": {
+      "d�a": {
+         "2005 PPP_ElSalvador_2008": "77.6"
+      }
+   },
+   "$1.25": {
+      "d�a": {
+         "2005 PPP_ElSalvador_2008": "46.2"
+      }
+   },
+   "200% de Nacional_ElSalvador_2008": "73",
+   "150% de Nacional_ElSalvador_2008": "60.3",
+   "Probeza Relativa Nacional_ElSalvador_2008": "39.9",
+   "USAID Extrema_ElSalvador_2008": "19.2",
+   "Pobreza Extrema Nacional_ElSalvador_2008": "12.4"
+},
+ {
+   "PPI from": "0",
+   "PPI to": 4,
+   "$3.75": {
+      "d�a": {
+         "2005 PPP_ElSalvador_2008": "100"
+      }
+   },
+   "$2.50": {
+      "d�a": {
+         "2005 PPP_ElSalvador_2008": "100"
+      }
+   },
+   "$1.25": {
+      "d�a": {
+         "2005 PPP_ElSalvador_2008": "100"
+      }
+   },
+   "200% de Nacional_ElSalvador_2008": "100",
+   "150% de Nacional_ElSalvador_2008": "100",
+   "Probeza Relativa Nacional_ElSalvador_2008": "100",
+   "USAID Extrema_ElSalvador_2008": "86.8",
+   "Pobreza Extrema Nacional_ElSalvador_2008": "70.3"
+},
+ {
+   "PPI from": "5",
+   "PPI to": 9,
+   "$3.75": {
+      "d�a": {
+         "2005 PPP_ElSalvador_2008": "100"
+      }
+   },
+   "$2.50": {
+      "d�a": {
+         "2005 PPP_ElSalvador_2008": "100"
+      }
+   },
+   "$1.25": {
+      "d�a": {
+         "2005 PPP_ElSalvador_2008": "96.4"
+      }
+   },
+   "200% de Nacional_ElSalvador_2008": "100",
+   "150% de Nacional_ElSalvador_2008": "100",
+   "Probeza Relativa Nacional_ElSalvador_2008": "88.1",
+   "USAID Extrema_ElSalvador_2008": "78.8",
+   "Pobreza Extrema Nacional_ElSalvador_2008": "67.9"
+},
+ {
+   "PPI from": "10",
+   "PPI to": 14,
+   "$3.75": {
+      "d�a": {
+         "2005 PPP_ElSalvador_2008": "100"
+      }
+   },
+   "$2.50": {
+      "d�a": {
+         "2005 PPP_ElSalvador_2008": "99.6"
+      }
+   },
+   "$1.25": {
+      "d�a": {
+         "2005 PPP_ElSalvador_2008": "94.6"
+      }
+   },
+   "200% de Nacional_ElSalvador_2008": "99",
+   "150% de Nacional_ElSalvador_2008": "98.1",
+   "Probeza Relativa Nacional_ElSalvador_2008": "93.3",
+   "USAID Extrema_ElSalvador_2008": "67.9",
+   "Pobreza Extrema Nacional_ElSalvador_2008": "54"
+},
+ {
+   "PPI from": "15",
+   "PPI to": 19,
+   "$3.75": {
+      "d�a": {
+         "2005 PPP_ElSalvador_2008": "100"
+      }
+   },
+   "$2.50": {
+      "d�a": {
+         "2005 PPP_ElSalvador_2008": "100"
+      }
+   },
+   "$1.25": {
+      "d�a": {
+         "2005 PPP_ElSalvador_2008": "90.8"
+      }
+   },
+   "200% de Nacional_ElSalvador_2008": "99.3",
+   "150% de Nacional_ElSalvador_2008": "97.5",
+   "Probeza Relativa Nacional_ElSalvador_2008": "85.3",
+   "USAID Extrema_ElSalvador_2008": "56.5",
+   "Pobreza Extrema Nacional_ElSalvador_2008": "47.9"
+},
+ {
+   "PPI from": "20",
+   "PPI to": 24,
+   "$3.75": {
+      "d�a": {
+         "2005 PPP_ElSalvador_2008": "100"
+      }
+   },
+   "$2.50": {
+      "d�a": {
+         "2005 PPP_ElSalvador_2008": "99.1"
+      }
+   },
+   "$1.25": {
+      "d�a": {
+         "2005 PPP_ElSalvador_2008": "87.5"
+      }
+   },
+   "200% de Nacional_ElSalvador_2008": "97.6",
+   "150% de Nacional_ElSalvador_2008": "95.8",
+   "Probeza Relativa Nacional_ElSalvador_2008": "80.1",
+   "USAID Extrema_ElSalvador_2008": "53.8",
+   "Pobreza Extrema Nacional_ElSalvador_2008": "40.2"
+},
+ {
+   "PPI from": "25",
+   "PPI to": 29,
+   "$3.75": {
+      "d�a": {
+         "2005 PPP_ElSalvador_2008": "99.9"
+      }
+   },
+   "$2.50": {
+      "d�a": {
+         "2005 PPP_ElSalvador_2008": "97.2"
+      }
+   },
+   "$1.25": {
+      "d�a": {
+         "2005 PPP_ElSalvador_2008": "81.1"
+      }
+   },
+   "200% de Nacional_ElSalvador_2008": "95.4",
+   "150% de Nacional_ElSalvador_2008": "91.3",
+   "Probeza Relativa Nacional_ElSalvador_2008": "75",
+   "USAID Extrema_ElSalvador_2008": "41.3",
+   "Pobreza Extrema Nacional_ElSalvador_2008": "24.6"
+},
+ {
+   "PPI from": "30",
+   "PPI to": 34,
+   "$3.75": {
+      "d�a": {
+         "2005 PPP_ElSalvador_2008": "99.3"
+      }
+   },
+   "$2.50": {
+      "d�a": {
+         "2005 PPP_ElSalvador_2008": "96.5"
+      }
+   },
+   "$1.25": {
+      "d�a": {
+         "2005 PPP_ElSalvador_2008": "75.4"
+      }
+   },
+   "200% de Nacional_ElSalvador_2008": "94.4",
+   "150% de Nacional_ElSalvador_2008": "87.5",
+   "Probeza Relativa Nacional_ElSalvador_2008": "69.2",
+   "USAID Extrema_ElSalvador_2008": "32.1",
+   "Pobreza Extrema Nacional_ElSalvador_2008": "20.3"
+},
+ {
+   "PPI from": "35",
+   "PPI to": 39,
+   "$3.75": {
+      "d�a": {
+         "2005 PPP_ElSalvador_2008": "98.9"
+      }
+   },
+   "$2.50": {
+      "d�a": {
+         "2005 PPP_ElSalvador_2008": "94.4"
+      }
+   },
+   "$1.25": {
+      "d�a": {
+         "2005 PPP_ElSalvador_2008": "62.9"
+      }
+   },
+   "200% de Nacional_ElSalvador_2008": "92.3",
+   "150% de Nacional_ElSalvador_2008": "80.3",
+   "Probeza Relativa Nacional_ElSalvador_2008": "56",
+   "USAID Extrema_ElSalvador_2008": "23.1",
+   "Pobreza Extrema Nacional_ElSalvador_2008": "12.1"
+},
+ {
+   "PPI from": "40",
+   "PPI to": 44,
+   "$3.75": {
+      "d�a": {
+         "2005 PPP_ElSalvador_2008": "94.4"
+      }
+   },
+   "$2.50": {
+      "d�a": {
+         "2005 PPP_ElSalvador_2008": "88.6"
+      }
+   },
+   "$1.25": {
+      "d�a": {
+         "2005 PPP_ElSalvador_2008": "51.6"
+      }
+   },
+   "200% de Nacional_ElSalvador_2008": "86.7",
+   "150% de Nacional_ElSalvador_2008": "67.3",
+   "Probeza Relativa Nacional_ElSalvador_2008": "43.5",
+   "USAID Extrema_ElSalvador_2008": "16.5",
+   "Pobreza Extrema Nacional_ElSalvador_2008": "8.4"
+},
+ {
+   "PPI from": "45",
+   "PPI to": 49,
+   "$3.75": {
+      "d�a": {
+         "2005 PPP_ElSalvador_2008": "93.3"
+      }
+   },
+   "$2.50": {
+      "d�a": {
+         "2005 PPP_ElSalvador_2008": "85"
+      }
+   },
+   "$1.25": {
+      "d�a": {
+         "2005 PPP_ElSalvador_2008": "47.6"
+      }
+   },
+   "200% de Nacional_ElSalvador_2008": "81.9",
+   "150% de Nacional_ElSalvador_2008": "69.3",
+   "Probeza Relativa Nacional_ElSalvador_2008": "40.4",
+   "USAID Extrema_ElSalvador_2008": "13.2",
+   "Pobreza Extrema Nacional_ElSalvador_2008": "5.8"
+},
+ {
+   "PPI from": "50",
+   "PPI to": 54,
+   "$3.75": {
+      "d�a": {
+         "2005 PPP_ElSalvador_2008": "90"
+      }
+   },
+   "$2.50": {
+      "d�a": {
+         "2005 PPP_ElSalvador_2008": "77.4"
+      }
+   },
+   "$1.25": {
+      "d�a": {
+         "2005 PPP_ElSalvador_2008": "37.6"
+      }
+   },
+   "200% de Nacional_ElSalvador_2008": "70",
+   "150% de Nacional_ElSalvador_2008": "55.1",
+   "Probeza Relativa Nacional_ElSalvador_2008": "27.5",
+   "USAID Extrema_ElSalvador_2008": "9.2",
+   "Pobreza Extrema Nacional_ElSalvador_2008": "2.9"
+},
+ {
+   "PPI from": "55",
+   "PPI to": 59,
+   "$3.75": {
+      "d�a": {
+         "2005 PPP_ElSalvador_2008": "89.5"
+      }
+   },
+   "$2.50": {
+      "d�a": {
+         "2005 PPP_ElSalvador_2008": "73.3"
+      }
+   },
+   "$1.25": {
+      "d�a": {
+         "2005 PPP_ElSalvador_2008": "28.2"
+      }
+   },
+   "200% de Nacional_ElSalvador_2008": "63.6",
+   "150% de Nacional_ElSalvador_2008": "49.5",
+   "Probeza Relativa Nacional_ElSalvador_2008": "19.3",
+   "USAID Extrema_ElSalvador_2008": "5.7",
+   "Pobreza Extrema Nacional_ElSalvador_2008": "2.2"
+},
+ {
+   "PPI from": "60",
+   "PPI to": 64,
+   "$3.75": {
+      "d�a": {
+         "2005 PPP_ElSalvador_2008": "82.5"
+      }
+   },
+   "$2.50": {
+      "d�a": {
+         "2005 PPP_ElSalvador_2008": "62.3"
+      }
+   },
+   "$1.25": {
+      "d�a": {
+         "2005 PPP_ElSalvador_2008": "18.3"
+      }
+   },
+   "200% de Nacional_ElSalvador_2008": "52.8",
+   "150% de Nacional_ElSalvador_2008": "32.5",
+   "Probeza Relativa Nacional_ElSalvador_2008": "11.8",
+   "USAID Extrema_ElSalvador_2008": "0.7",
+   "Pobreza Extrema Nacional_ElSalvador_2008": "0.3"
+},
+ {
+   "PPI from": "65",
+   "PPI to": 69,
+   "$3.75": {
+      "d�a": {
+         "2005 PPP_ElSalvador_2008": "73.4"
+      }
+   },
+   "$2.50": {
+      "d�a": {
+         "2005 PPP_ElSalvador_2008": "55"
+      }
+   },
+   "$1.25": {
+      "d�a": {
+         "2005 PPP_ElSalvador_2008": "16.1"
+      }
+   },
+   "200% de Nacional_ElSalvador_2008": "44.6",
+   "150% de Nacional_ElSalvador_2008": "26.3",
+   "Probeza Relativa Nacional_ElSalvador_2008": "13",
+   "USAID Extrema_ElSalvador_2008": "0.9",
+   "Pobreza Extrema Nacional_ElSalvador_2008": "0.5"
+},
+ {
+   "PPI from": "70",
+   "PPI to": 74,
+   "$3.75": {
+      "d�a": {
+         "2005 PPP_ElSalvador_2008": "75.8"
+      }
+   },
+   "$2.50": {
+      "d�a": {
+         "2005 PPP_ElSalvador_2008": "49.2"
+      }
+   },
+   "$1.25": {
+      "d�a": {
+         "2005 PPP_ElSalvador_2008": "12.9"
+      }
+   },
+   "200% de Nacional_ElSalvador_2008": "44.1",
+   "150% de Nacional_ElSalvador_2008": "23.8",
+   "Probeza Relativa Nacional_ElSalvador_2008": "6.4",
+   "USAID Extrema_ElSalvador_2008": "0.5",
+   "Pobreza Extrema Nacional_ElSalvador_2008": "0.5"
+},
+ {
+   "PPI from": "75",
+   "PPI to": 79,
+   "$3.75": {
+      "d�a": {
+         "2005 PPP_ElSalvador_2008": "64"
+      }
+   },
+   "$2.50": {
+      "d�a": {
+         "2005 PPP_ElSalvador_2008": "39.2"
+      }
+   },
+   "$1.25": {
+      "d�a": {
+         "2005 PPP_ElSalvador_2008": "4.3"
+      }
+   },
+   "200% de Nacional_ElSalvador_2008": "32.1",
+   "150% de Nacional_ElSalvador_2008": "11.5",
+   "Probeza Relativa Nacional_ElSalvador_2008": "3.9",
+   "USAID Extrema_ElSalvador_2008": "0.5",
+   "Pobreza Extrema Nacional_ElSalvador_2008": "0"
+},
+ {
+   "PPI from": "80",
+   "PPI to": 84,
+   "$3.75": {
+      "d�a": {
+         "2005 PPP_ElSalvador_2008": "54.4"
+      }
+   },
+   "$2.50": {
+      "d�a": {
+         "2005 PPP_ElSalvador_2008": "29.8"
+      }
+   },
+   "$1.25": {
+      "d�a": {
+         "2005 PPP_ElSalvador_2008": "1"
+      }
+   },
+   "200% de Nacional_ElSalvador_2008": "24.8",
+   "150% de Nacional_ElSalvador_2008": "8.4",
+   "Probeza Relativa Nacional_ElSalvador_2008": "1",
+   "USAID Extrema_ElSalvador_2008": "0",
+   "Pobreza Extrema Nacional_ElSalvador_2008": "0"
+},
+ {
+   "PPI from": "85",
+   "PPI to": 89,
+   "$3.75": {
+      "d�a": {
+         "2005 PPP_ElSalvador_2008": "42.9"
+      }
+   },
+   "$2.50": {
+      "d�a": {
+         "2005 PPP_ElSalvador_2008": "28.3"
+      }
+   },
+   "$1.25": {
+      "d�a": {
+         "2005 PPP_ElSalvador_2008": "0.5"
+      }
+   },
+   "200% de Nacional_ElSalvador_2008": "25.2",
+   "150% de Nacional_ElSalvador_2008": "11",
+   "Probeza Relativa Nacional_ElSalvador_2008": "0.5",
+   "USAID Extrema_ElSalvador_2008": "0",
+   "Pobreza Extrema Nacional_ElSalvador_2008": "0"
+},
+ {
+   "PPI from": "90",
+   "PPI to": 94,
+   "$3.75": {
+      "d�a": {
+         "2005 PPP_ElSalvador_2008": "20.3"
+      }
+   },
+   "$2.50": {
+      "d�a": {
+         "2005 PPP_ElSalvador_2008": "6.2"
+      }
+   },
+   "$1.25": {
+      "d�a": {
+         "2005 PPP_ElSalvador_2008": "0"
+      }
+   },
+   "200% de Nacional_ElSalvador_2008": "6.2",
+   "150% de Nacional_ElSalvador_2008": "0",
+   "Probeza Relativa Nacional_ElSalvador_2008": "0",
+   "USAID Extrema_ElSalvador_2008": "0",
+   "Pobreza Extrema Nacional_ElSalvador_2008": "0"
+},
+ {
+   "PPI from": "95",
+   "PPI to": 100,
+   "$3.75": {
+      "d�a": {
+         "2005 PPP_ElSalvador_2008": "24.4"
+      }
+   },
+   "$2.50": {
+      "d�a": {
+         "2005 PPP_ElSalvador_2008": "0"
+      }
+   },
+   "$1.25": {
+      "d�a": {
+         "2005 PPP_ElSalvador_2008": "0"
+      }
+   },
+   "200% de Nacional_ElSalvador_2008": "0",
+   "150% de Nacional_ElSalvador_2008": "0",
+   "Probeza Relativa Nacional_ElSalvador_2008": "0",
+   "USAID Extrema_ElSalvador_2008": "0",
+   "Pobreza Extrema Nacional_ElSalvador_2008": "0"
+}
+]
