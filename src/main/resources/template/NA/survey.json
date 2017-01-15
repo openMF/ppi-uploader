@@ -1,0 +1,289 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\froman\fcharset0 Times-Roman;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;\red0\green0\blue0;}
+{\*\expandedcolortbl;\csgray\c100000;\cssrgb\c0\c0\c0;\csgenericrgb\c0\c0\c0;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww12000\viewh10920\viewkind0
+\deftab720
+\pard\pardeftab720\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 \{\
+  "key":"ppi-namibia-2013\'94,\
+  "name":"PPI Survey for the Namibia, version 2013\'94,\
+  "description":null,\
+  "countryCode\'94:\'94NA\'94,\
+  "validFrom":null,\
+  "validTo":null,\
+  "componentDatas": null,\
+  "questionDatas":\
+  [\
+    \{\
+      "componentKey":null,\
+      "key\'94:\'94members-microwave-motorvehicle\'94,\
+      "text\'94:\'94D\cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 oes the household have only one member, or own a microwave oven, or own a motor vehicle\cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 ?\'93,\
+      "description":null,\
+      "sequenceNo\'94:1,\
+      "responseDatas":\
+      [\
+        \{\
+          "text":"A. No\'94,\
+          "value":0,\
+          "sequenceNo":1\
+        \},\
+        \{\
+          "text":"B. Yes\'94,\
+          "value\'94:100,\
+          "sequenceNo":2\
+        \}\
+      ]\
+    \},\
+    \{\
+      "componentKey":null,\
+      "key":"household-members",\
+      "text":"How many members does the household have?",\
+      "description":null,\
+      "sequenceNo\'94:2,\
+      "responseDatas":\
+      [\
+        \{\
+          "text":"A. Eight or more",\
+          "value":0,\
+          "sequenceNo":1\
+        \},\
+        \{\
+          "text":"B. Seven",\
+          "value\'94:4,\
+          "sequenceNo":2\
+        \},\
+        \{\
+          "text":"C. Six",\
+          "value\'94:10,\
+          "sequenceNo":3\
+        \},\
+        \{\
+          "text":"D. Five",\
+          "value\'94:13,\
+          "sequenceNo":4\
+        \},\
+        \{\
+          "text":"E. Four",\
+          "value\'94:20,\
+          "sequenceNo":5\
+        \},\
+        \{\
+          "text":"F. Three",\
+          "value":27,\
+          "sequenceNo":6\
+        \},\
+        \{\
+          "text\'94:\'94G. Two\'94,\
+          "value\'94:35,\
+          "sequenceNo\'94:7\
+        \}\
+      ]\
+    \},\
+    \
+    \{\
+      "componentKey":null,\
+      "key\'94:\'94education-female\'94,\
+      "text\'94:\'94\cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 What is the highest level of education that the female head/spouse has completed?\cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 \'94,\
+      "description":null,\
+      "sequenceNo":3,\
+      "responseDatas":\
+      [\
+        \{\
+          "text":"A. 
+\f1 \cf3 \expnd0\expndtw0\kerning0
+None 
+\f0 \cf0 \kerning1\expnd0\expndtw0 \'94,\
+          "value":0,\
+          "sequenceNo":1\
+        \},\
+        \{\
+          "text":"B. \cf3 \expnd0\expndtw0\kerning0
+Primary school \cf0 \kerning1\expnd0\expndtw0 ",\
+          "value\'94:2,\
+          "sequenceNo":2\
+        \},\
+        \{\
+          "text":"A. \cf3 \expnd0\expndtw0\kerning0
+No female head/spouse \cf0 \kerning1\expnd0\expndtw0 \'94,\
+          "value":0,\
+          "sequenceNo\'94:3\
+        \},\
+        \{\
+          "text":"A. \cf3 \expnd0\expndtw0\kerning0
+Junior secondary (high) school \cf0 \kerning1\expnd0\expndtw0 \'94,\
+          "value\'94:6,\
+          "sequenceNo\'94:4\
+        \},\
+       \{\
+          "text":"A. \cf3 \expnd0\expndtw0\kerning0
+Senior secondary (high) school \cf0 \kerning1\expnd0\expndtw0 \'94,\
+          "value\'94:14,\
+          "sequenceNo\'94:5\
+        \}\
+      ]\
+    \},\
+    \{\
+      "componentKey":null,\
+      "key\'94:\'94floor-material\'94,\
+      "text":"\cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 What is the main material used for the floor of the main dwelling\cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 ?",\
+      "description":null,\
+      "sequenceNo":4,\
+      "responseDatas":\
+      [\
+        \{\
+          "text":"A. Mud, clay, cow dung, or sand\'94,\
+          "value":0,\
+          "sequenceNo":1\
+        \},\
+        \{\
+          "text":"B. Concrete, wood, or other\'94,\
+          "value\'94:7,\
+          "sequenceNo":2\
+        \}\
+      ]\
+    \},\
+    \{\
+      "componentKey":null,\
+      "key\'94:\'94rooms\'94,\
+      "text":"\cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 How many rooms in the dwelling are used for sleeping? \cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 ",\
+      "description":null,\
+      "sequenceNo":5,\
+      "responseDatas":\
+      [\
+        \{\
+          "text":"A. One\'94,\
+          "value":0,\
+          "sequenceNo":1\
+        \},\
+        \{\
+          "text":"B. \cf3 \expnd0\expndtw0\kerning0
+Two \cf0 \kerning1\expnd0\expndtw0 ",\
+          "value\'94:6,\
+          "sequenceNo":2\
+        \},\
+        \{\
+          "text":"C. Three or more\'94,\
+          "value\'94:11,\
+          "sequenceNo":3\
+        \}\
+      ]\
+    \},\
+    \{\
+      "componentKey":null,\
+      "key\'94:\'94coaking-source\'94,\
+      "text":"\cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 What is the main source of energy/fuel for cooking? \cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 ",\
+      "description":null,\
+      "sequenceNo":6,\
+      "responseDatas":\
+      [\
+        \{\
+          "text":"A. \cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Wood, wood charcoal, coal, animal dung, solar energy, none, or other \cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 \'94,\
+          "value":0,\
+          "sequenceNo":1\
+        \},\
+        \{\
+          "text":"B. Paraffin, gas, or electricity\'94,\
+          "value\'94:5,\
+          "sequenceNo":2\
+        \}\
+      ]\
+    \},\
+    \{\
+      "componentKey":null,\
+      "key\'94:\'94refrigerator\'94,\
+      "text":"\cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Does the household own a refrigerator or freezer?\cf3 \outl0\strokewidth0  \cf0 \kerning1\expnd0\expndtw0 ",\
+      "description":null,\
+      "sequenceNo":7,\
+      "responseDatas":\
+      [\
+        \{\
+          "text":"A. No",\
+          "value":0,\
+          "sequenceNo":1\
+        \},\
+        \{\
+          "text":"B. Yes",\
+          "value\'94:5,\
+          "sequenceNo":2\
+        \}\
+      ]\
+    \},\
+    \{\
+      "componentKey":null,\
+      "key\'94:\'94television\'94,\
+      "text":"\cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Does the household own a television? \cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 ",\
+      "description":null,\
+      "sequenceNo":8,\
+      "responseDatas":\
+      [\
+        \{\
+          "text":"A. No",\
+          "value":0,\
+          "sequenceNo":1\
+        \},\
+        \{\
+          "text":"B. Radio only\'94,\
+          "value\'94:4,\
+          "sequenceNo":2\
+        \}      ]\
+    \},\
+    \{\
+      "componentKey":null,\
+      "key\'94:\'94telephone\'94,\
+      "text":"\cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Does the household own a cell telephone and/or a landline telephone?\cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 ",\
+      "description":null,\
+      "sequenceNo":9,\
+      "responseDatas":\
+      [\
+        \{\
+          "text":"A. No",\
+          "value":0,\
+          "sequenceNo":1\
+        \},\
+        \{\
+          "text":"B. Only cell or only landline\'94,\
+          "value\'94:4,\
+          "sequenceNo":2\
+        \},\
+        \{\
+          "text":"C. Both\'94,\
+          "value\'94:8,\
+          "sequenceNo":3\
+        \}\
+      ]\
+    \},\
+    \{\
+      "componentKey":null,\
+      "key\'94:\'94cattle-donkey/mule-horses\'94,\
+      "text":"\cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Does the household own cattle, donkeys/mules, or horses\cf3 \outl0\strokewidth0 ? \cf0 \kerning1\expnd0\expndtw0 ",\
+      "description":null,\
+      "sequenceNo":10,\
+      "responseDatas":\
+      [\
+        \{\
+          "text":"A. No",\
+          "value":0,\
+          "sequenceNo":1\
+        \},\
+        \{\
+          "text":"B. Yes\'94,\
+          "value\'94:10,\
+          "sequenceNo":2\
+        \}\
+      ]\
+    \}\
+  ]\
+\}\
+}

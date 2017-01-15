@@ -1,0 +1,327 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\froman\fcharset0 Times-Roman;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;\red0\green0\blue0;\red0\green0\blue0;
+}
+{\*\expandedcolortbl;\csgray\c100000;\cssrgb\c0\c0\c0;\csgenericrgb\c0\c0\c0;\cssrgb\c0\c0\c0;
+}
+\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 \{\
+  "key":"ppi-cambodia-2015\'94,\
+  "name":"PPI Survey for the Cambodia, version 2015\'94,\
+  "description":null,\
+  "countryCode\'94:\'94KH\'94,\
+  "validFrom":null,\
+  "validTo":null,\
+  "componentDatas": null,\
+  "questionDatas":\
+  [\
+    \{\
+      "componentKey":null,\
+      "key":"household-members",\
+      "text":"How many members does the household have?",\
+      "description":null,\
+      "sequenceNo":1,\
+      "responseDatas":\
+      [\
+        \{\
+          "text":"A. Eight or more",\
+          "value":0,\
+          "sequenceNo":1\
+        \},\
+        \{\
+          "text":"B. Seven",\
+          "value\'94:7,\
+          "sequenceNo":2\
+        \},\
+        \{\
+          "text":"C. Six",\
+          "value\'94:9,\
+          "sequenceNo":3\
+        \},\
+        \{\
+          "text":"D. Five",\
+          "value\'94:17,\
+          "sequenceNo":4\
+        \},\
+        \{\
+          "text":"E. Four",\
+          "value\'94:22,\
+          "sequenceNo":5\
+        \},\
+        \{\
+          "text":"F. Three",\
+          "value\'94:32,\
+          "sequenceNo":6\
+        \},\
+        \{\
+          "text\'94:\'94G. One or two\'94,\
+          "value\'94:40,\
+          "sequenceNo\'94:7\
+        \}\
+      ]\
+    \},\
+    \{\
+      "componentKey":null,\
+      "key\'94:\'94working-members\'94,\
+      "text\'94:\'94\cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 In the past 7 days, how many household members did any work at all, even one hour, such as working or helping on a farm, grinding grain, making palm sugar, caring for animals, weaving, etc., or working in a business or workplace (private or public sector, on their own account, or in a business belonging to someone else in the household)? \cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 \'93,\
+      "description":null,\
+      "sequenceNo":2,\
+      "responseDatas":\
+      [\
+        \{\
+          "text":"A. None or one\'94,\
+          "value":0,\
+          "sequenceNo":1\
+        \},\
+        \{\
+          "text":"B. Two\'94,\
+          "value\'94:3,\
+          "sequenceNo":2\
+        \},\
+        \{\
+          "text\'94:\'94C. Three or more\'94,\
+          "value\'94:5,\
+          "sequenceNo\'94:3\
+        \}\
+      ]\
+    \},\
+    \{\
+      "componentKey":null,\
+      "key\'94:\'94female-read-write\'94,\
+      "text\'94:\'94\cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Can the female head/spouse read or write a simple message in any language?\cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 \'94,\
+      "description":null,\
+      "sequenceNo":3,\
+      "responseDatas":\
+      [\
+        \{\
+          "text":"A. \cf3 \expnd0\expndtw0\kerning0
+No
+\f1  
+\f0 \cf0 \kerning1\expnd0\expndtw0 \'94,\
+          "value":0,\
+          "sequenceNo":1\
+        \},\
+        \{\
+          "text":"B. \cf3 \expnd0\expndtw0\kerning0
+No female head/spouse \cf0 \kerning1\expnd0\expndtw0 ",\
+          "value\'94:1,\
+          "sequenceNo":2\
+        \},\
+        \{\
+          "text\'94:\'94C. \cf3 \expnd0\expndtw0\kerning0
+Yes \cf0 \kerning1\expnd0\expndtw0 ",\
+          "value\'94:2,\
+          "sequenceNo\'94:3\
+        \}\
+\
+      ]\
+    \},\
+    \{\
+      "componentKey":null,\
+      "key\'94:\'94rooms\'94,\
+      "text":"\cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 How many rooms in the dwelling unit are used by the household (other than kitchen, toilet, bathrooms, and store-rooms)? \cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 ",\
+      "description":null,\
+      "sequenceNo":4,\
+      "responseDatas":\
+      [\
+        \{\
+          "text":"A. One\'94,\
+          "value":0,\
+          "sequenceNo":1\
+        \},\
+        \{\
+          "text":"B. Two\'94,\
+          "value\'94:5,\
+          "sequenceNo":2\
+        \},\
+        \{\
+          "text":"C. Three or more\'94,\
+          "value\'94:12,\
+          "sequenceNo":3\
+        \}\
+      ]\
+    \},\
+    \{\
+      "componentKey":null,\
+      "key\'94:\'94construction-material\'94,\
+      "text":"\cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 What is the primary construction material of the wall of the dwelling unit occupied by the household?\cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 ",\
+      "description":null,\
+      "sequenceNo":5,\
+      "responseDatas":\
+      [\
+        \{\
+          "text":"A. \cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Bamboo, thatch/leaves, grass, makeshift or mixed materials, clay/dung with straw, or other \cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 \'94,\
+          "value":0,\
+          "sequenceNo":1\
+        \},\
+        \{\
+          "text":"B.\cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2  Wood, logs, plywood, galvanized iron or aluminium or other metal sheets, or fibrous cement/asbestos \cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 ",\
+          "value\'94:3,\
+          "sequenceNo":2\
+        \},\
+        \{\
+          "text":"C. 
+\f1\fs29\fsmilli14667 \cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Concrete, brick, or stone
+\f0\fs24 \cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 \'94,\
+          "value\'94:4,\
+          "sequenceNo":3\
+        \}\
+      ]\
+    \},\
+    \{\
+      "componentKey":null,\
+      "key\'94:\'94construction-material-roof\'94,\
+      "text":"
+\f1\fs29\fsmilli14667 \cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 What is the primary construction material of the roof of the dwelling unit occupied by the household? 
+\f0\fs24 \cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 ",\
+      "description":null,\
+      "sequenceNo":6,\
+      "responseDatas":\
+      [\
+        \{\
+          "text":"A. 
+\f1\fs29\fsmilli14667 \cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Thatch/leaves, grass, plastic sheets, salvaged materials,mixed but predominantly thatch/leaves/grass/salvaged materials, or other 
+\f0\fs24 \cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 \'94,\
+          "value":0,\
+          "sequenceNo":1\
+        \},\
+        \{\
+          "text":"B. \cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Galvanized iron or aluminium, or mixed but predominantly galvanized iron/aluminium/tiles/fibrous cement \cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 \'94,\
+          "value\'94:1,\
+          "sequenceNo":2\
+        \},\
+        \{\
+          "text\'94:\'94C. 
+\f1\fs29\fsmilli14667 \cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Tiles, fibrous cement, or concrete
+\f0\fs24 \cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 \'94,\
+          "value\'94:4,\
+          "sequenceNo\'94:3\
+        \}\
+      ]\
+    \},\
+    \{\
+      "componentKey":null,\
+      "key\'94:\'94wardrobes\'94,\
+      "text":"
+\f1\fs29\fsmilli14667 \cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 How many wardrobes or cabinets does the household own? 
+\f0\fs24 \cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 ",\
+      "description":null,\
+      "sequenceNo":7,\
+      "responseDatas":\
+      [\
+        \{\
+          "text":"A. None\'94,\
+          "value":0,\
+          "sequenceNo":1\
+        \},\
+        \{\
+          "text":"B. One\'94,\
+          "value\'94:6,\
+          "sequenceNo":2\
+        \},\
+        \{\
+          "text\'94:\'94C. Two or more\'94,\
+          "value\'94:6,\
+          "sequenceNo\'94:3\
+        \}\
+\
+      ]\
+    \},\
+    \{\
+      "componentKey":null,\
+      "key\'94:\'94television\'94,\
+      "text":"
+\f1\fs29\fsmilli14667 \cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Does the family own a television or a video/VCD/DVD player/recorder? 
+\f0\fs24 \cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 ",\
+      "description":null,\
+      "sequenceNo":8,\
+      "responseDatas":\
+      [\
+        \{\
+          "text":"A. No",\
+          "value":0,\
+          "sequenceNo":1\
+        \},\
+        \{\
+          "text":"B. Only television\'94,\
+          "value\'94:3,\
+          "sequenceNo":2\
+        \},\
+        \{\
+          "text":"C. Video/VCD/DVD(regardless of TV)\'94,\
+          "value\'94:6,\
+          "sequenceNo":3\
+        \}\
+      ]\
+    \},\
+    \{\
+      "componentKey":null,\
+      "key\'94:\'94telephone-cellphones\'94,\
+      "text":"\cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 How many landline telephones and cell phones does the household own?\cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 ",\
+      "description":null,\
+      "sequenceNo":9,\
+      "responseDatas":\
+      [\
+        \{\
+          "text":"A. No",\
+          "value":0,\
+          "sequenceNo":1\
+        \},\
+        \{\
+          "text":"B. One\'94,\
+          "value\'94:4,\
+          "sequenceNo":2\
+        \},\
+        \{\
+          "text":"C. Two or more\'94,\
+          "value\'94:9,\
+          "sequenceNo":3\
+        \}\
+      ]\
+    \},\
+    \{\
+      "componentKey":null,\
+      "key\'94:\'94motor\'94,\
+      "text":"\cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 How many motorcycles or motor boats does the household own?\cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 ",\
+      "description":null,\
+      "sequenceNo":10,\
+      "responseDatas":\
+      [\
+        \{\
+          "text":"A. None",\
+          "value":0,\
+          "sequenceNo":1\
+        \},\
+        \{\
+          "text":"B. One",\
+          "value\'94:6,\
+          "sequenceNo":2\
+        \},\
+        \{\
+          "text":"C. Two or more\'94,\
+          "value\'94:10,\
+          "sequenceNo":3\
+        \}\
+      ]\
+    \}\
+  ]\
+\}\
+}
