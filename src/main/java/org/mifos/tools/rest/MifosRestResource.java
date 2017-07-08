@@ -16,18 +16,18 @@ public interface MifosRestResource {
 
     @POST("/surveys")
     Response createSurvey(@Header("Authorization") final String authorization,
-                          @Header("X-Mifos-Platform-TenantId") final String tenantIdentifier,
+                          @Header("Fineract-Platform-TenantId") final String tenantIdentifier,
                           @Header("Content-Type") final String contentType,
                           @Body final Survey content);
 
     @GET("/surveys")
     List<Survey> getSurveys(@Header("Authorization") final String authorization,
-                            @Header("X-Mifos-Platform-TenantId") final String tenantIdentifier,
+                            @Header("Fineract-Platform-TenantId") final String tenantIdentifier,
                             @Header("Accept") final String contentType);
 
     @POST("/surveys/{id}/lookuptables")
     Response createLookupTable(@Header("Authorization") final String authorization,
-                             @Header("X-Mifos-Platform-TenantId") final String tenantIdentifier,
+                             @Header("Fineract-Platform-TenantId") final String tenantIdentifier,
                              @Header("Content-Type") final String contentType,
                              @Path("id") final Long surveyId,
                              @Body final LookupTable content);
