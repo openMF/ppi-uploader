@@ -1,0 +1,782 @@
+[
+ {
+   "�": "                     Progress out of Poverty Index  for El Salvador",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "�": "              Entity                 Name                            ID                      Date (DD/MM/YY)",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "�": "          Member:                                                                      Joined:",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "�": "          Loan officer:                                                                Today:",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "�": "          Branch:                                                                      Household size:",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "�": "                           Indicator                                     Value                        Points    Score",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "�": "          1. How many household members are 17-       A. Four or more                                   0",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "�": "                  years-old or younger?               B. Three                                          5",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "�": "                                                      C. Two                                           10",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "�": "                                                      D. One                                           19",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "�": "                                                      E. None                                          27",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "�": "          2. Not counting bathrooms",
+   "FIELD2": " kitchen",
+   "FIELD3": "         A. One                                            0",
+   "FIELD4": ""
+ },
+ {
+   "�": "                  hallways",
+   "FIELD2": " or garage",
+   "FIELD3": " how many       B. Two                                            3",
+   "FIELD4": ""
+ },
+ {
+   "�": "                  rooms does the household have for  C. Three                                           4",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "�": "                  its own use?                        D. Four                                          12",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "�": "                                                      E. Five or more                                  15",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "�": "          3. How many household members are           A. None                                           0",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "�": "                  salaried employees (be they         B. One                                            7",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "�": "                  temporary or permanent)?            C. Two or more                                   18",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "�": "          4. Last week",
+   "FIELD2": " did the female head/spouse    A. No                                             0",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "�": "                  do any work (not counting           B. Yes                                            8",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "�": "                  household chores)?                  C. There is no female head/spouse                10",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "�": "          5. What is the main fuel used for cooking?  A. Firewood",
+   "FIELD2": " charcoal",
+   "FIELD3": " kerosene",
+   "FIELD4": " or other         0"
+ },
+ {
+   "�": "                                                      B. Propane",
+   "FIELD2": " electricity",
+   "FIELD3": " or does not cook         7",
+   "FIELD4": ""
+ },
+ {
+   "�": "          6. Does the household have a refrigerator?  A. No                                             0",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "�": "                                                      B. Yes                                            4",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "�": "          7. Does the household have a blender?       A. No                                             0",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "�": "                                                      B. Yes                                            3",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "�": "          8. Does the household have a television     A. None                                           0",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "�": "                  and/or a VCR or DVD?                B. Only a television",
+   "FIELD2": " or a VCR or DVD             1",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "�": "                                                      C. Both a television and a VCR or DVD             6",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "�": "          9. Does the household have a radio and/or   A. None                                           0",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "�": "                  a stereo system?                    B. Only a radio",
+   "FIELD2": " or only a stereo system          1",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "�": "                                                      C. Both a radio and a stereo system               4",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "�": "          10. Does the household have a fan?          A. No                                             0",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "�": "                                                      B. Yes                                            6",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "�": "        By Mark Schreiner of Microfinance Risk Management",
+   "FIELD2": " L.L.C.                       Total score",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "�": "                         This PPI was updated in May 2010. For up-to-date PPIs and other information on the",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "�": "                                          �",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "�": "                Progress out of Poverty Index  for El Salvador and other countries go to www.progressoutofpoverty.org",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "�": "                        Category Likelihoods according to El Salvador PPI� Score",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "�": "                             National Poverty Line                           Food Poverty Line                       150% of the National Poverty Line",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "�": "                                                                                                                                         Total Above the",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "�": "                     Total Below the       Total Above the                                                      Total Below the 150%",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "�": "       PPI Score    National Poverty      National Poverty         Total Below the       Total Above the           of the National        150% of the",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "�": "                          Line                  Line              Food Poverty Line     Food Poverty Line           Poverty Line        National Poverty",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "�": "                                                                                                                                              Line",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "�": "          0-4            100.0%                 0.0%                    70.3%                 29.7%                    100.0%                 0.0%",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "�": "          5-9            88.1%                 11.9%                    67.9%                 32.1%                    100.0%                 0.0%",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "�": "         10-14           93.3%                  6.7%                    54.0%                 46.0%                    98.1%                  1.9%",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "�": "         15-19           85.3%                 14.7%                    47.9%                 52.1%                    97.5%                  2.5%",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "�": "         20-24           80.1%                 19.9%                    40.2%                 59.8%                    95.8%                  4.2%",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "�": "         25-29           75.0%                 25.0%                    24.6%                 75.4%                    91.3%                  8.7%",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "�": "         30-34           69.2%                 30.8%                    20.3%                 79.7%                    87.5%                 12.5%",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "�": "         35-39           56.0%                 44.0%                    12.1%                 87.9%                    80.3%                 19.7%",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "�": "         40-44           43.5%                 56.5%                     8.4%                 91.6%                    67.3%                 32.7%",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "�": "         45-49           40.4%                 59.6%                     5.8%                 94.2%                    69.3%                 30.7%",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "�": "         50-54           27.5%                 72.5%                     2.9%                 97.1%                    55.1%                 44.9%",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "�": "         55-59           19.3%                 80.7%                     2.2%                 97.8%                    49.5%                 50.5%",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "�": "         60-64           11.8%                 88.2%                     0.3%                 99.7%                    32.5%                 67.5%",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "�": "         65-69           13.0%                 87.0%                     0.5%                 99.5%                    26.3%                 73.7%",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "�": "         70-74            6.4%                 93.6%                     0.5%                 99.5%                    23.8%                 76.2%",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "�": "         75-79            3.9%                 96.1%                     0.0%                100.0%                    11.5%                 88.5%",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "�": "         80-84            1.0%                 99.0%                     0.0%                100.0%                     8.4%                 91.6%",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "�": "         85-89            0.5%                 99.5%                     0.0%                100.0%                    11.0%                 89.0%",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "�": "         90-94            0.0%                 100.0%                    0.0%                100.0%                     0.0%                 100.0%",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "�": "         95-100           0.0%                 100.0%                    0.0%                100.0%                     0.0%                 100.0%",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "�": "       Source: Microfinance Risk Management",
+   "FIELD2": " L.L.C. based on the 2008 EHPM",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "�": "                                           This PPI was updated in May 2010. For up-to-date PPIs and other information on the",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "�": "                                                            �",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "�": "                                  Progress out of Poverty Index  for El Salvador and other countries go to www.progressoutofpoverty.org",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "�": "                        Category Likelihoods according to El Salvador PPI� Score",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "�": "                                             200% of the National Poverty Line                    USAID \"Extreme\" Poverty Line",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "�": "                                      Total Below the 200%     Total Above the 200%      Total Below the USAID    Total Above the USAID",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "�": "                          PPI Score       of the National     of the National Poverty      \"Extreme\" Poverty        \"Extreme\" Poverty",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "�": "                                           Poverty Line                Line                       Line                    Line",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "�": "                             0-4             100.0%                    0.0%                      86.8%                    13.2%",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "�": "                             5-9             100.0%                    0.0%                      78.8%                    21.2%",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "�": "                            10-14             99.0%                    1.0%                      67.9%                    32.1%",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "�": "                            15-19             99.3%                    0.7%                      56.5%                    43.5%",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "�": "                            20-24             97.6%                    2.4%                      53.8%                    46.2%",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "�": "                            25-29             95.4%                    4.6%                      41.3%                    58.7%",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "�": "                            30-34             94.4%                    5.6%                      32.1%                    67.9%",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "�": "                            35-39             92.3%                    7.7%                      23.1%                    76.9%",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "�": "                            40-44             86.7%                   13.3%                      16.5%                    83.5%",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "�": "                            45-49             81.9%                   18.1%                      13.2%                    86.8%",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "�": "                            50-54             70.0%                   30.0%                       9.2%                    90.8%",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "�": "                            55-59             63.6%                   36.4%                       5.7%                    94.3%",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "�": "                            60-64             52.8%                   47.2%                       0.7%                    99.3%",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "�": "                            65-69             44.6%                   55.4%                       0.9%                    99.1%",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "�": "                            70-74             44.1%                   55.9%                       0.5%                    99.5%",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "�": "                            75-79             32.1%                   67.9%                       0.5%                    99.5%",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "�": "                            80-84             24.8%                   75.2%                       0.0%                   100.0%",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "�": "                            85-89             25.2%                   74.8%                       0.0%                   100.0%",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "�": "                            90-94             6.2%                    93.8%                       0.0%                   100.0%",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "�": "                           95-100             0.0%                    100.0%                      0.0%                   100.0%",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "�": "                         Source: Microfinance Risk Management",
+   "FIELD2": " L.L.C. based on the 2008 EHPM",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "�": "                                           This PPI was updated in May 2010. For up-to-date PPIs and other information on the",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "�": "                                                            �",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "�": "                                  Progress out of Poverty Index  for El Salvador and other countries go to www.progressoutofpoverty.org",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "�": "                        Category Likelihoods according to El Salvador PPI� Score",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "�": "                           $1.25/Day/2005 PPP Poverty Line            $2.50/Day/2005 PPP Poverty Line           $3.75/Day/2005 PPP Poverty Line",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "�": "                          Total Below the    Total Above the        Total Below the     Total Above the        Total Below the     Total Above the",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "�": "                PPI",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "�": "               Score      $1.25/Day/2005      $1.25/Day/2005        $2.50/Day/2005      $2.50/Day/2005         $3.75/Day/2005      $3.75/Day/2005",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "�": "                             PPP Line           PPP Line               PPP Line            PPP Line               PPP Line            PPP Line",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "�": "                0-4           100.0%              0.0%                  100.0%               0.0%                  100.0%               0.0%",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "�": "                5-9           96.4%               3.6%                  100.0%               0.0%                  100.0%               0.0%",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "�": "               10-14          94.6%               5.4%                   99.6%               0.4%                  100.0%               0.0%",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "�": "               15-19          90.8%               9.2%                  100.0%               0.0%                  100.0%               0.0%",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "�": "               20-24          87.5%               12.5%                  99.1%               0.9%                  100.0%               0.0%",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "�": "               25-29          81.1%               18.9%                  97.2%               2.8%                  99.9%                0.1%",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "�": "               30-34          75.4%               24.6%                  96.5%               3.5%                  99.3%                0.7%",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "�": "               35-39          62.9%               37.1%                  94.4%               5.6%                  98.9%                1.1%",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "�": "               40-44          51.6%               48.4%                  88.6%              11.4%                  94.4%                5.6%",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "�": "               45-49          47.6%               52.4%                  85.0%              15.0%                  93.3%                6.7%",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "�": "               50-54          37.6%               62.4%                  77.4%              22.6%                  90.0%               10.0%",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "�": "               55-59          28.2%               71.8%                  73.3%              26.7%                  89.5%               10.5%",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "�": "               60-64          18.3%               81.7%                  62.3%              37.7%                  82.5%               17.5%",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "�": "               65-69          16.1%               83.9%                  55.0%              45.0%                  73.4%               26.6%",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "�": "               70-74          12.9%               87.1%                  49.2%              50.8%                  75.8%               24.2%",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "�": "               75-79           4.3%               95.7%                  39.2%              60.8%                  64.0%               36.0%",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "�": "               80-84           1.0%               99.0%                  29.8%              70.2%                  54.4%               45.6%",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "�": "               85-89           0.5%               99.5%                  28.3%              71.7%                  42.9%               57.1%",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "�": "               90-94           0.0%              100.0%                  6.2%               93.8%                  20.3%               79.7%",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "�": "               95-100          0.0%              100.0%                  0.0%               100.0%                 24.4%               75.6%",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "�": "              Source: Microfinance Risk Management",
+   "FIELD2": " L.L.C. based on the 2008 EHPM",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "�": "                                           This PPI was updated in May 2010. For up-to-date PPIs and other information on the",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "�": "                                                            �",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "�": "                                  Progress out of Poverty Index  for El Salvador and other countries go to www.progressoutofpoverty.org",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": ""
+ }
+]

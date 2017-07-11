@@ -1,0 +1,574 @@
+[
+ {
+   "PPI from": "Identifier",
+   "PPI to": null,
+   "National_Senegal_2005": "National_Senegal_2005",
+   "National Alimentaire_Senegal_2005": "National Food_Senegal_2005",
+   "USAID Extreme_Senegal_2005": "USAID Extreme_Senegal_2005",
+   "75% de National_Senegal_2005": "75% of National_Senegal_2005",
+   "125% de National_Senegal_2005": "125% of National_Senegal_2005",
+   "150% de National_Senegal_2005": "150% of National_Senegal_2005",
+   "200% de National_Senegal_2005": "200% of National_Senegal_2005",
+   "$1.25": {
+      "jour": {
+         "2005 PPP_Senegal_2005": "$1.25/day/2005 PPP_Senegal_2005"
+      }
+   },
+   "$2.50": {
+      "jour": {
+         "2005 PPP_Senegal_2005": "$2.50/day/2005 PPP_Senegal_2005"
+      }
+   },
+   "$3.75": {
+      "jour": {
+         "2005 PPP_Senegal_2005": "$3.75/day/2005 PPP_Senegal_2005"
+      }
+   }
+},
+ {
+   "PPI from": "Poverty Rate",
+   "PPI to": null,
+   "National_Senegal_2005": "42.8",
+   "National Alimentaire_Senegal_2005": "12.8",
+   "USAID Extreme_Senegal_2005": "20",
+   "75% de National_Senegal_2005": "24.1",
+   "125% de National_Senegal_2005": "58.9",
+   "150% de National_Senegal_2005": "69.9",
+   "200% de National_Senegal_2005": "84",
+   "$1.25": {
+      "jour": {
+         "2005 PPP_Senegal_2005": "22.1"
+      }
+   },
+   "$2.50": {
+      "jour": {
+         "2005 PPP_Senegal_2005": "65.9"
+      }
+   },
+   "$3.75": {
+      "jour": {
+         "2005 PPP_Senegal_2005": "84.9"
+      }
+   }
+},
+ {
+   "PPI from": "0",
+   "PPI to": 4,
+   "National_Senegal_2005": "58.2",
+   "National Alimentaire_Senegal_2005": "24.2",
+   "USAID Extreme_Senegal_2005": "28.5",
+   "75% de National_Senegal_2005": "38.8",
+   "125% de National_Senegal_2005": "77.1",
+   "150% de National_Senegal_2005": "89",
+   "200% de National_Senegal_2005": "95.7",
+   "$1.25": {
+      "jour": {
+         "2005 PPP_Senegal_2005": "36.4"
+      }
+   },
+   "$2.50": {
+      "jour": {
+         "2005 PPP_Senegal_2005": "83.9"
+      }
+   },
+   "$3.75": {
+      "jour": {
+         "2005 PPP_Senegal_2005": "97.8"
+      }
+   }
+},
+ {
+   "PPI from": "5",
+   "PPI to": 9,
+   "National_Senegal_2005": "65",
+   "National Alimentaire_Senegal_2005": "24.9",
+   "USAID Extreme_Senegal_2005": "28.5",
+   "75% de National_Senegal_2005": "35",
+   "125% de National_Senegal_2005": "79.1",
+   "150% de National_Senegal_2005": "82.8",
+   "200% de National_Senegal_2005": "96.4",
+   "$1.25": {
+      "jour": {
+         "2005 PPP_Senegal_2005": "39.8"
+      }
+   },
+   "$2.50": {
+      "jour": {
+         "2005 PPP_Senegal_2005": "85.6"
+      }
+   },
+   "$3.75": {
+      "jour": {
+         "2005 PPP_Senegal_2005": "95.4"
+      }
+   }
+},
+ {
+   "PPI from": "10",
+   "PPI to": 14,
+   "National_Senegal_2005": "68.3",
+   "National Alimentaire_Senegal_2005": "30.8",
+   "USAID Extreme_Senegal_2005": "37.7",
+   "75% de National_Senegal_2005": "45.3",
+   "125% de National_Senegal_2005": "81.2",
+   "150% de National_Senegal_2005": "88.6",
+   "200% de National_Senegal_2005": "96",
+   "$1.25": {
+      "jour": {
+         "2005 PPP_Senegal_2005": "43.9"
+      }
+   },
+   "$2.50": {
+      "jour": {
+         "2005 PPP_Senegal_2005": "88.3"
+      }
+   },
+   "$3.75": {
+      "jour": {
+         "2005 PPP_Senegal_2005": "96.6"
+      }
+   }
+},
+ {
+   "PPI from": "15",
+   "PPI to": 19,
+   "National_Senegal_2005": "58.6",
+   "National Alimentaire_Senegal_2005": "23.6",
+   "USAID Extreme_Senegal_2005": "28.9",
+   "75% de National_Senegal_2005": "35",
+   "125% de National_Senegal_2005": "75.3",
+   "150% de National_Senegal_2005": "83.2",
+   "200% de National_Senegal_2005": "92.3",
+   "$1.25": {
+      "jour": {
+         "2005 PPP_Senegal_2005": "33.5"
+      }
+   },
+   "$2.50": {
+      "jour": {
+         "2005 PPP_Senegal_2005": "82.7"
+      }
+   },
+   "$3.75": {
+      "jour": {
+         "2005 PPP_Senegal_2005": "93.5"
+      }
+   }
+},
+ {
+   "PPI from": "20",
+   "PPI to": 24,
+   "National_Senegal_2005": "56",
+   "National Alimentaire_Senegal_2005": "16.4",
+   "USAID Extreme_Senegal_2005": "26.2",
+   "75% de National_Senegal_2005": "29.9",
+   "125% de National_Senegal_2005": "74.3",
+   "150% de National_Senegal_2005": "82.8",
+   "200% de National_Senegal_2005": "91.2",
+   "$1.25": {
+      "jour": {
+         "2005 PPP_Senegal_2005": "30.4"
+      }
+   },
+   "$2.50": {
+      "jour": {
+         "2005 PPP_Senegal_2005": "80"
+      }
+   },
+   "$3.75": {
+      "jour": {
+         "2005 PPP_Senegal_2005": "91.7"
+      }
+   }
+},
+ {
+   "PPI from": "25",
+   "PPI to": 29,
+   "National_Senegal_2005": "46.9",
+   "National Alimentaire_Senegal_2005": "15.5",
+   "USAID Extreme_Senegal_2005": "25.2",
+   "75% de National_Senegal_2005": "29.7",
+   "125% de National_Senegal_2005": "57",
+   "150% de National_Senegal_2005": "69.8",
+   "200% de National_Senegal_2005": "81.1",
+   "$1.25": {
+      "jour": {
+         "2005 PPP_Senegal_2005": "27.6"
+      }
+   },
+   "$2.50": {
+      "jour": {
+         "2005 PPP_Senegal_2005": "63.4"
+      }
+   },
+   "$3.75": {
+      "jour": {
+         "2005 PPP_Senegal_2005": "82.5"
+      }
+   }
+},
+ {
+   "PPI from": "30",
+   "PPI to": 34,
+   "National_Senegal_2005": "51.3",
+   "National Alimentaire_Senegal_2005": "7.8",
+   "USAID Extreme_Senegal_2005": "21.4",
+   "75% de National_Senegal_2005": "28.2",
+   "125% de National_Senegal_2005": "72.1",
+   "150% de National_Senegal_2005": "78.5",
+   "200% de National_Senegal_2005": "95.5",
+   "$1.25": {
+      "jour": {
+         "2005 PPP_Senegal_2005": "19.3"
+      }
+   },
+   "$2.50": {
+      "jour": {
+         "2005 PPP_Senegal_2005": "77.2"
+      }
+   },
+   "$3.75": {
+      "jour": {
+         "2005 PPP_Senegal_2005": "97.2"
+      }
+   }
+},
+ {
+   "PPI from": "35",
+   "PPI to": 39,
+   "National_Senegal_2005": "42.3",
+   "National Alimentaire_Senegal_2005": "7.7",
+   "USAID Extreme_Senegal_2005": "16.9",
+   "75% de National_Senegal_2005": "18.5",
+   "125% de National_Senegal_2005": "65.3",
+   "150% de National_Senegal_2005": "72.8",
+   "200% de National_Senegal_2005": "89.8",
+   "$1.25": {
+      "jour": {
+         "2005 PPP_Senegal_2005": "16.1"
+      }
+   },
+   "$2.50": {
+      "jour": {
+         "2005 PPP_Senegal_2005": "72.1"
+      }
+   },
+   "$3.75": {
+      "jour": {
+         "2005 PPP_Senegal_2005": "89.2"
+      }
+   }
+},
+ {
+   "PPI from": "40",
+   "PPI to": 44,
+   "National_Senegal_2005": "34.8",
+   "National Alimentaire_Senegal_2005": "1.5",
+   "USAID Extreme_Senegal_2005": "18.5",
+   "75% de National_Senegal_2005": "15.1",
+   "125% de National_Senegal_2005": "58.4",
+   "150% de National_Senegal_2005": "72.6",
+   "200% de National_Senegal_2005": "85.1",
+   "$1.25": {
+      "jour": {
+         "2005 PPP_Senegal_2005": "14.5"
+      }
+   },
+   "$2.50": {
+      "jour": {
+         "2005 PPP_Senegal_2005": "61.9"
+      }
+   },
+   "$3.75": {
+      "jour": {
+         "2005 PPP_Senegal_2005": "88.1"
+      }
+   }
+},
+ {
+   "PPI from": "45",
+   "PPI to": 49,
+   "National_Senegal_2005": "27.9",
+   "National Alimentaire_Senegal_2005": "1.5",
+   "USAID Extreme_Senegal_2005": "12",
+   "75% de National_Senegal_2005": "12.4",
+   "125% de National_Senegal_2005": "56",
+   "150% de National_Senegal_2005": "79.5",
+   "200% de National_Senegal_2005": "90.9",
+   "$1.25": {
+      "jour": {
+         "2005 PPP_Senegal_2005": "6.5"
+      }
+   },
+   "$2.50": {
+      "jour": {
+         "2005 PPP_Senegal_2005": "67.7"
+      }
+   },
+   "$3.75": {
+      "jour": {
+         "2005 PPP_Senegal_2005": "91.7"
+      }
+   }
+},
+ {
+   "PPI from": "50",
+   "PPI to": 54,
+   "National_Senegal_2005": "37.4",
+   "National Alimentaire_Senegal_2005": "1.1",
+   "USAID Extreme_Senegal_2005": "12.9",
+   "75% de National_Senegal_2005": "15.7",
+   "125% de National_Senegal_2005": "46.2",
+   "150% de National_Senegal_2005": "61.2",
+   "200% de National_Senegal_2005": "80.3",
+   "$1.25": {
+      "jour": {
+         "2005 PPP_Senegal_2005": "12.3"
+      }
+   },
+   "$2.50": {
+      "jour": {
+         "2005 PPP_Senegal_2005": "57.7"
+      }
+   },
+   "$3.75": {
+      "jour": {
+         "2005 PPP_Senegal_2005": "82"
+      }
+   }
+},
+ {
+   "PPI from": "55",
+   "PPI to": 59,
+   "National_Senegal_2005": "22.2",
+   "National Alimentaire_Senegal_2005": "0.2",
+   "USAID Extreme_Senegal_2005": "9.2",
+   "75% de National_Senegal_2005": "8.2",
+   "125% de National_Senegal_2005": "46.3",
+   "150% de National_Senegal_2005": "62.4",
+   "200% de National_Senegal_2005": "89.9",
+   "$1.25": {
+      "jour": {
+         "2005 PPP_Senegal_2005": "5.5"
+      }
+   },
+   "$2.50": {
+      "jour": {
+         "2005 PPP_Senegal_2005": "56.4"
+      }
+   },
+   "$3.75": {
+      "jour": {
+         "2005 PPP_Senegal_2005": "88.5"
+      }
+   }
+},
+ {
+   "PPI from": "60",
+   "PPI to": 64,
+   "National_Senegal_2005": "21.9",
+   "National Alimentaire_Senegal_2005": "0.1",
+   "USAID Extreme_Senegal_2005": "10.8",
+   "75% de National_Senegal_2005": "8.8",
+   "125% de National_Senegal_2005": "46.9",
+   "150% de National_Senegal_2005": "62.4",
+   "200% de National_Senegal_2005": "79.5",
+   "$1.25": {
+      "jour": {
+         "2005 PPP_Senegal_2005": "4.9"
+      }
+   },
+   "$2.50": {
+      "jour": {
+         "2005 PPP_Senegal_2005": "55.3"
+      }
+   },
+   "$3.75": {
+      "jour": {
+         "2005 PPP_Senegal_2005": "80.8"
+      }
+   }
+},
+ {
+   "PPI from": "65",
+   "PPI to": 69,
+   "National_Senegal_2005": "19.9",
+   "National Alimentaire_Senegal_2005": "0.7",
+   "USAID Extreme_Senegal_2005": "7.6",
+   "75% de National_Senegal_2005": "8.4",
+   "125% de National_Senegal_2005": "40",
+   "150% de National_Senegal_2005": "54.3",
+   "200% de National_Senegal_2005": "74.8",
+   "$1.25": {
+      "jour": {
+         "2005 PPP_Senegal_2005": "3.5"
+      }
+   },
+   "$2.50": {
+      "jour": {
+         "2005 PPP_Senegal_2005": "48.8"
+      }
+   },
+   "$3.75": {
+      "jour": {
+         "2005 PPP_Senegal_2005": "78.5"
+      }
+   }
+},
+ {
+   "PPI from": "70",
+   "PPI to": 74,
+   "National_Senegal_2005": "20.3",
+   "National Alimentaire_Senegal_2005": "0.6",
+   "USAID Extreme_Senegal_2005": "13.5",
+   "75% de National_Senegal_2005": "16.3",
+   "125% de National_Senegal_2005": "33",
+   "150% de National_Senegal_2005": "40.9",
+   "200% de National_Senegal_2005": "74",
+   "$1.25": {
+      "jour": {
+         "2005 PPP_Senegal_2005": "5.3"
+      }
+   },
+   "$2.50": {
+      "jour": {
+         "2005 PPP_Senegal_2005": "34.5"
+      }
+   },
+   "$3.75": {
+      "jour": {
+         "2005 PPP_Senegal_2005": "72.3"
+      }
+   }
+},
+ {
+   "PPI from": "75",
+   "PPI to": 79,
+   "National_Senegal_2005": "17.7",
+   "National Alimentaire_Senegal_2005": "0",
+   "USAID Extreme_Senegal_2005": "5.5",
+   "75% de National_Senegal_2005": "3.8",
+   "125% de National_Senegal_2005": "32.2",
+   "150% de National_Senegal_2005": "44.6",
+   "200% de National_Senegal_2005": "67.1",
+   "$1.25": {
+      "jour": {
+         "2005 PPP_Senegal_2005": "2"
+      }
+   },
+   "$2.50": {
+      "jour": {
+         "2005 PPP_Senegal_2005": "34.6"
+      }
+   },
+   "$3.75": {
+      "jour": {
+         "2005 PPP_Senegal_2005": "70.4"
+      }
+   }
+},
+ {
+   "PPI from": "80",
+   "PPI to": 84,
+   "National_Senegal_2005": "8.6",
+   "National Alimentaire_Senegal_2005": "3.4",
+   "USAID Extreme_Senegal_2005": "5.6",
+   "75% de National_Senegal_2005": "4.1",
+   "125% de National_Senegal_2005": "13.5",
+   "150% de National_Senegal_2005": "25.3",
+   "200% de National_Senegal_2005": "54.2",
+   "$1.25": {
+      "jour": {
+         "2005 PPP_Senegal_2005": "3.4"
+      }
+   },
+   "$2.50": {
+      "jour": {
+         "2005 PPP_Senegal_2005": "17.6"
+      }
+   },
+   "$3.75": {
+      "jour": {
+         "2005 PPP_Senegal_2005": "68"
+      }
+   }
+},
+ {
+   "PPI from": "85",
+   "PPI to": 89,
+   "National_Senegal_2005": "4.3",
+   "National Alimentaire_Senegal_2005": "0",
+   "USAID Extreme_Senegal_2005": "0",
+   "75% de National_Senegal_2005": "0",
+   "125% de National_Senegal_2005": "16.6",
+   "150% de National_Senegal_2005": "43",
+   "200% de National_Senegal_2005": "54.7",
+   "$1.25": {
+      "jour": {
+         "2005 PPP_Senegal_2005": "0"
+      }
+   },
+   "$2.50": {
+      "jour": {
+         "2005 PPP_Senegal_2005": "42.4"
+      }
+   },
+   "$3.75": {
+      "jour": {
+         "2005 PPP_Senegal_2005": "63.8"
+      }
+   }
+},
+ {
+   "PPI from": "90",
+   "PPI to": 94,
+   "National_Senegal_2005": "12.2",
+   "National Alimentaire_Senegal_2005": "0.2",
+   "USAID Extreme_Senegal_2005": "0.4",
+   "75% de National_Senegal_2005": "0.4",
+   "125% de National_Senegal_2005": "17.5",
+   "150% de National_Senegal_2005": "24.2",
+   "200% de National_Senegal_2005": "35.1",
+   "$1.25": {
+      "jour": {
+         "2005 PPP_Senegal_2005": "0.4"
+      }
+   },
+   "$2.50": {
+      "jour": {
+         "2005 PPP_Senegal_2005": "18.3"
+      }
+   },
+   "$3.75": {
+      "jour": {
+         "2005 PPP_Senegal_2005": "35.9"
+      }
+   }
+},
+ {
+   "PPI from": "95",
+   "PPI to": 100,
+   "National_Senegal_2005": "1.9",
+   "National Alimentaire_Senegal_2005": "0",
+   "USAID Extreme_Senegal_2005": "1.9",
+   "75% de National_Senegal_2005": "1.9",
+   "125% de National_Senegal_2005": "11.4",
+   "150% de National_Senegal_2005": "21.4",
+   "200% de National_Senegal_2005": "48.7",
+   "$1.25": {
+      "jour": {
+         "2005 PPP_Senegal_2005": "1.9"
+      }
+   },
+   "$2.50": {
+      "jour": {
+         "2005 PPP_Senegal_2005": "11.4"
+      }
+   },
+   "$3.75": {
+      "jour": {
+         "2005 PPP_Senegal_2005": "40.1"
+      }
+   }
+}
+]
