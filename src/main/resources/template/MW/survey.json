@@ -1,0 +1,256 @@
+{
+  "key":"ppi-malawi-2010",
+  "name":"PPI Survey for Malawi, version 2010",
+  "description":null,
+  "countryCode":"MW",
+  "validFrom":null,
+  "validTo":null,
+  "componentDatas":null,
+  "questionDatas":
+  [
+    {
+      "componentKey":null,
+      "key":"household-members",
+      "text":"How many members does the household have?"
+      "sequenceNo":1,
+      "responseDatas":
+      [
+        {
+          "text":"A. Seven or more",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Six",
+          "value":4,
+          "sequenceNo":2
+        },
+        {
+          "text":"C. Five",
+          "value":10,
+          "sequenceNo":3
+        },
+        {
+          "text":"D. Four",
+          "value":15,
+          "sequenceNo":4
+        },
+        {
+          "text":"E. One, two or three",
+          "value":31,
+          "sequenceNo":5
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"female-literacy",
+      "text":"Is the (oldest) female head/spouse able to read and write in Chichewa or English?",
+      "description":null,
+      "sequenceNo":2,
+      "responseDatas":
+      [
+        {
+          "text":"A. No",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Yes, only Chichewa",
+          "value":4,
+          "sequenceNo":2
+        },
+        {
+          "text":"C. Yes, English (regardless of Chichewa)",
+          "value":8,
+          "sequenceNo":3
+        },
+        {
+          "text":"D. No female head/spouse",
+          "value":13,
+          "sequenceNo":4
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"dwelling-floor",
+      "text":"The floor of the main dwelling is made of what material?",
+      "description":null,
+      "sequenceNo":3,
+      "responseDatas":
+      [
+        {
+          "text":"A. Smoothed mud, or sand",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Smooth cement, wood, tile, or other",
+          "value":8,
+          "sequenceNo":2
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"dwelling-walls",
+      "text":"The outer walls of the main dwelling of the household are predominantly made of what material?",
+      "description":null,
+      "sequenceNo":4,
+      "responseDatas":
+      [
+        {
+          "text":"A. Mud (yomata), or grass",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Mud brick (unfired)",
+          "value":5,
+          "sequenceNo":2
+        },
+        {
+          "text":"C. Compacted earth (yamdindo), burnt bricks, concrete, wood, iron sheets, or other",
+          "value":8,
+          "sequenceNo":3
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"dwelling-roof",
+      "text":"The roof of the main dwelling is predominantly made of what material?",
+      "description":null,
+      "sequenceNo":5,
+      "responseDatas":
+      [
+        {
+          "text":"A. Grass, plastic sheeting, or other",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Iron sheets, clay tiles, or concrete",
+          "value":3,
+          "sequenceNo":2
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"toilet-facility",
+      "text":"What kind of toilet facility does the household use?",
+      "description":null,
+      "sequenceNo":6,
+      "responseDatas":
+      [
+        {
+          "text":"A. None, traditional latrine without roof shared with other households, or other",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Traditional latrine without roof only for household members",
+          "value":4,
+          "sequenceNo":2
+        },
+        {
+          "text":"C. Traditional latrine with roof shared with other households",
+          "value":4,
+          "sequenceNo":3
+        },
+        {
+          "text":"D. Traditional latrine with roof only for household members, VIP latrine, or flush toilet",
+          "value":6,
+          "sequenceNo":4
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"lighting-fuel",
+      "text":"What is the household's main source of lighting fuel?",
+      "description":null,
+      "sequenceNo":7,
+      "responseDatas":
+      [
+        {
+          "text":"A. Collected firewood, purchased firewood, grass or gas",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Parrafin, or other",
+          "value":8,
+          "sequenceNo":2
+        },
+        {
+          "text":"C. Battery/dry cell (torch), candles, or electricity",
+          "value":13,
+          "sequenceNo":3
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"bed-net-mosquitoes",
+      "text":"Do any members of the household sleep under a bed net to protect against mosquitoes at some time during the year?",
+      "description":null,
+      "sequenceNo":8,
+      "responseDatas":
+      [
+        {
+          "text":"A. No",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Yes",
+          "value":5,
+          "sequenceNo",2
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"own-tables",
+      "text":"Does the household own any tables?",
+      "description":null,
+      "sequenceNo":9,
+      "responseDatas":
+      [
+        {
+          "text":"A. No",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Yes",
+          "value":9,
+          "sequenceNo":2
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"own-beds",
+      "text":"Does the household own any beds?",
+      "description":null,
+      "sequenceNo":10,
+      "responseDatas":
+      [
+        {
+          "text":"A. No",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Yes",
+          "value":4,
+          "sequenceNo":2
+        }
+      ]
+    }
+  ]
+}
