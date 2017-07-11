@@ -1,0 +1,297 @@
+{
+  "key":"ppi-kenya-2012",
+  "name":"PPI Survey for Kenya in 2012",
+  "description":null,
+  "countryCode":"NG",
+  "validFrom":null,
+  "validTo":null,
+  "componentDatas": null,
+  "questionDatas":
+  [
+    {
+      "componentKey":null,
+      "key":"household-members",
+      "text":"How many members does the household have?",
+      "description":null,
+      "sequenceNo":1,
+      "responseDatas":
+      [
+        {
+          "text":"A. Ten or more",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Eight or nine",
+          "value":5,
+          "sequenceNo":2
+        },
+        {
+          "text":"C. Seven",
+          "value":10,
+          "sequenceNo":3
+        },
+        {
+          "text":"D. Six",
+          "value":11,
+          "sequenceNo":4
+        },
+        {
+          "text":"E. Five",
+          "value":17,
+          "sequenceNo":5
+        },
+        {
+          "text":"F. Four",
+          "value":19,
+          "sequenceNo":6
+        },
+        {
+          "text":"G. Three",
+          "value":25,
+          "sequenceNo":7
+        },
+        {
+          "text":"H. One or two",
+          "value":32,
+          "sequenceNo":7
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"separate-rooms-occupied",
+      "text":"How many separate rooms do the members of the household occupy (do not count bathrooms, toilets, storerooms, or garage)?",
+      "description":null,
+      "sequenceNo":2,
+      "responseDatas":
+      [
+        {
+          "text":"A. One",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Two",
+          "value":4,
+          "sequenceNo":2
+        },
+        {
+          "text":"C. Three",
+          "value":5,
+          "sequenceNo":3
+        },
+        {
+          "text":"D. Four",
+          "value":6,
+          "sequenceNo":4
+        },
+        {
+          "text":"E. Five or more",
+          "value":7,
+          "sequenceNo":5
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"roof-material",
+      "text":"The roof of the main dwelling is predominantly made of what material?",
+      "description":null,
+      "sequenceNo":3,
+      "responseDatas":
+      [
+        {
+          "text":"A. Grass, clay tiles, asbestos or plastic sheets, or others",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Concrete, zinc, or iron sheets",
+          "value":4,
+          "sequenceNo":2
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"toilet-facility",
+      "text":"What kind of toilet facility does the household use?",
+      "description":null,
+      "sequenceNo":4,
+      "responseDatas":
+      [
+        {
+          "text":"A. None, bush, pail/bucket, or other",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Uncovered pit latrine, or V.I.P. latrine",
+          "value":3,
+          "sequenceNo":2
+        },
+        {
+          "text":"C. Covered pit latrine, or toilet on water",
+          "value":6,
+          "sequenceNo":3
+        },
+        {
+          "text":"D. Flush to septic tank, or flush to sewage",
+          "value":15,
+          "sequenceNo":4
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"own-cooker-appliance",
+      "text":"Does the household own a gas cooker, stove (electric, gas table, or kerosene), or microwave?",
+      "description":null,
+      "sequenceNo":5,
+      "responseDatas":
+      [
+        {
+          "text":"A. No",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Yes",
+          "value":3,
+          "sequenceNo":2
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"household-mattresses",
+      "text":"How many mattresses does the household own? ",
+      "description":null,
+      "sequenceNo":6,
+      "responseDatas":
+      [
+        {
+          "text":"A. None",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. One",
+          "value":6,
+          "sequenceNo":2
+        },
+        {
+          "text":"C. Two",
+          "value":8,
+          "sequenceNo":3
+        },
+        {
+          "text":"D. Three or more",
+          "value":10,
+          "sequenceNo":4
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"household-television",
+      "text":"Does your household own a TV set?",
+      "description":null,
+      "sequenceNo":7,
+      "responseDatas":
+      [
+        {
+          "text":"A. No",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Yes",
+          "value":8,
+          "sequenceNo":2
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"household-mobile-phones",
+      "text":"How many mobile phones does the household own?",
+      "description":null,
+      "sequenceNo":9,
+      "responseDatas":
+      [
+        {
+          "text":"A. None",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. One",
+          "value":2,
+          "sequenceNo":2
+        },
+        {
+          "text":"C. Two",
+          "value":5,
+          "sequenceNo":3
+        },
+        {
+          "text":"D. Three or more",
+          "value":7,
+          "sequenceNo":4
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"household-motor-vehicle",
+      "text":"Does the household own a motorbike or a car or other vehicle?",
+      "description":null,
+      "sequenceNo":9,
+      "responseDatas":
+      [
+        {
+          "text":"A. No",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Yes",
+          "value":3,
+          "sequenceNo":2
+        },
+        {
+          "text":"C. Car (regardless of motorbike)",
+          "value":11,
+          "sequenceNo":3
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"household-agricultural-activity",
+      "text":" Does any member of this household practice any agricultural activity such as crop, livestock, or fish farming, or own land that is not cultivated? If so, does the household own any sprayers, wheelbarrows, or sickles?",
+      "description":null,
+      "sequenceNo":10,
+      "responseDatas":
+      [
+        {
+          "text":"A. Farms or has uncultivated land, but no sprayers, wheelbarrows, or sickles",
+          "value":1,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Farms or has uncultivated land, and has sprayers, wheelbarrows, or sickles",
+          "value":3,
+          "sequenceNo":2
+        },
+        {
+          "text":"C. Does not farm nor has uncultivated land",
+          "value":3,
+          "sequenceNo":3
+        }
+      ]
+    }
+  ]
+}
