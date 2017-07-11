@@ -1,0 +1,276 @@
+{
+  "key":"ppi-colombia-2009",
+  "name":"PPI Survey for Colombia, version 2009",
+  "description":null,
+  "countryCode":"CO",
+  "validFrom":null,
+  "validTo":null,
+  "componentDatas":null,
+  "questionDatas":
+  [
+    {
+      "componentKey":null,
+      "key":"household-young-members",
+      "text":"How many members does the household have?"
+      "sequenceNo":1,
+      "responseDatas":
+      [
+        {
+          "text":"A. Four or more",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Three",
+          "value":5,
+          "sequenceNo":2
+        },
+        {
+          "text":"C. Two",
+          "value":11,
+          "sequenceNo":3
+        },
+        {
+          "text":"D. One",
+          "value":17,
+          "sequenceNo":4
+        },
+        {
+          "text":"E. None",
+          "value":23,
+          "sequenceNo":5
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"female-highest-education",
+      "text":"What is the highest education level reached by the female head/spouse?",
+      "description":null,
+      "sequenceNo":2,
+      "responseDatas":
+      [
+        {
+          "text":"A. None, or pre-school",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Primary or middle school",
+          "value":3,
+          "sequenceNo":2
+        },
+        {
+          "text":"C. High school",
+          "value":6,
+          "sequenceNo":3
+        },
+        {
+          "text":"D. No female head/spouse",
+          "value":8,
+          "sequenceNo":4
+        },
+        {
+          "text":"E. Post-secondary or college (1 to 4 years)",
+          "value":9,
+          "sequenceNo":5
+        },
+        {
+          "text":"F. Post-secondary or college (5 years or more)",
+          "value":17,
+          "sequenceNo":6
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"worked-past-week",
+      "text":"How many household members spent most of the past week working?",
+      "description":null,
+      "sequenceNo":3,
+      "responseDatas":
+      [
+        {
+          "text":"A. None",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. One",
+          "value":9,
+          "sequenceNo":2
+        },
+        {
+          "text":"C. Two or more",
+          "value":14,
+          "sequenceNo":3
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"salary-employees",
+      "text":"In their main line of work, how many household members work as wage or salary employees for a private firm or the government?",
+      "description":null,
+      "sequenceNo":4,
+      "responseDatas":
+      [
+        {
+          "text":"A. None",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. One",
+          "value":4,
+          "sequenceNo":2
+        },
+        {
+          "text":"C. Two or more",
+          "value":11,
+          "sequenceNo":3
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"electricity-rate-class",
+      "text":"What is the residence's rate class for electricity?",
+      "description":null,
+      "sequenceNo":5,
+      "responseDatas":
+      [
+        {
+          "text":"A. No class or zero (no connection, pirated connection, or generator), one, or two",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Three",
+          "value":4,
+          "sequenceNo":2
+        },
+        {
+          "text":"C. Four, five or six",
+          "value":9
+          "sequenceNo":3
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"cooking-fuel",
+      "text":"What fuel or energy source does the household usually cook with?",
+      "description":null,
+      "sequenceNo":6,
+      "responseDatas":
+      [
+        {
+          "text":"A. Firewood, wood, charcoal, coal, electricity, gasoline, petroleum, kersoene, alcohol, or waste material",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. LPG from a cylinder or tank",
+          "value":2,
+          "sequenceNo":2
+        },
+        {
+          "text":"C. Natural gas from a public network",
+          "value":3,
+          "sequenceNo":3
+        },
+        {
+          "text":"D. Does not cook",
+          "value":6,
+          "sequenceNo":4
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"washing-machine",
+      "text":"Does the household have a working clothes washing machine?",
+      "description":null,
+      "sequenceNo":7,
+      "responseDatas":
+      [
+        {
+          "text":"A. No",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Yes",
+          "value":4,
+          "sequenceNo":2
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"refrigerator-freezer",
+      "text":"Does the household have a working refrigerator or freezer?",
+      "description":null,
+      "sequenceNo":8,
+      "responseDatas":
+      [
+        {
+          "text":"A. No",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Yes",
+          "value":3,
+          "sequenceNo",2
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"dvd",
+      "text":"Does the household have a working DVD?",
+      "description":null,
+      "sequenceNo":9,
+      "responseDatas":
+      [
+        {
+          "text":"A. No",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Yes",
+          "value":4,
+          "sequenceNo":2
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"motorcycle-car",
+      "text":"Does the household have a motorcycle and/or a car for its own use?",
+      "description":null,
+      "sequenceNo":10,
+      "responseDatas":
+      [
+        {
+          "text":"A. None",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Motorcycle only",
+          "value":3,
+          "sequenceNo":2
+        },
+        {
+          "text":"C. Car (regardless of motorcycle)",
+          "value":9,
+          "sequenceNo":3
+        }
+      ]
+    }
+  ]
+}
