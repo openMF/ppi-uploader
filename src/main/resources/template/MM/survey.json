@@ -1,0 +1,296 @@
+{
+  "key":"ppi-myanmar-2009",
+  "name":"PPI Survey for Myanmar, version 2009",
+  "description":null,
+  "countryCode":"MM",
+  "validFrom":null,
+  "validTo":null,
+  "componentDatas":null,
+  "questionDatas":
+  [
+    {
+      "componentKey":null,
+      "key":"household-members",
+      "text":"How many members does the household have?"
+      "sequenceNo":1,
+      "responseDatas":
+      [
+        {
+          "text":"A. Eight or more",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Seven",
+          "value":6,
+          "sequenceNo":2
+        },
+        {
+          "text":"C. Six",
+          "value":10,
+          "sequenceNo":3
+        },
+        {
+          "text":"D. Five",
+          "value":14,
+          "sequenceNo":4
+        },
+        {
+          "text":"E. Four",
+          "value":19,
+          "sequenceNo":5
+        },
+        {
+          "text":"F. Three",
+          "value":26,
+          "sequenceNo":6
+        },
+        {
+          "text":"G. One or two",
+          "value":34,
+          "sequenceNo":7
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"female-highest-standard",
+      "text":"What is the highest standard/diploma/degree that the female head/spouse has passed?",
+      "description":null,
+      "sequenceNo":2,
+      "responseDatas":
+      [
+        {
+          "text":"A. No female head/spouse",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. None, KG, or first standard",
+          "value":1,
+          "sequenceNo":2
+        },
+        {
+          "text":"C. Second standard",
+          "value":7,
+          "sequenceNo":3
+        },
+        {
+          "text":"D. Third to fifth standard",
+          "value":8,
+          "sequenceNo":4
+        },
+        {
+          "text":"E. Sixth standard or higher",
+          "value":9,
+          "sequenceNo":5
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"rooms-used",
+      "text":"How many rooms does the household occupy, including bedrooms, living rooms, and rooms used for household businesses (do not count toilets, kitchens, balconies, nor corridors)?",
+      "description":null,
+      "sequenceNo":3,
+      "responseDatas":
+      [
+        {
+          "text":"A. One or none",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Two",
+          "value":2,
+          "sequenceNo":2
+        },
+        {
+          "text":"C. Three",
+          "value":3,
+          "sequenceNo":3
+        },
+        {
+          "text":"D. Four",
+          "value":4,
+          "sequenceNo":4
+        },
+        {
+          "text":"E. Five or more",
+          "value":9
+          "sequenceNo":5
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"floor-construction-materials",
+      "text":"What is the major construction material of the floor (observe, do not ask)?",
+      "description":null,
+      "sequenceNo":4,
+      "responseDatas":
+      [
+        {
+          "text":"A. Earth/sand, palm/bamboo, combination earth and wood/palm/bamboo, or other",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Wood planks, parquet or polished wood, tongue-and-groove wood, cement, wood with covering, cement with covering, or a combination of cement/finished wood and something else",
+          "value":5,
+          "sequenceNo":2
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"walls-construction-materials",
+      "text":"What is the major construction material of the external (outer) walls (observe, do not ask)?",
+      "description":null,
+      "sequenceNo":5,
+      "responseDatas":
+      [
+        {
+          "text":"A. Thatch/large leaves/palm/dhani, or tarpaulin",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Bamboo, or rudimentary wood",
+          "value":2,
+          "sequenceNo":2
+        },
+        {
+          "text":"C. Unbaked brick and mud, finished wood, or other",
+          "value":3,
+          "sequenceNo":3
+        },
+        {
+          "text":"D. Baked brick and cement, or pucca cement",
+          "value":9,
+          "sequenceNo":4
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"food-stove",
+      "text":"What type of stove is used most often for cooking food in the household?",
+      "description":null,
+      "sequenceNo":6,
+      "responseDatas":
+      [
+        {
+          "text":"A. Open fire, open stove, rice-husk stove, or traditional closed stove",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. A1 improved stove, other improved stove, stove using electricity, gas, kerosene/diesel, or biofuel, or other",
+          "value":4,
+          "sequenceNo":2
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"cupboard-cabinet",
+      "text":" Does any member of your household own or have access to a cupboard or a food-storage cabinet (including one rented to others or pawned)?",
+      "description":null,
+      "sequenceNo":7,
+      "responseDatas":
+      [
+        {
+          "text":"A. Neither",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. One, but not both",
+          "value":1,
+          "sequenceNo":2
+        },
+        {
+          "text":"C. Both",
+          "value":5,
+          "sequenceNo":3
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"television",
+      "text":"Does any member of your household own or have access to a black-and-white or colour TV (including one rented to others or pawned)?",
+      "description":null,
+      "sequenceNo":8,
+      "responseDatas":
+      [
+        {
+          "text":"A. No",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Yes",
+          "value":9,
+          "sequenceNo",2
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"vehicles",
+      "text":"Does any household member own or have access to a bicycle or non-motorized boat, a motorcycle, power tiller, trishaw, motorboat, trawlarjee, three-wheeled motor vehicle, motorcar (4 wheels or more), or tractor (including one rented to others or pawned)?",
+      "description":null,
+      "sequenceNo":9,
+      "responseDatas":
+      [
+        {
+          "text":"A. No, none of these",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Only bicycle or non-motorized boat",
+          "value":4,
+          "sequenceNo":2
+        },
+        {
+          "text":"C. Motorcycle, power tilller, trishaw, motorboat, trawlarjee, three-wheeled motor vehicle, motorcar (4 wheels or more), or tractor (regardless of bicycle or non-motorized boat)",
+          "value":8,
+          "sequenceNo":3
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"agricultural-land-animals",
+      "text":" If any household member’s main job is connected with agriculture, hunting, forestry, fishery, mining, or quarrying, and if any household member owns or has the right to use land for agriculture, forestry, pasture, livestock breeding, or water surfaces, then does the household own any non-draught oxen, non-draught buffalo, cows, mythun, horses, or donkeys/mules (including ones rented to others or pawned to others)?",
+      "description":null,
+      "sequenceNo":10,
+      "responseDatas":
+      [
+        {
+          "text":"A. Landless agricultural household",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Non-agricultural household",
+          "value":1,
+          "sequenceNo":2
+        },
+        {
+          "text":"C. Agricultural household with land, but no non-draught large animals",
+          "value":4,
+          "sequenceNo":3
+        },
+        {
+          "text":"D. Agricultural household with land and with non-draught large animals",
+          "value":8,
+          "sequenceNo":4
+        }
+      ]
+    }
+  ]
+}
