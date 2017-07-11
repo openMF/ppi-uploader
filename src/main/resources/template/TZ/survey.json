@@ -1,0 +1,257 @@
+{
+  "key":"ppi-tanzania-2011",
+  "name":"PPI Survey for Tanzania in 2011",
+  "description":null,
+  "countryCode":"TZ",
+  "validFrom":null,
+  "validTo":null,
+  "componentDatas": null,
+  "questionDatas":
+  [
+    {
+      "componentKey":null,
+      "key":"household-members-18-or-less",
+      "text":"How many members are 18-years-old or younger?",
+      "description":null,
+      "sequenceNo":1,
+      "responseDatas":
+      [
+        {
+          "text":"A. Six or more",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Five",
+          "value":2,
+          "sequenceNo":2
+        },
+        {
+          "text":"C. Four",
+          "value":5,
+          "sequenceNo":3
+        },
+        {
+          "text":"D. Three",
+          "value":11,
+          "sequenceNo":4
+        },
+        {
+          "text":"E. Two",
+          "value":14,
+          "sequenceNo":5
+        },
+        {
+          "text":"F. One",
+          "value":17,
+          "sequenceNo":6
+        },
+        {
+          "text":"G. None",
+          "value":28,
+          "sequenceNo":7
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"household-members-6-to-18-in-school",
+      "text":"Are all household members ages 6 to 18 currently in school?",
+      "description":null,
+      "sequenceNo":2,
+      "responseDatas":
+      [
+        {
+          "text":"A. Yes",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. No",
+          "value":3,
+          "sequenceNo":2
+        },
+        {
+          "text":"C. No members ages 6 to 18",
+          "value":5,
+          "sequenceNo":3
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"walls-material",
+      "text":"What is the main building material used for the walls of the main building?",
+      "description":null,
+      "sequenceNo":3,
+      "responseDatas":
+      [
+        {
+          "text":"A. Baked bricks",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Poles and mud, grass, sun-dried bricks, or other",
+          "value":6,
+          "sequenceNo":2
+        },
+        {
+          "text":"C. Stones, cement bricks, or timber",
+          "value":13,
+          "sequenceNo":3
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"roof-material",
+      "text":"What is the main material used for the roof of the main dwelling?",
+      "description":null,
+      "sequenceNo":4,
+      "responseDatas":
+      [
+        {
+          "text":"A. Grass/leaves, mud and leaves, or other",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Iron sheets, tiles, concrete, or asbestos",
+          "value":6,
+          "sequenceNo":2
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"cooking-energy-fuel",
+      "text":"What is the main fuel used for cooking?",
+      "description":null,
+      "sequenceNo":5,
+      "responseDatas":
+      [
+        {
+          "text":"A. Firewood, coal, solar, gas (biogas), wood/farm residuals, or animal residuals",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Charcoal, paraffin, gas (industrial), electricity, generator/private source, or other",
+          "value":9,
+          "sequenceNo":2
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"televisions",
+      "text":"Does the household have any televisions?",
+      "description":null,
+      "sequenceNo":6,
+      "responseDatas":
+      [
+        {
+          "text":"A. No",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Yes",
+          "value":15,
+          "sequenceNo":2
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"hi-fi-systems",
+      "text":"Does your household have any radios, cassette/tape recorders, or hi-fi systems?",
+      "description":null,
+      "sequenceNo":7,
+      "responseDatas":
+      [
+        {
+          "text":"A. No",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Yes",
+          "value":4,
+          "sequenceNo":2
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"lanterns",
+      "text":"Does the household have any lanterns?",
+      "description":null,
+      "sequenceNo":8,
+      "responseDatas":
+      [
+        {
+          "text":"A. No",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Yes",
+          "value":4,
+          "sequenceNo":2
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"tables",
+      "text":"Does the household have any tables?",
+      "description":null,
+      "sequenceNo":9,
+      "responseDatas":
+      [
+        {
+          "text":"A. No",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Yes",
+          "value":4,
+          "sequenceNo":2
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"owned-animals",
+      "text":"If the household cultivated any crops in the last 12 months, does it currently own any bulls, cows, steers, heifers, male calves, female calves, or oxen?",
+      "description":null,
+      "sequenceNo":10,
+      "responseDatas":
+      [
+        {
+          "text":"A. No crops, and no cattle",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. No crops, and cattle",
+          "value":0,
+          "sequenceNo":2
+        },
+        {
+          "text":"C. Crops, but no cattle",
+          "value":5,
+          "sequenceNo":3
+        },
+        {
+          "text":"D. Crops, and cattle",
+          "value":12,
+          "sequenceNo":4
+        }
+      ]
+    }
+  ]
+}
