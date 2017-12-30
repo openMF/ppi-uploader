@@ -1,0 +1,467 @@
+{
+  "key":"ppi-china-2009",
+  "name":"PPI Survey for the China, version 2009",
+  "description":null,
+  "countryCode":"CN",
+  "validFrom":null,
+  "validTo":null,
+  "componentDatas": null,
+  "questionDatas":
+  [
+    {
+      "componentKey":null,
+      "key":"household-members",
+      "text":"How many members does the household have?",
+      "description":null,
+      "sequenceNo":1,
+      "responseDatas":
+      [
+        {
+          "text":"A. Six or more",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Five",
+          "value":1,
+          "sequenceNo":2
+        },
+        {
+          "text":"C. Four",
+          "value":2,
+          "sequenceNo":3
+        },
+        {
+          "text":"D. Three",
+          "value":4,
+          "sequenceNo":4
+        },
+        {
+          "text":"E. Two",
+          "value":6,
+          "sequenceNo":5
+        },
+        {
+          "text":"F. One",
+          "value":7,
+          "sequenceNo":6
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"household-members-60",
+      "text":"How many household members are less than six years-old or more than 60-years-old?",
+      "description":null,
+      "sequenceNo":2,
+      "responseDatas":
+      [
+        {
+          "text":"A. All are older than 60 or less than 6 (Regardless of number)",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Four or more",
+          "value":0,
+          "sequenceNo":2
+        },
+        {
+          "text":"C. Three",
+          "value":1,
+          "sequenceNo":3
+        },
+        {
+          "text":"D. Two",
+          "value":2,
+          "sequenceNo":4
+        },
+        {
+          "text":"E. One",
+          "value":3,
+          "sequenceNo":5
+        },
+        {
+          "text":"F. None",
+          "value":5,
+          "sequenceNo":6
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"compulsory-education",
+      "text":"Do all household members who are of age receive compulsory education?",
+      "description":null,
+      "sequenceNo":3,
+      "responseDatas":
+      [
+        {
+          "text":"A. No",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Yes, and some are boarding",
+          "value":1,
+          "sequenceNo":2
+        },
+        {
+          "text":"C. Yes, and none are boarding",
+          "value":2,
+          "sequenceNo":3
+        },
+        {
+          "text":"D. None are of age",
+          "value":4,
+          "sequenceNo":4
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"highest-educational-attainment",
+      "text":"What is the highest educational attainment of a household member who is in the labor force?",
+      "description":null,
+      "sequenceNo":4,
+      "responseDatas":
+      [
+        {
+          "text":"A. No one in labor force",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Illiterate",
+          "value":0,
+          "sequenceNo":2
+        },
+        {
+          "text":"C. Primary",
+          "value":1,
+          "sequenceNo":3
+        },
+        {
+          "text":"D. Junior high",
+          "value":5,
+          "sequenceNo":4
+        },
+        {
+          "text":"E. Senior high or higher",
+          "value":8,
+          "sequenceNo":5
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"migrants-work",
+      "text":"How many household members work as migrants?",
+      "description":null,
+      "sequenceNo":5,
+      "responseDatas":
+      [
+        {
+          "text":"A. None",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. One",
+          "value":2,
+          "sequenceNo":2
+        },
+        {
+          "text":"C. Two or more",
+          "value":5,
+          "sequenceNo":3
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"household-employment-work",
+      "text":"How many household members have stable income from employment or work outside of agriculture?",
+      "description":null,
+      "sequenceNo":6,
+      "responseDatas":
+      [
+        {
+          "text":"A. None",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. One",
+          "value":2,
+          "sequenceNo":2
+        },
+        {
+          "text":"C. Two or more",
+          "value":5,
+          "sequenceNo":3
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"wall-materials",
+      "text":"What are the main construction materials of the residence?",
+      "description":null,
+      "sequenceNo":7,
+      "responseDatas":
+      [
+        {
+          "text":"A. Others",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Masonary and wood",
+          "value":3,
+          "sequenceNo":2
+        },
+        {
+          "text":"B. Reinforced concrete",
+          "value":6,
+          "sequenceNo":2
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"cooking-fuel",
+      "text":"What is the main fuel used for cooking?",
+      "description":null,
+      "sequenceNo":8,
+      "responseDatas":
+      [
+        {
+          "text":"A. Firewood or others",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Coal or biogas (methane)",
+          "value":2,
+          "sequenceNo":2
+        },
+        {
+          "text":"C. Natural gas, coal gas, liquefied petroleum gas, electricity, gasoline, diesel, or solar ",
+          "value":5,
+          "sequenceNo":3
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"water-source",
+      "text":"What is the household’s main source of drinking water?",
+      "description":null,
+      "sequenceNo":9,
+      "responseDatas":
+      [
+        {
+          "text":"A. Pond or others",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. River or lakes",
+          "value":1,
+          "sequenceNo":2
+        },
+        {
+          "text":"C. Shallow well",
+          "value":2,
+          "sequenceNo":3
+        },
+        {
+          "text":"Deep well",
+          "value":3,
+          "sequenceNo":4
+        },
+        {
+          "text":"Tap, or bottled",
+          "value":6,
+          "sequenceNo":5
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"television-color",
+      "text":"Does the household have a color TV?",
+      "description":null,
+      "sequenceNo":10,
+      "responseDatas":
+      [
+        {
+          "text":"A. No",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Yes",
+          "value":2,
+          "sequenceNo":2
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"refrigerator-freezer",
+      "text":"Does the household have a refrigerator or freezer?",
+      "description":null,
+      "sequenceNo":11,
+      "responseDatas":
+      [
+        {
+          "text":"A. No",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Yes",
+          "value":4,
+          "sequenceNo":2
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"washing-machine",
+      "text":"Does the household have a washing machine?",
+      "description":null,
+      "sequenceNo":12,
+      "responseDatas":
+      [
+        {
+          "text":"A. No",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Semi-automatic",
+          "value":2,
+          "sequenceNo":2
+        },
+        {
+          "text":"C. automatic",
+          "value":6,
+          "sequenceNo":3
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"mechanized-transport",
+      "text":"What is the best form of mechanized transport that the household has?",
+      "description":null,
+      "sequenceNo":13,
+      "responseDatas":
+      [
+        {
+          "text":"A. None",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Bicycle",
+          "value":1,
+          "sequenceNo":2
+        },
+        {
+          "text":"C. Motorcycle or motorized bicycle/scooter/moped",
+          "value":5,
+          "sequenceNo":3
+        },
+        {
+          "text":"D. Automobile, truck, etc.",
+          "value":10,
+          "sequenceNo":4
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"agricultural-traction",
+      "text":"What is the best form of agricultural traction that the household has?",
+      "description":null,
+      "sequenceNo":14,
+      "responseDatas":
+      [
+        {
+          "text":"A. None",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Draught animal",
+          "value":2,
+          "sequenceNo":2
+        },
+        {
+          "text":"C. Mint or walking tractor",
+          "value":4,
+          "sequenceNo":3
+        },
+        {
+          "text":"D. Motor vehicle, large or medium tractor, threshing machine, harvester, or motor tricycle",
+          "value":6,
+          "sequenceNo":4
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"household-insurance",
+      "text":"What type of insurance does the household have?",
+      "description":null,
+      "sequenceNo":15,
+      "responseDatas":
+      [
+        {
+          "text":"A. None",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Non-commercial medical",
+          "value":1,
+          "sequenceNo":2
+        },
+        {
+          "text":"C. Non-commerical old age",
+          "value":4,
+          "sequenceNo":3
+        },
+        {
+          "text":"D. Commercial (any type)",
+          "value":6,
+          "sequenceNo":4
+        },
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"telephones-cellphones",
+      "text":"Does the household receive the Minimum Living Standard Subsidy?",
+      "description":null,
+      "sequenceNo":16,
+      "responseDatas":
+      [
+        {
+          "text":"A. Yes",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. No",
+          "value":2,
+          "sequenceNo":2
+        }
+      ]
+    }
+  ]
+}
