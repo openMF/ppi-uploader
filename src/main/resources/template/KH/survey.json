@@ -1,0 +1,283 @@
+{
+  "key":"cambodia-2011",
+  "name":"PPI Survey for the Cambodia, version 2009",
+  "description":null,
+  "countryCode":"KH",
+  "validFrom":null,
+  "validTo":null,
+  "componentDatas": null,
+  "questionDatas":
+  [
+    {
+      "componentKey":null,
+      "key":"household-members",
+      "text":"How many members does the household have?",
+      "description":null,
+      "sequenceNo":1,
+      "responseDatas":
+      [
+        {
+          "text":"A. Eight or more",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Seven",
+          "value":7,
+          "sequenceNo":2
+        },
+        {
+          "text":"C. Six",
+          "value":9,
+          "sequenceNo":3
+        },
+        {
+          "text":"D. Five",
+          "value":17,
+          "sequenceNo":4
+        },
+        {
+          "text":"E. Four",
+          "value":22,
+          "sequenceNo":5
+        },
+        {
+          "text":"F. Three",
+          "value":32,
+          "sequenceNo":6
+        },
+        {
+          "text":"G. One or two",
+          "value":40,
+          "sequenceNo":7
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"worked-past-week",
+      "text":" In the past 7 days, how many household members did any work at all, even one hour, such as working or helping on a farm, grinding grain, making palm sugar, caring for animals, weaving, etc., or working in a business or workplace (private or public sector, on their own account, or in a businessbelonging to someone else in the household)?",
+      "description":null,
+      "sequenceNo":2,
+      "responseDatas":
+      [
+        {
+          "text":"A. None or one",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Two",
+          "value":3,
+          "sequenceNo":2
+        },
+        {
+          "text":"C. Three or more",
+          "value":5,
+          "sequenceNo":3
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"female-read",
+      "text":"Can the female head/spouse read or write a simple message in any language?",
+      "description":null,
+      "sequenceNo":3,
+      "responseDatas":
+      [
+        {
+          "text":"A. No",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. No female head / spouse",
+          "value":1,
+          "sequenceNo":2
+        },
+        {
+          "text":"C. Yes",
+          "value":2,
+          "sequenceNo":3
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"used-rooms",
+      "text":"How many rooms in the dwelling unit are used by the household (other than kitchen, toilet, bathrooms, and store-rooms)?",
+      "description":null,
+      "sequenceNo":4,
+      "responseDatas":
+      [
+        {
+          "text":"A. One",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Two",
+          "value":5,
+          "sequenceNo":2
+        },
+        {
+          "text":"C. Three or more",
+          "value":12,
+          "sequenceNo":3
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"walls-construction-materials",
+      "text":"What is the primary construction material of the wall of the dwelling unit occupied by the household?",
+      "description":null,
+      "sequenceNo":5,
+      "responseDatas":
+      [
+        {
+          "text":"A. Bamboo, thatch/leaves, grass, makeshift or mixed materials, clay/dung with straw, or other",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Wood, logs, plywood, galvanized iron or aluminium or other metal sheets, or fibrous cement/asbestos",
+          "value":3,
+          "sequenceNo":2
+        },
+        {
+          "text":"C. Concrete, brick, or stone",
+          "value":4,
+          "sequenceNo":3
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"roof-construction-materials",
+      "text":"What is the primary construction material of the roof of the dwelling unit occupied by the household?",
+      "description":null,
+      "sequenceNo":6,
+      "responseDatas":
+      [
+        {
+          "text":"A. Thatch/leaves, grass, plastic sheets, salvaged materials, mixed but predominantly thatch/leaves/grass/salvaged materials, or other",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Galvanized iron or aluminium, or mixed but predominantly galvanized iron/aluminium/tiles/fibrous cement",
+          "value":1,
+          "sequenceNo":2
+        },
+        {
+          "text":"C. Tiles, fibrous cement, or concrete",
+          "value":4,
+          "sequenceNo":3
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"wardrobes-cabinets",
+      "text":"How many wardrobes or cabinets does the household own?",
+      "description":null,
+      "sequenceNo":7,
+      "responseDatas":
+      [
+        {
+          "text":"A. None",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. One",
+          "value":6,
+          "sequenceNo":2
+        },
+        {
+          "text":"B. Two or more",
+          "value":8,
+          "sequenceNo":2
+        }
+      ]
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"television-player",
+      "text":"Does the family own a television or a video/VCD/DVD player/recorder?",
+      "description":null,
+      "sequenceNo":8,
+      "responseDatas":
+      [
+        {
+          "text":"A. No",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Only television",
+          "value":6,
+          "sequenceNo":2
+        },
+        {
+          "text":"C.Video/VCD/DVD (regardless of TV)",
+          "value":8,
+          "sequenceNo":3
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"telephones-cellphones",
+      "text":"How many landline telephones and cell phones does the household own?",
+      "description":null,
+      "sequenceNo":9,
+      "responseDatas":
+      [
+        {
+          "text":"A. None",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. One",
+          "value":4,
+          "sequenceNo":2
+        },
+        {
+          "text":"C. Two or more",
+          "value":9,
+          "sequenceNo":3
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"motorcycles-boats",
+      "text":"How many motorcycles or motor boats does the household own?",
+      "description":null,
+      "sequenceNo":10,
+      "responseDatas":
+      [
+        {
+          "text":"A. None",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. One",
+          "value":6,
+          "sequenceNo":2
+        },
+        {
+          "text":"D. Two or more",
+          "value":10,
+          "sequenceNo":3
+        }
+      ]
+    }
+  ]
+}
