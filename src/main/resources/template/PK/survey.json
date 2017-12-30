@@ -1,0 +1,257 @@
+{
+  "key":"ppi-pakistan-2009",
+  "name":"PPI Survey for the Pakistan, version 2009",
+  "description":null,
+  "countryCode":"PK",
+  "validFrom":null,
+  "validTo":null,
+  "componentDatas": null,
+  "questionDatas":
+  [
+    {
+      "componentKey":null,
+      "key":"household-province",
+      "text":"In what province does the household live?",
+      "description":null,
+      "sequenceNo":1,
+      "responseDatas":
+      [
+        {
+          "text":"A. Balochistan",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Northwest Frontier Province",
+          "value":9,
+          "sequenceNo":2
+        },
+        {
+          "text":"C. Sindh",
+          "value":11,
+          "sequenceNo":3
+        },
+        {
+          "text":"D. Punjah or Islamabad",
+          "value":12,
+          "sequenceNo":4
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"young-household-members",
+      "text":"How many household members are 13-years old or younger?",
+      "description":null,
+      "sequenceNo":2,
+      "responseDatas":
+      [
+        {
+          "text":"A. Five or more",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Four",
+          "value":6,
+          "sequenceNo":2
+        },
+        {
+          "text":"C. Three",
+          "value":11,
+          "sequenceNo":3
+        },
+        {
+          "text":"D. Two",
+          "value":15,
+          "sequenceNo":4
+        },
+        {
+          "text":"E. One",
+          "value":22,
+          "sequenceNo":5
+        },
+        {
+          "text":"F. None",
+          "value":31,
+          "sequenceNo":6
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"children-school",
+      "text":"How many children ages 5 to 13 attend school?",
+      "description":null,
+      "sequenceNo":3,
+      "responseDatas":
+      [
+        {
+          "text":"A. Not at all",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. All, or no children ages 5 to 13",
+          "value":5,
+          "sequenceNo":2
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"elementary-occupations",
+      "text":"How many household members work in elementary occupations (not senior officials, managers, professionals, technicians or associated professionals, clerks, salespeople, service or shop workers, skilled workers in agriculture or fishery, craft or trade workers, or plant/machinery operators)?",
+      "description":null,
+      "sequenceNo":4,
+      "responseDatas":
+      [
+        {
+          "text":"A. Two or more",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. One",
+          "value":5,
+          "sequenceNo":2
+        },
+        {
+          "text":"C. None",
+          "value":12,
+          "sequenceNo":3
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"highest-education",
+      "text":"What is the highest grade completed by the female head/spouse?",
+      "description":null,
+      "sequenceNo":5,
+      "responseDatas":
+      [
+        {
+          "text":"A. Less than Class 1 or no data",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. No female head/spouse",
+          "value":4,
+          "sequenceNo":2
+        },
+        {
+          "text":"C. Class 1 or higher",
+          "value":6,
+          "sequenceNo":3
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"drinking-water",
+      "text":"What is the main source of drinking water for the household?",
+      "description":null,
+      "sequenceNo":6,
+      "responseDatas":
+      [
+        {
+          "text":"A. Others",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Hand pump, covered/closed well, motorized pump/tube well, or piped water",
+          "value":3,
+          "sequenceNo":2
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"toilet-type",
+      "text":"What type of toilet is used by your household?",
+      "description":null,
+      "sequenceNo":7,
+      "responseDatas":
+      [
+        {
+          "text":"A. None or other",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Flush connected to pit/septic tank or open drain",
+          "value":2,
+          "sequenceNo":2
+        },
+        {
+          "text":"C. Flush connected to public sewerage",
+          "value":4,
+          "sequenceNo":3
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"refrigerator-freezer",
+      "text":"Does the family own a refrigerator or freezer",
+      "description":null,
+      "sequenceNo":8,
+      "responseDatas":
+      [
+        {
+          "text":"A. No",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Yes",
+          "value":12,
+          "sequenceNo":2
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"television",
+      "text":"Does the family own a television?",
+      "description":null,
+      "sequenceNo":9,
+      "responseDatas":
+      [
+        {
+          "text":"A. No",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Yes",
+          "value":3,
+          "sequenceNo":2
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"motorcycle-vehicle",
+      "text":"Does the household own a motorcycle, scooter, car, or other vehicle?",
+      "description":null,
+      "sequenceNo":10,
+      "responseDatas":
+      [
+        {
+          "text":"A. No",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Yes",
+          "value":12,
+          "sequenceNo":2
+        }
+      ]
+    }
+  ]
+}
