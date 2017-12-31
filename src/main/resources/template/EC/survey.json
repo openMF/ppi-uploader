@@ -1,0 +1,280 @@
+{
+  "key":"ppi-ecuador-2013",
+  "name":"PPI Survey for the Ecuador, version 2013",
+  "description":null,
+  "countryCode":"EC",
+  "validFrom":null,
+  "validTo":null,
+  "componentDatas": null,
+  "questionDatas":
+  [
+    {
+      "componentKey":null,
+      "key":"household-members",
+      "text":"How many members does the household have?",
+      "description":null,
+      "sequenceNo":1,
+      "responseDatas":
+      [
+        {
+          "text":"A. Six or more",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Five",
+          "value":9,
+          "sequenceNo":2
+        },
+        {
+          "text":"C. Four",
+          "value":16,
+          "sequenceNo":3
+        },
+        {
+          "text":"D. Three",
+          "value":25,
+          "sequenceNo":4
+        },
+        {
+          "text":"E. Two",
+          "value":32,
+          "sequenceNo":5
+        },
+        {
+          "text":"F. One",
+          "value":40,
+          "sequenceNo":6
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"teenage-have-cellphones",
+      "text":"How many household members 12-years-old or older have an activated cellular telephone?",
+      "description":null,
+      "sequenceNo":2,
+      "responseDatas":
+      [
+        {
+          "text":"A. None",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. One",
+          "value":3,
+          "sequenceNo":2
+        },
+        {
+          "text":"C. Two",
+          "value":7,
+          "sequenceNo":3
+        },{
+          "text":"D. Three or more",
+          "value":11,
+          "sequenceNo":4
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"household-basic-necessities",
+      "text":"Does the household have a car (for its exclusive use), air conditioner, video camera, or exercise machine?",
+      "description":null,
+      "sequenceNo":3,
+      "responseDatas":
+      [
+        {
+          "text":"A. No",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Yes",
+          "value":100,
+          "sequenceNo":2
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"residence-floor-material",
+      "text":"What is the main material of the floor of the residence?",
+      "description":null,
+      "sequenceNo":4,
+      "responseDatas":
+      [
+        {
+          "text":"A. Dirt",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Untreated planks, reeds, or other",
+          "value":4,
+          "sequenceNo":2
+        },
+        {
+          "text":"C. Cement/bricks",
+          "value":5,
+          "sequenceNo":3
+        },
+        {
+          "text":"D. Ceramic tile, stone, vinyl, marble, faux marble, treated planks, or concrete slab",
+          "value":8,
+          "sequenceNo":4
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"household-water",
+      "text":"Does the household have a place with running water to take a bath or shower?",
+      "description":null,
+      "sequenceNo":5,
+      "responseDatas":
+      [
+        {
+          "text":"A. No",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Yes",
+          "value":3,
+          "sequenceNo":2
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"residence-bathroom",
+      "text":"Is the bathroom inside the residence?",
+      "description":null,
+      "sequenceNo":6,
+      "responseDatas":
+      [
+        {
+          "text":"A. No",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Yes",
+          "value":4,
+          "sequenceNo":2
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"household-appliances",
+      "text":"Does the household have a blender, waffle iron/sandwich grill, or electric mixer?",
+      "description":null,
+      "sequenceNo":7,
+      "responseDatas":
+      [
+        {
+          "text":"A. No",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Only blender",
+          "value":3,
+          "sequenceNo":2
+        },{
+          "text":"C. Waffle iron/sandwich grill, or electric mixer (regardless of blender)",
+          "value":8,
+          "sequenceNo":3
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"household-iron",
+      "text":"Does the household have an iron?",
+      "description":null,
+      "sequenceNo":8,
+      "responseDatas":
+      [
+        {
+          "text":"A. No",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Yes",
+          "value":5,
+          "sequenceNo":2
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"household-television",
+      "text":"How many color or plasma/LCD/LED televisions does the household have?",
+      "description":null,
+      "sequenceNo":9,
+      "responseDatas":
+      [
+        {
+          "text":"A. None",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. One",
+          "value":5,
+          "sequenceNo":2
+        },
+        {
+          "text":"C. Two or more",
+          "value":10,
+          "sequenceNo":3
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"household-bulbs",
+      "text":"How many light bulbs does the household use?",
+      "description":null,
+      "sequenceNo":10,
+      "responseDatas":
+      [
+        {
+          "text":"A. None,one or two",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Three",
+          "value":1,
+          "sequenceNo":2
+        },
+        {
+          "text":"C. Four",
+          "value":2,
+          "sequenceNo":3
+        },
+        {
+          "text":"D. Five",
+          "value":4,
+          "sequenceNo":4
+        },
+        {
+          "text":"E. Six or seven",
+          "value":6,
+          "sequenceNo":5
+        },
+        {
+          "text":"F. Eight or more",
+          "value":10,
+          "sequenceNo":6
+        }
+      ]
+    }
+  ]
+}

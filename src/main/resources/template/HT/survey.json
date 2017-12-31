@@ -1,0 +1,289 @@
+{
+  "key":"ppi-haiti-2013",
+  "name":"PPI Survey for the Haiti, version 2013",
+  "description":null,
+  "countryCode":"HT",
+  "validFrom":null,
+  "validTo":null,
+  "componentDatas": null,
+  "questionDatas":
+  [
+    {
+      "componentKey":null,
+      "key":"household-department",
+      "text":"In which department does the household live?",
+      "description":null,
+      "sequenceNo":1,
+      "responseDatas":
+      [
+        {
+          "text":"A. Ouest, or Grand’Anse",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Centre, or Nord-Est",
+          "value":3,
+          "sequenceNo":2
+        },
+        {
+          "text":"C. Nord-Ouest, or Sud",
+          "value":4,
+          "sequenceNo":3
+        },
+        {
+          "text":"D. Artibonite, or Nippes",
+          "value":7,
+          "sequenceNo":4
+        },
+        {
+          "text":"E. Nord, or Sud-Est",
+          "value":10,
+          "sequenceNo":5
+        },
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"household-members",
+      "text":"How many members does the household have?",
+      "description":null,
+      "sequenceNo":2,
+      "responseDatas":
+      [
+        {
+          "text":"A. Eight or more",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Seven",
+          "value":4,
+          "sequenceNo":2
+        },
+        {
+          "text":"C. Six",
+          "value":9,
+          "sequenceNo":3
+        },
+        {
+          "text":"D. Five",
+          "value":9,
+          "sequenceNo":4
+        },
+        {
+          "text":"E. Four",
+          "value":14,
+          "sequenceNo":5
+        },
+        {
+          "text":"F. Three",
+          "value":18,
+          "sequenceNo":6
+        },
+        {
+          "text":"G. One or two",
+          "value":32,
+          "sequenceNo":7
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"members-work-one-hour",
+      "text":"How many household members who are 10-years-old or older worked for at least one hour in the past week?",
+      "description":null,
+      "sequenceNo":3,
+      "responseDatas":
+      [
+        {
+          "text":"A. None",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. One",
+          "value":2,
+          "sequenceNo":2
+        },{
+          "text":"B. Two or more",
+          "value":4,
+          "sequenceNo":3
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"female-work",
+      "text":"In the past week, did the female head/spouse work for at least one hour?",
+      "description":null,
+      "sequenceNo":4,
+      "responseDatas":
+      [
+        {
+          "text":"A. No",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Yes",
+          "value":4,
+          "sequenceNo":2
+        },
+        {
+          "text":"C. No female head/spouse",
+          "value":7,
+          "sequenceNo":3
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"female-literacy",
+      "text":"Does the female head/spouse know how to read and write?",
+      "description":null,
+      "sequenceNo":5,
+      "responseDatas":
+      [
+        {
+          "text":"A. No, or no female head/spouse",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Yes",
+          "value":3,
+          "sequenceNo":2
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"male-literacy",
+      "text":"Does the male head/spouse know how to read and write?",
+      "description":null,
+      "sequenceNo":6,
+      "responseDatas":
+      [
+        {
+          "text":"A. No",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. No male head/spouse",
+          "value":2,
+          "sequenceNo":2
+        },
+        {
+          "text":"B. Yes",
+          "value":4,
+          "sequenceNo":3
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"material-roof",
+      "text":"What is the main material of the roof?",
+      "description":null,
+      "sequenceNo":7,
+      "responseDatas":
+      [
+        {
+          "text":"A. No roof (camp), or thatch/straw",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Metal sheets, or plastic",
+          "value":4,
+          "sequenceNo":2
+        },{
+          "text":"C. Cement/concrete, tile/slate, or other",
+          "value":12,
+          "sequenceNo":3
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"drinking-water-household",
+      "text":"What is the main source of drinking water for the household?",
+      "description":null,
+      "sequenceNo":8,
+      "responseDatas":
+      [
+        {
+          "text":"A. Spring, surface water (stream, lake, pond, river, dam/canal), artesian well or borehole, rainwater, public standpipe, or untreated water (truck, bottle, bag, bucket, or jerrycan)",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Well, private faucet/DINEPA, or treated water (kiosk, truck, bottle, bag, bucket, or jerrycan)",
+          "value":7,
+          "sequenceNo":2
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"household-television",
+      "text":"What is the main source of energy for cooking?",
+      "description":null,
+      "sequenceNo":9,
+      "responseDatas":
+      [
+        {
+          "text":"A. Wood/straw, or other",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Charcoal, solar, propane, electricity, or kerosene",
+          "value":8,
+          "sequenceNo":2
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"household-bulbs",
+      "text":"Does the household or a household member have a stove (wood/charcoal)?",
+      "description":null,
+      "sequenceNo":10,
+      "responseDatas":
+      [
+        {
+          "text":"A. No",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Yes",
+          "value":6,
+          "sequenceNo":2
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"household-radio",
+      "text":"Does the household or a household member have a radio?",
+      "description":null,
+      "sequenceNo":11,
+      "responseDatas":[
+        {
+          "text":"A. No",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Yes",
+          "value":7,
+          "sequenceNo":2
+        }
+      ]
+    }
+  ]
+}
