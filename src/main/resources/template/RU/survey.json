@@ -1,0 +1,282 @@
+{
+  "key":"ppi-russia-2007",
+  "name":"PPI Survey for the Russia, version 2007",
+  "description":null,
+  "countryCode":"RU",
+  "validFrom":null,
+  "validTo":null,
+  "componentDatas": null,
+  "questionDatas":
+  [
+    {
+      "componentKey":null,
+      "key":"household-members",
+      "text":"How many members does the household have?",
+      "description":null,
+      "sequenceNo":1,
+      "responseDatas":
+      [
+        {
+          "text":"A. Five or more",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Four",
+          "value":5,
+          "sequenceNo":2
+        },
+        {
+          "text":"C. Three",
+          "value":11,
+          "sequenceNo":3
+        },
+        {
+          "text":"D. Two",
+          "value":22,
+          "sequenceNo":4
+        },
+        {
+          "text":"E. One",
+          "value":35,
+          "sequenceNo":5
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"members-profession",
+      "text":"In their main line of work, are any household members administrators or heads/leaders of government, agencies, organizations, or state businesses, highly skilled specialists/professionals, skilled technicians, or white-collar employees?",
+      "description":null,
+      "sequenceNo":2,
+      "responseDatas":
+      [
+        {
+          "text":"A. No",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Yes",
+          "value":5,
+          "sequenceNo":2
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"residence-area",
+      "text":"What is the total area of the residence in meters squared? ",
+      "description":null,
+      "sequenceNo":3,
+      "responseDatas":
+      [
+        {
+          "text":"A. 24 or less",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. 25 to 39",
+          "value":3,
+          "sequenceNo":2
+        },
+        {
+          "text":"C. 40 to 59",
+          "value":4,
+          "sequenceNo":3
+        },
+        {
+          "text":"D. 60 to 99",
+          "value":6,
+          "sequenceNo":4
+        },
+        {
+          "text":"E. 100 or more",
+          "value":8,
+          "sequenceNo":5
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"source-hot-water",
+      "text":"What is the source of hot water for the residence?",
+      "description":null,
+      "sequenceNo":4,
+      "responseDatas":
+      [
+        {
+          "text":"A. None",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Individual water heater",
+          "value":4,
+          "sequenceNo":2
+        },
+        {
+          "text":"C. Centralized",
+          "value":6,
+          "sequenceNo":3
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"color-tv-household",
+      "text":"How many color televisions does the household own?",
+      "description":null,
+      "sequenceNo":5,
+      "responseDatas":
+      [
+        {
+          "text":"A. None",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. One",
+          "value":3,
+          "sequenceNo":2
+        },
+        {
+          "text":"C. Two or more",
+          "value":7,
+          "sequenceNo":3
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"DVD-household",
+      "text":"How many VCRs and DVDs does the household own?",
+      "description":null,
+      "sequenceNo":6,
+      "responseDatas":
+      [
+        {
+          "text":"A. None",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. One",
+          "value":3,
+          "sequenceNo":2
+        },
+        {
+          "text":"C. Two or more",
+          "value":7,
+          "sequenceNo":3
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"microwave-household",
+      "text":"Does the household own a microwave?",
+      "description":null,
+      "sequenceNo":7,
+      "responseDatas":
+      [
+        {
+          "text":"A. No",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Yes",
+          "value":2,
+          "sequenceNo":2
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"household-PC",
+      "text":"Does the household own a personal computer?",
+      "description":null,
+      "sequenceNo":8,
+      "responseDatas":
+      [
+        {
+          "text":"A. No",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Yes",
+          "value":4,
+          "sequenceNo":2
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"household-telephone",
+      "text":"How many land-line and cellular telephones does the household own?",
+      "description":null,
+      "sequenceNo":9,
+      "responseDatas":
+      [
+        {
+          "text":"A. None",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. One or more land-lines, and no cellular",
+          "value":6,
+          "sequenceNo":2
+        },
+        {
+          "text":"C. No land-lines, and one cellular",
+          "value":10,
+          "sequenceNo":3
+        },
+        {
+          "text":"D. One or more land-lines, and one cellular",
+          "value":13,
+          "sequenceNo":4
+        },
+        {
+          "text":"E. No land-lines, and two or more cellular",
+          "value":15,
+          "sequenceNo":5
+        },
+        {
+          "text":"F. One or more land-lines, and two cellular",
+          "value":16,
+          "sequenceNo":6
+        },
+        {
+          "text":"G. One or more land-lines, and three or more cellular",
+          "value":21,
+          "sequenceNo":7
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"household-automobile",
+      "text":"Does the household own an automobile?",
+      "description":null,
+      "sequenceNo":10,
+      "responseDatas":
+      [
+        {
+          "text":"A. No",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Yes",
+          "value":5,
+          "sequenceNo":2
+        }
+      ]
+    }
+  ]
+}
