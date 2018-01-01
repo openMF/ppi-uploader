@@ -1,0 +1,262 @@
+{
+  "key":"ppi-namibia-2009",
+  "name":"PPI Survey for Namibia, version 2009",
+  "description":null,
+  "countryCode":"NA",
+  "validFrom":null,
+  "validTo":null,
+  "componentDatas": null,
+  "questionDatas":
+  [
+    {
+      "componentKey":null,
+      "key":"household-microwave-vehicle",
+      "text":"Does the household have only one member, or own a microwave oven, or own a motor vehicle?",
+      "description":null,
+      "sequenceNo":1,
+      "responseDatas":
+      [
+        {
+          "text":"A. No",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Yes",
+          "value":100,
+          "sequenceNo":2
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"household-members",
+      "text":"How many members does the household have?",
+      "description":null,
+      "sequenceNo":2,
+      "responseDatas":
+      [
+        {
+          "text":"A. Eight or more",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Seven",
+          "value":4,
+          "sequenceNo":2
+        },
+        {
+          "text":"C. Six",
+          "value":10,
+          "sequenceNo":3
+        },
+        {
+          "text":"D. Five",
+          "value":13,
+          "sequenceNo":4
+        },
+        {
+          "text":"E. Four",
+          "value":20,
+          "sequenceNo":5
+        },
+        {
+          "text":"F. Three",
+          "value":27,
+          "sequenceNo":6
+        },
+        {
+          "text":"G. One or two",
+          "value":35,
+          "sequenceNo":7
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"female-highest-level",
+      "text":"What is the highest level of education that the female head/spouse has completed?",
+      "description":null,
+      "sequenceNo":3,
+      "responseDatas":
+      [
+        {
+          "text":"A. None",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Primary school",
+          "value":2,
+          "sequenceNo":2
+        },
+        {
+          "text":"C. No female head/spouse",
+          "value":4,
+          "sequenceNo":3
+        },
+        {
+          "text":"D. Junior secondary (high) school",
+          "value":6,
+          "sequenceNo":4
+        },
+        {
+          "text":"E. Senior secondary (high) school or more",
+          "value":14,
+          "sequenceNo":5
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"floor-construction-materials",
+      "text":"What is the main material used for the floor of the main dwelling?",
+      "description":null,
+      "sequenceNo":4,
+      "responseDatas":
+      [
+        {
+          "text":"A. Mud, clay, cow dung, or sand",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Concrete, wood, or other",
+          "value":7,
+          "sequenceNo":2
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"dwelling-rooms",
+      "text":"How many rooms in the dwelling are used for sleeping?",
+      "description":null,
+      "sequenceNo":5,
+      "responseDatas":
+      [
+        {
+          "text":"A. One",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Two",
+          "value":6,
+          "sequenceNo":2
+        },
+        {
+          "text":"C. Three or more",
+          "value":11,
+          "sequenceNo":3
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"main-energy-source",
+      "text":"What is the main source of energy/fuel for cooking?",
+      "description":null,
+      "sequenceNo":6,
+      "responseDatas":
+      [
+        {
+          "text":"Wood, wood charcoal, coal, animal dung, solar energy, none, or other",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Paraffin, gas, or electricity",
+          "value":2,
+          "sequenceNo":2
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"household-freezer",
+      "text":"Does the household own a refrigerator or freezer?",
+      "description":null,
+      "sequenceNo":7,
+      "responseDatas":
+      [
+        {
+          "text":"A. No",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Yes",
+          "value":5,
+          "sequenceNo":2
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"household-television",
+      "text":"Does the household own a television?",
+      "description":null,
+      "sequenceNo":8,
+      "responseDatas":
+      [
+        {
+          "text":"A. No",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Yes",
+          "value":4,
+          "sequenceNo":2
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"household-cell-landline",
+      "text":"Does the household own a cell telephone and/or a landline telephone?",
+      "description":null,
+      "sequenceNo":9,
+      "responseDatas":
+      [
+        {
+          "text":"A. No",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Only cell or only landline",
+          "value":4,
+          "sequenceNo":2
+        },
+        {
+          "text":"C. Both",
+          "value":8,
+          "sequenceNo":3
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"household-cattle-donkeys-horses",
+      "text":"Does the household own cattle, donkeys/mules, or horses?",
+      "description":null,
+      "sequenceNo":10,
+      "responseDatas":
+      [
+        {
+          "text":"A. No",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Yes",
+          "value":10,
+          "sequenceNo":2
+        }
+      ]
+    }
+  ]
+}

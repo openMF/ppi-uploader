@@ -1,0 +1,287 @@
+{
+  "key":"ppi-nepal-2013",
+  "name":"PPI Survey for Nepal, version 2013",
+  "description":null,
+  "countryCode":"NA",
+  "validFrom":null,
+  "validTo":null,
+  "componentDatas": null,
+  "questionDatas":
+  [
+    {
+      "componentKey":null,
+      "key":"household-members",
+      "text":"How many household members are there?",
+      "description":null,
+      "sequenceNo":1,
+      "responseDatas":
+      [
+        {
+          "text":"A. Eight or more",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Seven",
+          "value":6,
+          "sequenceNo":2
+        },
+        {
+          "text":"C. Six",
+          "value":8,
+          "sequenceNo":3
+        },
+        {
+          "text":"D. Five",
+          "value":12,
+          "sequenceNo":4
+        },
+        {
+          "text":"E. Four",
+          "value":19,
+          "sequenceNo":5
+        },
+        {
+          "text":"F. Three",
+          "value":30,
+          "sequenceNo":6
+        },
+        {
+          "text":"G. One or two",
+          "value":34,
+          "sequenceNo":7
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"male-job-type",
+      "text":"In what type of job did the male head/spouse work the most hours in the past seven days?",
+      "description":null,
+      "sequenceNo":2,
+      "responseDatas":
+      [
+        {
+          "text":"A. No male head/spouse",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Does not work, or paid wages on a daily basis or contract/piece-rate in agriculture",
+          "value":0,
+          "sequenceNo":2
+        },
+        {
+          "text":"C. Paid wages on a daily basis or contract/piece-rate in non-agriculture",
+          "value":4,
+          "sequenceNo":3
+        },
+        {
+          "text":"D. Self-employed in agriculture",
+          "value":5,
+          "sequenceNo":4
+        },
+        {
+          "text":"E. Self-employed in non-agriculture",
+          "value":7,
+          "sequenceNo":5
+        },
+        {
+          "text":"F. Paid wages on a long-term basis in agriculture or non-agriculture",
+          "value":8,
+          "sequenceNo":6
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"residence-bedrooms",
+      "text":"How many bedrooms does your residence have?",
+      "description":null,
+      "sequenceNo":3,
+      "responseDatas":
+      [
+        {
+          "text":"A. None",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. One",
+          "value":2,
+          "sequenceNo":2
+        },
+        {
+          "text":"C. Two",
+          "value":7,
+          "sequenceNo":3
+        },
+        {
+          "text":"D. Three or more",
+          "value":11,
+          "sequenceNo":4
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"wall-material",
+      "text":"Main construction material of outside walls?",
+      "description":null,
+      "sequenceNo":4,
+      "responseDatas":
+      [
+        {
+          "text":"A. Bamboo/leaves, unbaked bricks, wood, mud-bonded bricks/stones, or no outside walls",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Cement-bonded bricks/stones, or other material",
+          "value":6,
+          "sequenceNo":2
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"roof-material",
+      "text":"Main material roof is made of?",
+      "description":null,
+      "sequenceNo":5,
+      "responseDatas":
+      [
+        {
+          "text":"A. Straw/thatch, or earth/mud",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Tiles/slate, or other",
+          "value":2,
+          "sequenceNo":2
+        },
+        {
+          "text":"C. Wood/planks, or galvanized iron",
+          "value":6,
+          "sequenceNo":3
+        },
+        {
+          "text":"D. Concrete/cement",
+          "value":7,
+          "sequenceNo":4
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"residence-kitchen",
+      "text":"Does your residence have a kitchen?",
+      "description":null,
+      "sequenceNo":6,
+      "responseDatas":
+      [
+        {
+          "text":"A. No",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Yes",
+          "value":5,
+          "sequenceNo":2
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"household-stove-type",
+      "text":"What type of stove does your household mainly use for cooking?",
+      "description":null,
+      "sequenceNo":7,
+      "responseDatas":
+      [
+        {
+          "text":"A. Open fireplace, mud, kerosene stove, or other",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Gas stove, or smokeless oven",
+          "value":3,
+          "sequenceNo":2
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"household-toilet-type",
+      "text":"What type of toilet is used by your household?",
+      "description":null,
+      "sequenceNo":8,
+      "responseDatas":
+      [
+        {
+          "text":"A. None, household non-flush, or communal latrine",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Household flush",
+          "value":6,
+          "sequenceNo":2
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"telephone-amount",
+      "text":"How many telephone sets/cordless/mobile does your household own?",
+      "description":null,
+      "sequenceNo":9,
+      "responseDatas":
+      [
+        {
+          "text":"A. None",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. One",
+          "value":8,
+          "sequenceNo":2
+        },
+        {
+          "text":"B. Two or more",
+          "value":14,
+          "sequenceNo":3
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"household-agricultural-land",
+      "text":"Does your household own, sharecrop-in, or mortgage-in any agricultural land? If yes, is any of it irrigated?",
+      "description":null,
+      "sequenceNo":10,
+      "responseDatas":
+      [
+        {
+          "text":"A. No",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Yes, but none irrigated",
+          "value":3,
+          "sequenceNo":2
+        },
+        {
+          "text":"C. Yes, and some irrigated",
+          "value":6,
+          "sequenceNo":3
+        }
+      ]
+    }
+  ]
+}

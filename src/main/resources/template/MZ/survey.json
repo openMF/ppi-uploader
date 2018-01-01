@@ -1,0 +1,272 @@
+{
+  "key":"ppi-mozambique-2008",
+  "name":"PPI Survey for Mozambique, version 2008",
+  "description":null,
+  "countryCode":"MZ",
+  "validFrom":null,
+  "validTo":null,
+  "componentDatas": null,
+  "questionDatas":
+  [
+    {
+      "componentKey":null,
+      "key":"household-members",
+      "text":"How many members does the household have?",
+      "description":null,
+      "sequenceNo":1,
+      "responseDatas":
+      [
+        {
+          "text":"A. Eight or more",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Seven",
+          "value":2,
+          "sequenceNo":2
+        },
+        {
+          "text":"C. Six",
+          "value":7,
+          "sequenceNo":3
+        },
+        {
+          "text":"D. Five",
+          "value":9,
+          "sequenceNo":4
+        },
+        {
+          "text":"E. Four",
+          "value":15,
+          "sequenceNo":5
+        },
+        {
+          "text":"F. Three",
+          "value":23,
+          "sequenceNo":6
+        },
+        {
+          "text":"G. Two",
+          "value":30,
+          "sequenceNo":7
+        },
+        {
+          "text":"H. One",
+          "value":34,
+          "sequenceNo":8
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"floor-construction-materials",
+      "text":"What is the main material of the floor of the residence (excluding kitchen and bathrooms)?",
+      "description":null,
+      "sequenceNo":2,
+      "responseDatas":
+      [
+        {
+          "text":"A. Uncovered, or other ",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Packed earth, wood/parquet, marble/granite, cement, or mosaic/tile",
+          "value":6,
+          "sequenceNo":2
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"walls-construction-materials",
+      "text":"What is the main material of the walls of the residence?",
+      "description":null,
+      "sequenceNo":3,
+      "responseDatas":
+      [
+        {
+          "text":"A. Reeds/sticks/bamboo/palm, wood or metal sheets, tin/cardboard/paper/ sacks, or other",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Adobe blocks, wattle and daub, cement blocks, or bricks",
+          "value":7,
+          "sequenceNo":2
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"house-toilet-arrangement",
+      "text":"What toilet arrangement does the household use in its residence?",
+      "description":null,
+      "sequenceNo":4,
+      "responseDatas":
+      [
+        {
+          "text":"A. None, or other",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Latrine of any kind",
+          "value":6,
+          "sequenceNo":2
+        },
+        {
+          "text":"C. Toilet connected to a septic tank",
+          "value":14,
+          "sequenceNo":3
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"energy-source",
+      "text":"What is the main source of energy for lighting in the residence?",
+      "description":null,
+      "sequenceNo":5,
+      "responseDatas":
+      [
+        {
+          "text":"A. Firewood, or batteries",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. LPG, oil/paraffin/kerosene, or candles",
+          "value":1,
+          "sequenceNo":2
+        },
+        {
+          "text":"C. Other",
+          "value":3,
+          "sequenceNo":3
+        },
+        {
+          "text":"D. Electricity, generator, or solar panel",
+          "value":5,
+          "sequenceNo":4
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"household-clothes-iron",
+      "text":"Does the household have a non-electric or electric clothes iron?",
+      "description":null,
+      "sequenceNo":6,
+      "responseDatas":
+      [
+        {
+          "text":"A. No",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Yes",
+          "value":3,
+          "sequenceNo":2
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"household-clock",
+      "text":"Does the household have a clock (wall, wrist, or pocket)?",
+      "description":null,
+      "sequenceNo":7,
+      "responseDatas":
+      [
+        {
+          "text":"A. No",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Yes",
+          "value":4,
+          "sequenceNo":2
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"household-radio-player",
+      "text":"Does the household have a radio, stereo system, or cassette player?",
+      "description":null,
+      "sequenceNo":8,
+      "responseDatas":
+      [
+        {
+          "text":"A. No",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Radio only",
+          "value":5,
+          "sequenceNo":2
+        },
+        {
+          "text":"C. Stereo system or cassette player (regardless of radio)",
+          "value":7,
+          "sequenceNo":3
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"household-bicycle-motorcycle-car",
+      "text":"Does the household have a bicycle, motorcycle, or car?",
+      "description":null,
+      "sequenceNo":9,
+      "responseDatas":
+      [
+        {
+          "text":"A. No",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. Bicycle only",
+          "value":5,
+          "sequenceNo":2
+        },
+        {
+          "text":"C. Motorcycle or car (regardless of bicycle)",
+          "value":15,
+          "sequenceNo":3
+        }
+      ]
+    },
+    {
+      "componentKey":null,
+      "key":"household-beds",
+      "text":"How many beds does the household have (single, double, bunk beds, or for children)?",
+      "description":null,
+      "sequenceNo":10,
+      "responseDatas":
+      [
+        {
+          "text":"A. None",
+          "value":0,
+          "sequenceNo":1
+        },
+        {
+          "text":"B. One",
+          "value":2,
+          "sequenceNo":2
+        },
+        {
+          "text":"C. Two or more",
+          "value":5,
+          "sequenceNo":3
+        }
+      ]
+    }
+  ]
+}
