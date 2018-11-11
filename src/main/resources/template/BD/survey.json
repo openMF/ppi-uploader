@@ -1,0 +1,248 @@
+// Based off of data fetched from the ppi website on 11/11/2018
+{
+  "key":"ppi-bangladesh-2013",
+  "name":"PPI Survey for Bangladesh, version 2013",
+  "description": null,
+  "countryCode": "BD",
+  "validFrom": null,
+  "validTo": null,
+  "componentDatas": null,
+  "questionDatas":
+  [
+  	{
+      "componentKey": null,
+      "key": "12yo-under-members",
+      "text": "How many household members are 12-years-old or younger?",
+      "description": null,
+      "sequenceNo": 1,
+      "responseDatas":
+      [
+        {
+          "text": "A. Three or more",
+          "value": 0,
+          "sequenceNo": 1
+        },
+        {
+          "text": "B. Two",
+          "value": 10,
+          "sequenceNo": 2
+        },
+        {
+          "text": "C. One",
+          "value": 16,
+          "sequenceNo": 3
+        },
+        {
+          "text": "D. None",
+          "value": 32,
+          "sequenceNo": 4
+        }
+      ]
+    },
+    {
+      "componentKey": null,
+      "key": "6yo-to-12yo-members-school",
+      "text": "Do all household members ages 6-to-12 currently attend a school/educational institution?",
+      "description": null,
+      "sequenceNo": 2,
+      "responseDatas":
+      [
+        {
+          "text": "A. No",
+          "value": 0,
+          "sequenceNo": 1
+        },
+        {
+          "text": "B. No one 6-to-12",
+          "value": 0,
+          "sequenceNo": 2
+        },
+        {
+          "text": "C. Yes",
+          "value": 6,
+          "sequenceNo": 3
+        }
+      ]
+    },
+    {
+      "componentKey": null,
+      "key": "daily-work-members",
+      "text": "In teh past year, did any household member ever do work for which he/she was paid on a daily basis?",
+      "description": null,
+      "sequenceNo": 3,
+      "responseDatas":
+      [
+        {
+          "text": "A. Yes",
+          "value": 0,
+          "sequenceNo": 1
+        },
+        {
+          "text": "B. No",
+          "value": 8,
+          "sequenceNo": 2
+        }
+      ]
+    },
+    {
+      "componentKey": null,
+      "key": "rooms",
+      "text": "How many rooms does your household occupy (excluding rooms used for business)?",
+      "description": null,
+      "sequenceNo": 4,
+      "responseDatas":
+      [
+        {
+          "text": "A. One",
+          "value": 0,
+          "sequenceNo": 1
+        },
+        {
+          "text": "B. Two",
+          "value": 3,
+          "sequenceNo": 2
+        },
+        {
+          "text": "C. Three or more",
+          "value": 5,
+          "sequenceNo": 3
+        }
+      ]
+    },
+    {
+      "componentKey": null,
+      "key": "wall-material",
+      "text": "What is the main construction material of the walls of the main room?",
+      "description": null,
+      "sequenceNo": 5,
+      "responseDatas":
+      [
+        {
+          "text": "A. Hemp/hay/bamboo, or other",
+          "value": 0,
+          "sequenceNo": 1
+        },
+        {
+          "text": "B. Mud brick, or C.I. sheet/wood",
+          "value": 2,
+          "sequenceNo": 2
+        },
+        {
+          "text": "C. Brick/cement",
+          "value": 9,
+          "sequenceNo": 3
+        }
+      ]
+    },
+    {
+      "componentKey": null,
+      "key": "tv",
+      "text": "Does the household own any televisions?",
+      "description": null,
+      "sequenceNo": 6,
+      "responseDatas":
+      [
+        {
+          "text": "A. No",
+          "value": 0,
+          "sequenceNo": 1
+        },
+        {
+          "text": "B. Yes",
+          "value": 7,
+          "sequenceNo": 2
+        }
+      ]
+    },
+    {
+      "componentKey": null,
+      "key": "fans",
+      "text": "How many fans does the household own?",
+      "description": null,
+      "sequenceNo": 7,
+      "responseDatas":
+      [
+        {
+          "text": "A. None",
+          "value": 0,
+          "sequenceNo": 1
+        },
+        {
+          "text": "B. One",
+          "value": 4,
+          "sequenceNo": 2
+        },
+        {
+          "text": "C. Two or more",
+          "value": 7,
+          "sequenceNo": 3
+        }
+      ]
+    },
+    {
+      "componentKey": null,
+      "key": "phones",
+      "text": "How many mobile phones does the household own?",
+      "description": null,
+      "sequenceNo": 8,
+      "responseDatas":
+      [
+        {
+          "text": "A. None",
+          "value": 0,
+          "sequenceNo": 1
+        },
+        {
+          "text": "B. One",
+          "value": 8,
+          "sequenceNo": 2
+        },
+        {
+          "text": "C. Two or more",
+          "value": 15,
+          "sequenceNo": 3
+        }
+      ]
+    },
+    {
+      "componentKey": null,
+      "key": "vehicle",
+      "text": "Does the household own any bicycles, motorcycle/scooters, or motor cars etc.?",
+      "description": null,
+      "sequenceNo": 9,
+      "responseDatas":
+      [
+        {
+          "text": "A. No",
+          "value": 0,
+          "sequenceNo": 1
+        },
+        {
+          "text": "B. Yes",
+          "value": 4,
+          "sequenceNo": 2
+        }
+      ]
+    },
+    {
+      "componentKey": null,
+      "key": "agricultural-land",
+      "text": "Does the household own (or rent/sharecrop/mortgage in or out) 51 or more decimals or cultivable agricultural land (excluding uncultivable land and dwelling-house/homestead land)?",
+      "description": null,
+      "sequenceNo": 10,
+      "responseDatas":
+      [
+        {
+          "text": "A. No",
+          "value": 0,
+          "sequenceNo": 1
+        },
+        {
+          "text": "B. Yes",
+          "value": 7,
+          "sequenceNo": 2
+        }
+      ]
+    }
+  ]
+}
