@@ -1,0 +1,303 @@
+// Based off of data fetched from the ppi website on 11/11/2018
+{
+  "key":"ppi-benin-2012",
+  "name":"PPI Survey for Benin, version 2012",
+  "description": null,
+  "countryCode": "BJ",
+  "validFrom": null,
+  "validTo": null,
+  "componentDatas": null,
+  "questionDatas":
+  [
+  	{
+      "componentKey": null,
+      "key": "department",
+      "text": "Department (as observed)",
+      "description": null,
+      "sequenceNo": 1,
+      "responseDatas":
+      [
+        {
+          "text": "A. Littoral",
+          "value": 0,
+          "sequenceNo": 1
+        },
+        {
+          "text": "B. Mono",
+          "value": 1,
+          "sequenceNo": 2
+        },
+        {
+          "text": "C. Zou, Atlantique, or Collines",
+          "value": 3,
+          "sequenceNo": 3
+        },
+        {
+          "text": "D. Couffo",
+          "value": 4,
+          "sequenceNo": 4
+        },
+        {
+          "text": "E. Plateau",
+          "value": 7,
+          "sequenceNo": 5
+        },
+        {
+          "text": "F. Oueme",
+          "value": 11,
+          "sequenceNo": 6
+        },
+        {
+          "text": "G. Donga, or Borgou",
+          "value": 12,
+          "sequenceNo": 7
+        },
+        {
+          "text": "H. Alibori",
+          "value": 13,
+          "sequenceNo": 8
+        },
+        {
+          "text": "I. Atakora",
+          "value": 14,
+          "sequenceNo": 9
+        }
+      ]
+    },
+    {
+      "componentKey": null,
+      "key": "wall-material",
+      "text": "Main maetrial of the exterior walls of the main building (as observed)?",
+      "description": null,
+      "sequenceNo": 2,
+      "responseDatas":
+      [
+        {
+          "text": "A. Earth, stone, wood/planks, palm leaves/bamboo, or other",
+          "value": 0,
+          "sequenceNo": 1
+        },
+        {
+          "text": "B. Mud plastered with cement",
+          "value": 1,
+          "sequenceNo": 2
+        },
+        {
+          "text": "C. Bricks",
+          "value": 4,
+          "sequenceNo": 3
+        }
+      ]
+    },
+    {
+      "componentKey": null,
+      "key": "members",
+      "text": "How many household members are there?",
+      "description": null,
+      "sequenceNo": 3,
+      "responseDatas":
+      [
+        {
+          "text": "A. Eight or more",
+          "value": 0,
+          "sequenceNo": 1
+        },
+        {
+          "text": "B. Seven",
+          "value": 6,
+          "sequenceNo": 2
+        },
+        {
+          "text": "C. Six",
+          "value": 10,
+          "sequenceNo": 3
+        },
+        {
+          "text": "D. Five",
+          "value": 14,
+          "sequenceNo": 4
+        },
+        {
+          "text": "E. Four",
+          "value": 20,
+          "sequenceNo": 5
+        },
+        {
+          "text": "F. Three",
+          "value": 30,
+          "sequenceNo": 6
+        },
+        {
+          "text": "G. Two",
+          "value": 40,
+          "sequenceNo": 7
+        },
+        {
+          "text": "H. One",
+          "value": 48,
+          "sequenceNo": 8
+        }
+      ]
+    },
+    {
+      "componentKey": null,
+      "key": "female-frenchlanguage",
+      "text": "Does the female head/spouse know how to read and write with understanding in French?",
+      "description": null,
+      "sequenceNo": 4,
+      "responseDatas":
+      [
+        {
+          "text": "A. No",
+          "value": 0,
+          "sequenceNo": 1
+        },
+        {
+          "text": "B. Yes",
+          "value": 3,
+          "sequenceNo": 2
+        },
+        {
+          "text": "C. There is no female head/spouse",
+          "value": 3,
+          "sequenceNo": 3
+        }
+      ]
+    },
+    {
+      "componentKey": null,
+      "key": "energy-lighting",
+      "text": "What is the main source of energy for lighting in your household?",
+      "description": null,
+      "sequenceNo": 5,
+      "responseDatas":
+      [
+        {
+          "text": "A. Kerosene",
+          "value": 0,
+          "sequenceNo": 1
+        },
+        {
+          "text": "B. Electricity, LPG, oil, solar energy, electric generator (community or private), or other",
+          "value": 4,
+          "sequenceNo": 2
+        }
+      ]
+    },
+    {
+      "componentKey": null,
+      "key": "sleeping-rooms",
+      "text": "Out of all rooms available to your household, how many do household members use for sleeping?",
+      "description": null,
+      "sequenceNo": 6,
+      "responseDatas":
+      [
+        {
+          "text": "A. One",
+          "value": 0,
+          "sequenceNo": 1
+        },
+        {
+          "text": "B. Two",
+          "value": 2,
+          "sequenceNo": 2
+        },
+        {
+          "text": "C. Three or more",
+          "value": 5,
+          "sequenceNo": 3
+        }
+      ]
+    },
+    {
+      "componentKey": null,
+      "key": "fuel-cooking",
+      "text": "What is the main cooking fuel used in your household?",
+      "description": null,
+      "sequenceNo": 7,
+      "responseDatas":
+      [
+        {
+          "text": "A. Firewood, or straw",
+          "value": 0,
+          "sequenceNo": 1
+        },
+        {
+          "text": "B. Charcoal, electricity, LPG, kerosene, or other",
+          "value": 3,
+          "sequenceNo": 2
+        }
+      ]
+    },
+    {
+      "componentKey": null,
+      "key": "vehicle",
+      "text": "Does your household have a motorcycle, scooter, or automobile?",
+      "description": null,
+      "sequenceNo": 8,
+      "responseDatas":
+      [
+        {
+          "text": "A. No",
+          "value": 0,
+          "sequenceNo": 1
+        },
+        {
+          "text": "B. Yes",
+          "value": 5,
+          "sequenceNo": 2
+        }
+      ]
+    },
+    {
+      "componentKey": null,
+      "key": "phones",
+      "text": "How many mobile telephones does your household have?",
+      "description": null,
+      "sequenceNo": 9,
+      "responseDatas":
+      [
+        {
+          "text": "A. None",
+          "value": 0,
+          "sequenceNo": 1
+        },
+        {
+          "text": "B. One",
+          "value": 2,
+          "sequenceNo": 2
+        },
+        {
+          "text": "C. Two or more",
+          "value": 9,
+          "sequenceNo": 3
+        }
+      ]
+    },
+    {
+      "componentKey": null,
+      "key": "owned-land",
+      "text": "Has the household owned (including as an inheritance) or rented any sub-divided, developed, or irrigated land in the past 12 months?",
+      "description": null,
+      "sequenceNo": 10,
+      "responseDatas":
+      [
+        {
+          "text": "A. Does not own etc.",
+          "value": 0,
+          "sequenceNo": 1
+        },
+        {
+          "text": "B. Does not own etc., but land is not sub-divided, developed, or irrigated",
+          "value": 2,
+          "sequenceNo": 2
+        },
+        {
+          "text": "C. Does not own etc., and some land is sub-divided, developed, or irrigated",
+          "value": 5,
+          "sequenceNo": 3
+        }
+      ]
+    }
+  ]
+}

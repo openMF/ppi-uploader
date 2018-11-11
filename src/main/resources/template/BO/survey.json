@@ -1,0 +1,258 @@
+// Based off of data fetched from the ppi website on 11/11/2018
+{
+  "key":"ppi-bolivia-2013",
+  "name":"PPI Survey for Bolivia, version 2013",
+  "description": null,
+  "countryCode": "BO",
+  "validFrom": null,
+  "validTo": null,
+  "componentDatas": null,
+  "questionDatas":
+  [
+  	{
+      "componentKey": null,
+      "key": "members",
+      "text": "How many members does the household have?",
+      "description": null,
+      "sequenceNo": 1,
+      "responseDatas":
+      [
+        {
+          "text": "A. Five or more",
+          "value": 0,
+          "sequenceNo": 1
+        },
+        {
+          "text": "B. Four",
+          "value": 9,
+          "sequenceNo": 2
+        },
+        {
+          "text": "C. Three",
+          "value": 14,
+          "sequenceNo": 3
+        },
+        {
+          "text": "D. Two",
+          "value": 20,
+          "sequenceNo": 4
+        },
+        {
+          "text": "E. One",
+          "value": 23,
+          "sequenceNo": 5
+        }
+      ]
+    },
+    {
+      "componentKey": null,
+      "key": "male-work-hours",
+      "text": "In the past calendar week, did the male head/spouse work for at least one hour?",
+      "description": null,
+      "sequenceNo": 2,
+      "responseDatas":
+      [
+        {
+          "text": "A. No",
+          "value": 0,
+          "sequenceNo": 1
+        },
+        {
+          "text": "B. No male head/spouse",
+          "value": 6,
+          "sequenceNo": 2
+        },
+        {
+          "text": "C. Yes",
+          "value": 10,
+          "sequenceNo": 3
+        }
+      ]
+    },
+    {
+      "componentKey": null,
+      "key": "female-language",
+      "text": "What is the mother tongue of the female head/spouse?",
+      "description": null,
+      "sequenceNo": 3,
+      "responseDatas":
+      [
+        {
+          "text": "A. Something other than Spanish",
+          "value": 0,
+          "sequenceNo": 1
+        },
+        {
+          "text": "B. Spanish",
+          "value": 6,
+          "sequenceNo": 2
+        },
+        {
+          "text": "C. No female head/spouse",
+          "value": 10,
+          "sequenceNo": 3
+        }
+      ]
+    },
+    {
+      "componentKey": null,
+      "key": "rooms",
+      "text": "How many rooms does the household occupy, not counting bathrooms, kitchens, laundry rooms, garages, storage rooms, or rooms used for business?",
+      "description": null,
+      "sequenceNo": 4,
+      "responseDatas":
+      [
+        {
+          "text": "A. One or two",
+          "value": 0,
+          "sequenceNo": 1
+        },
+        {
+          "text": "B. Three",
+          "value": 2,
+          "sequenceNo": 2
+        },
+        {
+          "text": "C. Four",
+          "value": 5,
+          "sequenceNo": 3
+        },
+        {
+          "text": "D. Five or more",
+          "value": 7,
+          "sequenceNo": 4
+        }
+      ]
+    },
+    {
+      "componentKey": null,
+      "key": "floor-material",
+      "text": "What is the main construction material of the floors of the residence?",
+      "description": null,
+      "sequenceNo": 5,
+      "responseDatas":
+      [
+        {
+          "text": "A. Dirt, or other",
+          "value": 0,
+          "sequenceNo": 1
+        },
+        {
+          "text": "B. Bricks, or cement",
+          "value": 5,
+          "sequenceNo": 2
+        },
+        {
+          "text": "C. Wood planks, hardwood floors or parquet, tile (mosaic, stone, or ceramic), or rug or carpet",
+          "value": 11,
+          "sequenceNo": 3
+        }
+      ]
+    },
+    {
+      "componentKey": null,
+      "key": "toilet",
+      "text": "What type of toilet arrangement do the members of the household usually use?",
+      "description": null,
+      "sequenceNo": 6,
+      "responseDatas":
+      [
+        {
+          "text": "A. None/bush/field",
+          "value": 0,
+          "sequenceNo": 1
+        },
+        {
+          "text": "B. Open-pit latrine (no solid floor), latrine with solid floor, composting toilet, flush toilet or flush latrine, or other",
+          "value": 5,
+          "sequenceNo": 2
+        }
+      ]
+    },
+    {
+      "componentKey": null,
+      "key": "fuel-cooking",
+      "text": "What is the main fuel or energy source used for cooking?",
+      "description": null,
+      "sequenceNo": 7,
+      "responseDatas":
+      [
+        {
+          "text": "A. Firewood, dung/manue, taquia, kerosene, or other",
+          "value": 0,
+          "sequenceNo": 1
+        },
+        {
+          "text": "B. LPG from a cylinder",
+          "value": 7,
+          "sequenceNo": 2
+        },
+        {
+          "text": "C. Piped-in natural gas, electricity, or does not cook",
+          "value": 12,
+          "sequenceNo": 3
+        }
+      ]
+    },
+    {
+      "componentKey": null,
+      "key": "fridge",
+      "text": "Does the household own, posses, or have the use of a refrigerator or freezer?",
+      "description": null,
+      "sequenceNo": 8,
+      "responseDatas":
+      [
+        {
+          "text": "A. No",
+          "value": 0,
+          "sequenceNo": 1
+        },
+        {
+          "text": "B. Yes",
+          "value": 7,
+          "sequenceNo": 2
+        }
+      ]
+    },
+    {
+      "componentKey": null,
+      "key": "tv",
+      "text": "Does the household own, posses, or have the use of a television?",
+      "description": null,
+      "sequenceNo": 9,
+      "responseDatas":
+      [
+        {
+          "text": "A. No",
+          "value": 0,
+          "sequenceNo": 1
+        },
+        {
+          "text": "B. Yes",
+          "value": 9,
+          "sequenceNo": 2
+        }
+      ]
+    },
+    {
+      "componentKey": null,
+      "key": "motorcycle",
+      "text": "Does the household own, posses, or have the use of a motorcycle (for its personal use) or an automobile (for its personal use)?",
+      "description": null,
+      "sequenceNo": 10,
+      "responseDatas":
+      [
+        {
+          "text": "A. No",
+          "value": 0,
+          "sequenceNo": 1
+        },
+        {
+          "text": "B. Yes",
+          "value": 6,
+          "sequenceNo": 2
+        }
+      ]
+    }
+  ]
+}
